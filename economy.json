@@ -2704,7 +2704,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 871288,
+      "wallet": 882954,
       "bank": 0,
       "cooldowns": {
         "work": 1783468790688,
@@ -2853,7 +2853,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 18253,
+      "exp": 18586,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -10816,7 +10816,7 @@
       }
     },
     "277304580288729@lid": {
-      "wallet": 676632,
+      "wallet": 688298,
       "bank": 1262868,
       "cooldowns": {
         "work": 1783727846799,
@@ -10949,7 +10949,7 @@
         "claimed": false
       },
       "level": 14,
-      "exp": 12247,
+      "exp": 12580,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -11321,7 +11321,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 975173,
+      "wallet": 986839,
       "bank": 2259030,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11454,7 +11454,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 3114,
+      "exp": 3447,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -13056,19 +13056,6 @@
       ],
       "maxMembers": 2,
       "created": 1784053740296,
-      "status": "waiting"
-    },
-    "party_1784062549037": {
-      "id": "party_1784062549037",
-      "type": "3",
-      "leader": "264437378322556@lid",
-      "members": [
-        "264437378322556@lid",
-        "91384740589687@lid",
-        "277304580288729@lid"
-      ],
-      "maxMembers": 3,
-      "created": 1784062549037,
       "status": "waiting"
     }
   },

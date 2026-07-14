@@ -13097,6 +13097,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 40.51,
+      "gold": 31.64,
+      "crypto": 76.62,
+      "energy": 30.59,
+      "brazino777": 148.52,
+      "fatalmodel": 3580.44
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 46.32,
       "gold": 28.75,
       "crypto": 88.56,
@@ -13104,22 +13113,13 @@
       "brazino777": 133.84,
       "fatalmodel": 3658.16
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 43.17,
-      "gold": 27.81,
-      "crypto": 93.34,
-      "energy": 27,
-      "brazino777": 119.12,
-      "fatalmodel": 4146.77
-    },
     "trends": {
-      "tech": "Baixa 📉",
-      "gold": "Alta 📈",
-      "crypto": "Baixa 📉",
-      "energy": "Alta 📈",
-      "brazino777": "Alta 📈",
-      "fatalmodel": "Baixa 📉"
+      "tech": "Estável 🔹",
+      "gold": "Baixa 📉",
+      "crypto": "Alta 📈",
+      "energy": "Estável 🔹",
+      "brazino777": "Estável 🔹",
+      "fatalmodel": "Alta 📈"
     }
   },
   "dungeonParties": {

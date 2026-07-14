@@ -6124,7 +6124,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 1076,
+      "wallet": 1566,
       "bank": 2534924,
       "cooldowns": {
         "daily": 1784033104182,
@@ -6134,7 +6134,7 @@
         "cook": 1782846656129,
         "crime": 1783481043855,
         "mine": 1784027840141,
-        "trafico": 1784028125038,
+        "trafico": 1784048268498,
         "hunt": 1783969123259,
         "explore": 1784028145937,
         "roleta": 1783549177560
@@ -6257,7 +6257,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 9657,
+      "exp": 9882,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": null,
@@ -6304,7 +6304,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 8
+          "xp": 9
         }
       },
       "properties": {},
@@ -6370,9 +6370,9 @@
         "exploreCount": 27,
         "totalHunt": 8,
         "huntCount": 8,
-        "totalTrafico": 7,
-        "traficoCount": 7,
-        "totalCrimes": 7
+        "totalTrafico": 8,
+        "traficoCount": 8,
+        "totalCrimes": 8
       },
       "farm": {
         "plots": [],

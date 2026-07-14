@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 128891,
+      "wallet": 129998,
       "bank": 5020000,
       "cooldowns": {
         "work": 1783782773447,
@@ -541,7 +541,7 @@
         "crimesair": 1783471363697,
         "blackjack": 1783572168376,
         "cook": 1783751803038,
-        "trafico": 1783997741288
+        "trafico": 1784046993589
       },
       "inventory": {
         "espada_diamante": 1,
@@ -586,25 +586,25 @@
         "diamante": 1
       },
       "challenge": {
-        "expiresAt": 1783997999999,
+        "expiresAt": 1784073599999,
         "tasks": [
           {
-            "type": "mine",
-            "target": 7,
-            "progress": 7
+            "type": "crimeSuccess",
+            "target": 6,
+            "progress": 0
           },
           {
-            "type": "fish",
+            "type": "hunt",
             "target": 4,
-            "progress": 4
+            "progress": 0
           },
           {
             "type": "explore",
-            "target": 6,
-            "progress": 6
+            "target": 7,
+            "progress": 0
           }
         ],
-        "reward": 423,
+        "reward": 389,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -667,7 +667,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 21700,
+      "exp": 22075,
       "prestige": 0,
       "classe": "paladino",
       "clan": "clan_5",
@@ -727,7 +727,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 35
+          "xp": 36
         }
       },
       "properties": {},
@@ -802,14 +802,14 @@
         "totalExplore": 73,
         "totalBattles": 0,
         "totalWins": 0,
-        "totalCrimes": 35,
+        "totalCrimes": 36,
         "workCount": 54,
         "exploreCount": 73,
         "fishCount": 50,
         "mineCount": 61,
         "huntCount": 46,
-        "totalTrafico": 34,
-        "traficoCount": 34
+        "totalTrafico": 35,
+        "traficoCount": 35
       },
       "ingredients": {
         "peixe": 152,
@@ -837,7 +837,7 @@
         "lastClaim": 1783963919776,
         "record": 6
       },
-      "trafico": "ldfpcc",
+      "trafico": "grtpcc",
       "lastDungeon": 1783982505417,
       "classeBonuses": {
         "defense": 25,

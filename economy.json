@@ -7578,7 +7578,7 @@
       }
     },
     "253257075150984@lid": {
-      "wallet": 52702,
+      "wallet": 52602,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
@@ -7785,12 +7785,12 @@
           "level": 2,
           "exp": 0,
           "evolutions": 0,
-          "hunger": 73,
-          "mood": 97,
+          "hunger": 100,
+          "mood": 100,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784047478589,
+          "lastUpdate": 1784047490406,
           "lastTrain": 1784047478590,
           "cost": 15000
         }

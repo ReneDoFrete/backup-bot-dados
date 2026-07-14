@@ -8724,7 +8724,7 @@
       }
     },
     "117025208856591@lid": {
-      "wallet": 633086,
+      "wallet": 633475,
       "bank": 8000,
       "cooldowns": {
         "work": 1783644567226,
@@ -8733,7 +8733,7 @@
         "bet": 1784028896129,
         "mine": 1784048151702,
         "crash": 1783717406470,
-        "explore": 1784029779839,
+        "explore": 1784048460394,
         "fish": 1784048275489,
         "crime": 1783993753670,
         "daily": 1784060167025,
@@ -8796,7 +8796,7 @@
           {
             "type": "explore",
             "target": 21,
-            "progress": 6
+            "progress": 7
           },
           {
             "type": "hunt",
@@ -8833,7 +8833,7 @@
           {
             "type": "explore",
             "target": 94,
-            "progress": 7
+            "progress": 8
           },
           {
             "type": "hunt",
@@ -8891,7 +8891,7 @@
         },
         "exploring": {
           "level": 1,
-          "xp": 7
+          "xp": 8
         },
         "hunting": {
           "level": 1,
@@ -8977,8 +8977,8 @@
         "totalCrimes": 34,
         "totalMine": 28,
         "mineCount": 28,
-        "totalExplore": 7,
-        "exploreCount": 7,
+        "totalExplore": 8,
+        "exploreCount": 8,
         "totalFish": 21,
         "fishCount": 21,
         "totalHunt": 1,

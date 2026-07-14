@@ -7578,14 +7578,14 @@
       }
     },
     "253257075150984@lid": {
-      "wallet": 52940,
+      "wallet": 54295,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
         "work": 1783521115388,
         "crime": 1783961099280,
         "rob": 1783959893253,
-        "trafico": 1784043351594,
+        "trafico": 1784048458397,
         "fish": 1783959950967,
         "mine": 1784043819898,
         "crash": 1783883632559,
@@ -7709,7 +7709,7 @@
         "claimed": false
       },
       "level": 11,
-      "exp": 2400,
+      "exp": 2775,
       "prestige": 0,
       "classe": "ladino",
       "clan": null,
@@ -7767,7 +7767,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 28
+          "xp": 29
         }
       },
       "properties": {},
@@ -7823,9 +7823,9 @@
         "fishCount": 12,
         "totalMine": 15,
         "mineCount": 15,
-        "totalTrafico": 22,
-        "traficoCount": 22,
-        "totalCrimes": 25,
+        "totalTrafico": 23,
+        "traficoCount": 23,
+        "totalCrimes": 26,
         "totalExplore": 12,
         "exploreCount": 12,
         "totalHunt": 4,

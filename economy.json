@@ -11291,7 +11291,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 320,
+      "wallet": 693,
       "bank": 2225506,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11303,7 +11303,7 @@
         "trafico": 1783992726067,
         "hunt": 1783993136640,
         "crimesair": 1783820907251,
-        "explore": 1783992722365,
+        "explore": 1784047225794,
         "bet": 1783988166035,
         "roleta": 1783915849628,
         "cook": 1783916867080
@@ -11335,7 +11335,7 @@
         "pedra": 124,
         "couro": 34,
         "ferro": 68,
-        "madeira": 42,
+        "madeira": 45,
         "linha": 19,
         "cristal": 2,
         "carvao": 10,
@@ -11358,7 +11358,7 @@
           {
             "type": "explore",
             "target": 7,
-            "progress": 0
+            "progress": 1
           }
         ],
         "reward": 480,
@@ -11397,7 +11397,7 @@
           {
             "type": "explore",
             "target": 68,
-            "progress": 38
+            "progress": 39
           },
           {
             "type": "fish",
@@ -11470,7 +11470,7 @@
         },
         "exploring": {
           "level": 1,
-          "xp": 38
+          "xp": 39
         },
         "hunting": {
           "level": 1,
@@ -11548,8 +11548,8 @@
         "mineCount": 51,
         "totalCrime": 6,
         "crimeCount": 6,
-        "totalExplore": 38,
-        "exploreCount": 38,
+        "totalExplore": 39,
+        "exploreCount": 39,
         "totalHunt": 34,
         "huntCount": 34,
         "totalTrafico": 15,

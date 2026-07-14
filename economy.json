@@ -2172,7 +2172,7 @@
       }
     },
     "164815091843303@lid": {
-      "wallet": 750744,
+      "wallet": 916835,
       "bank": 0,
       "cooldowns": {
         "daily": 1783998007731,
@@ -2181,10 +2181,10 @@
         "hunt": 1784060786339,
         "explore": 1784067234465,
         "rob": 1783948608581,
-        "crime": 1784061285500,
+        "crime": 1784069467656,
         "mine": 1784066937887,
         "bet": 1784066418452,
-        "trafico": 1784066572774
+        "trafico": 1784068559389
       },
       "inventory": {
         "dragonslayer": 1,
@@ -2250,7 +2250,7 @@
           {
             "type": "crimeSuccess",
             "target": 5,
-            "progress": 0
+            "progress": 1
           }
         ],
         "reward": 485,
@@ -2262,7 +2262,7 @@
           {
             "type": "crimeSuccess",
             "target": 30,
-            "progress": 0
+            "progress": 1
           },
           {
             "type": "hunt",
@@ -2294,7 +2294,7 @@
           {
             "type": "crimeSuccess",
             "target": 63,
-            "progress": 0
+            "progress": 1
           },
           {
             "type": "mine",
@@ -2316,7 +2316,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 3440,
+      "exp": 8586,
       "prestige": 0,
       "classe": "ladino",
       "clan": "clan_1",
@@ -2375,7 +2375,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 1
+          "xp": 3
         }
       },
       "properties": {},
@@ -2524,9 +2524,9 @@
         "mineCount": 58,
         "totalHunt": 4,
         "huntCount": 4,
-        "totalTrafico": 1,
-        "traficoCount": 1,
-        "totalCrimes": 1
+        "totalTrafico": 2,
+        "traficoCount": 2,
+        "totalCrimes": 3
       },
       "lastBoss": 1783631118914,
       "streak": {
@@ -2611,7 +2611,7 @@
       },
       "lastArena": 1779549423947,
       "xp": 500,
-      "lastDungeon": 1784029717433,
+      "lastDungeon": 1784067867525,
       "equipment": {
         "weapon": "espada_diamante_lvl1",
         "armor": "armadura_aco",
@@ -7370,7 +7370,7 @@
       }
     },
     "55770720800805@lid": {
-      "wallet": 2477,
+      "wallet": 300002477,
       "bank": 0,
       "cooldowns": {
         "crime": 1783441241822,
@@ -8245,7 +8245,7 @@
       }
     },
     "166709960913086@lid": {
-      "wallet": 839016,
+      "wallet": 983008,
       "bank": 0,
       "cooldowns": {
         "work": 1783469935845,
@@ -8366,7 +8366,7 @@
         "claimed": false
       },
       "level": 13,
-      "exp": 1794,
+      "exp": 2793,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -8458,16 +8458,15 @@
         "huntCount": 6
       },
       "investments": {
-        "stocks": {
-          "brazino777": 500
-        },
+        "stocks": {},
         "totalInvested": 0,
-        "totalProfit": 109259.74,
+        "totalProfit": 109259.74000000002,
         "lastDividend": 0,
         "stocksCost": {
           "crypto": 0,
           "gold": 0,
-          "tech": 0
+          "tech": 0,
+          "brazino777": 0
         }
       },
       "streak": {
@@ -10327,7 +10326,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 820105,
+      "wallet": 990552,
       "bank": 1190000,
       "cooldowns": {
         "work": 1783728008192,
@@ -10337,9 +10336,9 @@
         "bet": 1784066792432,
         "daily": 1784127074797,
         "mine": 1784066931112,
-        "trafico": 1784067218994,
+        "trafico": 1784068430610,
         "explore": 1784067233943,
-        "crime": 1783955359737,
+        "crime": 1784069448672,
         "cook": 1783896352187,
         "roleta": 1783896341960
       },
@@ -10464,7 +10463,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 8027,
+      "exp": 13456,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -10525,7 +10524,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 10
+          "xp": 11
         }
       },
       "properties": {},
@@ -10579,9 +10578,9 @@
         "fishCount": 43,
         "totalMine": 38,
         "mineCount": 38,
-        "totalTrafico": 60,
-        "traficoCount": 60,
-        "totalCrimes": 60,
+        "totalTrafico": 61,
+        "traficoCount": 61,
+        "totalCrimes": 61,
         "totalExplore": 35,
         "exploreCount": 35
       },
@@ -11318,7 +11317,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 776151,
+      "wallet": 974475,
       "bank": 3675000,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11451,7 +11450,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 41006,
+      "exp": 46668,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -12314,6 +12313,15 @@
       "defenseBonus": 8,
       "durability": 80
     },
+    "piru_borracha": {
+      "name": "Piru de Borracha",
+      "price": 300000000000,
+      "type": "equipment",
+      "slot": "accessory",
+      "attackBonus": 20,
+      "defenseBonus": 14,
+      "durability": 500
+    },
     "bracelete_magico": {
       "name": "Bracelete Mágico",
       "price": 300000000000000000,
@@ -12949,6 +12957,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 26.81,
+      "gold": 26.35,
+      "crypto": 52.72,
+      "energy": 25.1,
+      "brazino777": 221.57,
+      "fatalmodel": 3020.28
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 30.08,
       "gold": 30.5,
       "crypto": 61.23,
@@ -12956,21 +12973,12 @@
       "brazino777": 217.99,
       "fatalmodel": 3088.64
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 29.38,
-      "gold": 27.63,
-      "crypto": 56.03,
-      "energy": 24.95,
-      "brazino777": 198.89,
-      "fatalmodel": 3363.7
-    },
     "trends": {
-      "tech": "Baixa 📉",
+      "tech": "Alta 📈",
       "gold": "Baixa 📉",
-      "crypto": "Baixa 📉",
-      "energy": "Estável 🔹",
-      "brazino777": "Alta 📈",
+      "crypto": "Alta 📈",
+      "energy": "Alta 📈",
+      "brazino777": "Baixa 📉",
       "fatalmodel": "Baixa 📉"
     }
   },
@@ -13042,15 +13050,17 @@
       "created": 1784053740296,
       "status": "waiting"
     },
-    "party_1784063639644": {
-      "id": "party_1784063639644",
+    "party_1784067952704": {
+      "id": "party_1784067952704",
       "type": "3",
       "leader": "91384740589687@lid",
       "members": [
-        "91384740589687@lid"
+        "91384740589687@lid",
+        "164815091843303@lid",
+        "166709960913086@lid"
       ],
       "maxMembers": 3,
-      "created": 1784063639644,
+      "created": 1784067952704,
       "status": "waiting"
     }
   },

@@ -2702,7 +2702,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 65647,
+      "wallet": 66474,
       "bank": 0,
       "cooldowns": {
         "work": 1783468790688,
@@ -2715,7 +2715,7 @@
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
         "bet": 1783999686242,
-        "mine": 1784044228188,
+        "mine": 1784047049090,
         "trafico": 1784044560795,
         "explore": 1784044533891
       },
@@ -2760,10 +2760,10 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 219,
-        "ferro": 167,
-        "carvao": 69,
-        "diamante": 5,
+        "pedra": 225,
+        "ferro": 171,
+        "carvao": 72,
+        "diamante": 6,
         "cristal": 0,
         "madeira": 71,
         "linha": 31,
@@ -2888,7 +2888,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 8
+          "xp": 9
         },
         "working": {
           "level": 1,
@@ -3029,8 +3029,8 @@
         "huntCount": 1,
         "totalTrafico": 80,
         "traficoCount": 80,
-        "totalMine": 58,
-        "mineCount": 58,
+        "totalMine": 59,
+        "mineCount": 59,
         "totalExplore": 48,
         "exploreCount": 48
       },
@@ -10325,11 +10325,11 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 115962,
+      "wallet": 116007,
       "bank": 738431,
       "cooldowns": {
         "work": 1783728008192,
-        "hunt": 1784045172210,
+        "hunt": 1784047770294,
         "fish": 1784044582489,
         "rob": 1783899931581,
         "bet": 1784040536498,
@@ -10366,7 +10366,7 @@
         }
       },
       "materials": {
-        "couro": 24,
+        "couro": 25,
         "pedra": 104,
         "ferro": 64,
         "carvao": 24,
@@ -10415,7 +10415,7 @@
           {
             "type": "hunt",
             "target": 22,
-            "progress": 14
+            "progress": 15
           },
           {
             "type": "work",
@@ -10447,7 +10447,7 @@
           {
             "type": "hunt",
             "target": 83,
-            "progress": 38
+            "progress": 39
           },
           {
             "type": "crimeSuccess",
@@ -10512,7 +10512,7 @@
         },
         "hunting": {
           "level": 1,
-          "xp": 38
+          "xp": 39
         },
         "forging": {
           "level": 1,
@@ -10568,8 +10568,8 @@
       "stats": {
         "totalWork": 10,
         "workCount": 10,
-        "totalHunt": 38,
-        "huntCount": 38,
+        "totalHunt": 39,
+        "huntCount": 39,
         "totalFish": 38,
         "fishCount": 38,
         "totalMine": 33,
@@ -10586,7 +10586,7 @@
         "lastExpansion": 0
       },
       "ingredients": {
-        "carne": 45,
+        "carne": 46,
         "peixe": 105,
         "arroz": 18,
         "acucar": 15,

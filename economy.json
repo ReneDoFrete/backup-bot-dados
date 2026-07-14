@@ -765,15 +765,15 @@
           "speed": 12,
           "element": "fire",
           "level": 2,
-          "exp": 0,
+          "exp": 71,
           "evolutions": 0,
-          "hunger": 54,
+          "hunger": 34,
           "mood": 13,
           "wins": 0,
           "losses": 0,
           "equipment": {},
           "lastUpdate": 1784046692594,
-          "lastTrain": 1783996879639,
+          "lastTrain": 1784046712090,
           "cost": 15000
         }
       ],

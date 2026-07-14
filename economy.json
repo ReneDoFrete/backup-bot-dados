@@ -209,7 +209,7 @@
       "trafico": "aviaozinhocv"
     },
     "166812754911326@lid": {
-      "wallet": 9500,
+      "wallet": 10088,
       "bank": 2590871,
       "cooldowns": {
         "work": 1783477612015,
@@ -221,7 +221,7 @@
         "trafico": 1784053723491,
         "daily": 1784074206555,
         "bet": 1784040608801,
-        "mine": 1784053343797,
+        "mine": 1784054701304,
         "crimesair": 1783514143495,
         "crime": 1783993771711,
         "explore": 1784053723598,
@@ -243,14 +243,14 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 227,
+        "pedra": 230,
         "madeira": 59,
         "linha": 32,
         "corda": 16,
         "cristal": 0,
-        "ferro": 75,
+        "ferro": 77,
         "ouro": 10,
-        "carvao": 36,
+        "carvao": 37,
         "diamante": 0
       },
       "challenge": {
@@ -328,7 +328,7 @@
           {
             "type": "mine",
             "target": 96,
-            "progress": 77
+            "progress": 78
           }
         ],
         "reward": 19367,
@@ -365,7 +365,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 27
+          "xp": 28
         },
         "working": {
           "level": 1,
@@ -445,8 +445,8 @@
         "crimeCount": 8,
         "totalFish": 83,
         "fishCount": 83,
-        "totalMine": 77,
-        "mineCount": 77,
+        "totalMine": 78,
+        "mineCount": 78,
         "totalTrafico": 86,
         "traficoCount": 86,
         "totalCrimes": 88,

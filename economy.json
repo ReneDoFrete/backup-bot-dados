@@ -8724,12 +8724,12 @@
       }
     },
     "117025208856591@lid": {
-      "wallet": 631236,
+      "wallet": 632676,
       "bank": 8000,
       "cooldowns": {
         "work": 1783644567226,
         "rob": 1783992546352,
-        "trafico": 1784029752529,
+        "trafico": 1784048449197,
         "bet": 1784028896129,
         "mine": 1784029464254,
         "crash": 1783717406470,
@@ -8845,7 +8845,7 @@
         "claimed": false
       },
       "level": 13,
-      "exp": 12020,
+      "exp": 12395,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -8903,7 +8903,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 36
+          "xp": 37
         }
       },
       "properties": {},
@@ -8972,9 +8972,9 @@
         "workCount": 21,
         "totalCrime": 3,
         "crimeCount": 3,
-        "totalTrafico": 33,
-        "traficoCount": 33,
-        "totalCrimes": 33,
+        "totalTrafico": 34,
+        "traficoCount": 34,
+        "totalCrimes": 34,
         "totalMine": 27,
         "mineCount": 27,
         "totalExplore": 7,

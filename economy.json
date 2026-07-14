@@ -2704,7 +2704,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 212156,
+      "wallet": 871288,
       "bank": 0,
       "cooldowns": {
         "work": 1783468790688,
@@ -2852,8 +2852,8 @@
         "reward": 16487,
         "claimed": false
       },
-      "level": 16,
-      "exp": 36226,
+      "level": 17,
+      "exp": 18253,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -2872,7 +2872,7 @@
         ],
         "siblings": []
       },
-      "power": 340,
+      "power": 355,
       "hp": 100,
       "maxHp": 100,
       "mana": 50,
@@ -8252,7 +8252,7 @@
       }
     },
     "166709960913086@lid": {
-      "wallet": 645912,
+      "wallet": 809430,
       "bank": 0,
       "cooldowns": {
         "work": 1783469935845,
@@ -8260,9 +8260,9 @@
         "daily": 1783550227344,
         "rob": 1783464791814,
         "trafico": 1784062521455,
-        "fish": 1784032013435,
+        "fish": 1784062704447,
         "mine": 1784031890234,
-        "hunt": 1784032606628,
+        "hunt": 1784063301109,
         "bet": 1784060355706,
         "crash": 1783811011210,
         "crime": 1784033110030
@@ -8288,7 +8288,7 @@
         "linha": 9,
         "pedra": 25,
         "ferro": 9,
-        "couro": 5,
+        "couro": 7,
         "carvao": 3
       },
       "challenge": {
@@ -8297,7 +8297,7 @@
           {
             "type": "hunt",
             "target": 6,
-            "progress": 1
+            "progress": 2
           },
           {
             "type": "work",
@@ -8329,7 +8329,7 @@
           {
             "type": "hunt",
             "target": 15,
-            "progress": 2
+            "progress": 3
           },
           {
             "type": "explore",
@@ -8351,7 +8351,7 @@
           {
             "type": "hunt",
             "target": 100,
-            "progress": 4
+            "progress": 5
           },
           {
             "type": "crimeSuccess",
@@ -8366,14 +8366,14 @@
           {
             "type": "fish",
             "target": 73,
-            "progress": 6
+            "progress": 7
           }
         ],
         "reward": 15647,
         "claimed": false
       },
-      "level": 12,
-      "exp": 5131,
+      "level": 13,
+      "exp": 1144,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -8387,7 +8387,7 @@
         ],
         "siblings": []
       },
-      "power": 280,
+      "power": 295,
       "hp": 100,
       "maxHp": 100,
       "mana": 50,
@@ -8412,7 +8412,7 @@
         },
         "fishing": {
           "level": 1,
-          "xp": 6
+          "xp": 7
         },
         "exploring": {
           "level": 1,
@@ -8420,7 +8420,7 @@
         },
         "hunting": {
           "level": 1,
-          "xp": 4
+          "xp": 5
         },
         "forging": {
           "level": 1,
@@ -8454,15 +8454,15 @@
         "exploreCount": 12,
         "totalCrime": 8,
         "crimeCount": 8,
-        "totalFish": 6,
-        "fishCount": 6,
+        "totalFish": 7,
+        "fishCount": 7,
         "totalMine": 8,
         "mineCount": 8,
         "totalTrafico": 12,
         "traficoCount": 12,
         "totalCrimes": 12,
-        "totalHunt": 4,
-        "huntCount": 4
+        "totalHunt": 5,
+        "huntCount": 5
       },
       "investments": {
         "stocks": {
@@ -8484,8 +8484,8 @@
       "trafico": "sldcv",
       "lastDungeon": 1783978011629,
       "ingredients": {
-        "peixe": 15,
-        "carne": 5
+        "peixe": 19,
+        "carne": 7
       },
       "quests": {
         "daily": [
@@ -10816,7 +10816,7 @@
       }
     },
     "277304580288729@lid": {
-      "wallet": 0,
+      "wallet": 676632,
       "bank": 1262868,
       "cooldowns": {
         "work": 1783727846799,
@@ -10948,14 +10948,14 @@
         "reward": 17765,
         "claimed": false
       },
-      "level": 13,
-      "exp": 5905,
+      "level": 14,
+      "exp": 12247,
       "prestige": 0,
       "classe": null,
       "clan": null,
       "house": null,
       "family": null,
-      "power": 295,
+      "power": 310,
       "hp": 100,
       "maxHp": 120,
       "mana": 50,
@@ -11321,7 +11321,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 514365,
+      "wallet": 975173,
       "bank": 2259030,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11453,8 +11453,8 @@
         "reward": 16225,
         "claimed": false
       },
-      "level": 16,
-      "exp": 33749,
+      "level": 17,
+      "exp": 3114,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -11471,7 +11471,7 @@
         ],
         "siblings": []
       },
-      "power": 340,
+      "power": 355,
       "hp": 100,
       "maxHp": 100,
       "mana": 50,
@@ -12952,6 +12952,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 37.51,
+      "gold": 23.77,
+      "crypto": 81.4,
+      "energy": 24.93,
+      "brazino777": 184.71,
+      "fatalmodel": 3269.23
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 36.29,
       "gold": 25.16,
       "crypto": 72.97,
@@ -12959,22 +12968,13 @@
       "brazino777": 180.2,
       "fatalmodel": 3269.23
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 35.38,
-      "gold": 29.11,
-      "crypto": 85.81,
-      "energy": 26.14,
-      "brazino777": 166.73,
-      "fatalmodel": 3207.19
-    },
     "trends": {
-      "tech": "Alta 📈",
-      "gold": "Baixa 📉",
-      "crypto": "Alta 📈",
+      "tech": "Baixa 📉",
+      "gold": "Alta 📈",
+      "crypto": "Baixa 📉",
       "energy": "Alta 📈",
       "brazino777": "Alta 📈",
-      "fatalmodel": "Estável 🔹"
+      "fatalmodel": "Alta 📈"
     }
   },
   "dungeonParties": {
@@ -13058,17 +13058,17 @@
       "created": 1784053740296,
       "status": "waiting"
     },
-    "party_1784061893245": {
-      "id": "party_1784061893245",
+    "party_1784062549037": {
+      "id": "party_1784062549037",
       "type": "3",
       "leader": "264437378322556@lid",
       "members": [
         "264437378322556@lid",
-        "166709960913086@lid",
+        "91384740589687@lid",
         "277304580288729@lid"
       ],
       "maxMembers": 3,
-      "created": 1784061893245,
+      "created": 1784062549037,
       "status": "waiting"
     }
   },

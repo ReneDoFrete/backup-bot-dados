@@ -6124,7 +6124,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 1366,
+      "wallet": 2731,
       "bank": 2534924,
       "cooldowns": {
         "daily": 1784033104182,
@@ -6133,10 +6133,10 @@
         "rob": 1783976950059,
         "cook": 1782846656129,
         "crime": 1783481043855,
-        "mine": 1784027840141,
-        "trafico": 1784048268498,
+        "mine": 1784054031001,
+        "trafico": 1784054326896,
         "hunt": 1783969123259,
-        "explore": 1784028145937,
+        "explore": 1784054334896,
         "roleta": 1783549177560
       },
       "inventory": {
@@ -6164,15 +6164,15 @@
         }
       },
       "materials": {
-        "pedra": 97,
-        "ferro": 70,
+        "pedra": 101,
+        "ferro": 72,
         "carvao": 38,
         "couro": 6,
-        "ouro": 9,
+        "ouro": 10,
         "diamante": 3,
         "madeira": 41,
         "linha": 22,
-        "cristal": 2,
+        "cristal": 3,
         "corda": 11
       },
       "challenge": {
@@ -6191,7 +6191,7 @@
           {
             "type": "explore",
             "target": 5,
-            "progress": 1
+            "progress": 2
           }
         ],
         "reward": 572,
@@ -6218,7 +6218,7 @@
           {
             "type": "mine",
             "target": 28,
-            "progress": 8
+            "progress": 9
           }
         ],
         "reward": 3337,
@@ -6230,7 +6230,7 @@
           {
             "type": "mine",
             "target": 92,
-            "progress": 47
+            "progress": 48
           },
           {
             "type": "work",
@@ -6250,14 +6250,14 @@
           {
             "type": "explore",
             "target": 95,
-            "progress": 27
+            "progress": 28
           }
         ],
         "reward": 15199,
         "claimed": false
       },
       "level": 16,
-      "exp": 9882,
+      "exp": 10107,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": null,
@@ -6280,7 +6280,7 @@
       "skills": {
         "mining": {
           "level": 1,
-          "xp": 47
+          "xp": 48
         },
         "working": {
           "level": 1,
@@ -6292,7 +6292,7 @@
         },
         "exploring": {
           "level": 1,
-          "xp": 27
+          "xp": 28
         },
         "hunting": {
           "level": 1,
@@ -6304,7 +6304,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 9
+          "xp": 10
         }
       },
       "properties": {},
@@ -6362,17 +6362,17 @@
         "fishCount": 22,
         "totalWork": 34,
         "workCount": 34,
-        "totalMine": 47,
-        "mineCount": 47,
+        "totalMine": 48,
+        "mineCount": 48,
         "totalCrime": 1,
         "crimeCount": 1,
-        "totalExplore": 27,
-        "exploreCount": 27,
+        "totalExplore": 28,
+        "exploreCount": 28,
         "totalHunt": 8,
         "huntCount": 8,
-        "totalTrafico": 8,
-        "traficoCount": 8,
-        "totalCrimes": 8
+        "totalTrafico": 9,
+        "traficoCount": 9,
+        "totalCrimes": 9
       },
       "farm": {
         "plots": [],
@@ -10326,7 +10326,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 121600,
+      "wallet": 123705,
       "bank": 738431,
       "cooldowns": {
         "work": 1783728008192,
@@ -10336,7 +10336,7 @@
         "bet": 1784050247795,
         "daily": 1784127074797,
         "mine": 1784050839397,
-        "trafico": 1784052682393,
+        "trafico": 1784054327602,
         "explore": 1784051144090,
         "crime": 1783955359737,
         "cook": 1783896352187,
@@ -10460,7 +10460,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 2545,
+      "exp": 3145,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -10521,7 +10521,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 5
+          "xp": 6
         }
       },
       "properties": {},
@@ -10575,9 +10575,9 @@
         "fishCount": 40,
         "totalMine": 35,
         "mineCount": 35,
-        "totalTrafico": 55,
-        "traficoCount": 55,
-        "totalCrimes": 55,
+        "totalTrafico": 56,
+        "traficoCount": 56,
+        "totalCrimes": 56,
         "totalExplore": 32,
         "exploreCount": 32
       },

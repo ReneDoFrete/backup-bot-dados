@@ -11291,8 +11291,8 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 15924,
-      "bank": 2512977,
+      "wallet": 298674,
+      "bank": 2222977,
       "cooldowns": {
         "daily": 1784068805832,
         "fish": 1783992539899,
@@ -11343,25 +11343,25 @@
         "ouro": 1
       },
       "challenge": {
-        "expiresAt": 1783997999999,
+        "expiresAt": 1784073599999,
         "tasks": [
           {
-            "type": "explore",
-            "target": 4,
-            "progress": 4
-          },
-          {
-            "type": "fish",
+            "type": "crimeSuccess",
             "target": 3,
-            "progress": 3
+            "progress": 0
           },
           {
-            "type": "work",
-            "target": 5,
+            "type": "hunt",
+            "target": 4,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 7,
             "progress": 0
           }
         ],
-        "reward": 328,
+        "reward": 480,
         "claimed": false
       },
       "weeklyChallenge": {

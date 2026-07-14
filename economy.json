@@ -11071,8 +11071,8 @@
       "lastDungeon": 1784041297488
     },
     "71546269905098@lid": {
-      "wallet": 1905,
-      "bank": 0,
+      "wallet": 5,
+      "bank": 1900,
       "cooldowns": {
         "rob": 1783997156280,
         "work": 1783988995291,
@@ -13072,6 +13072,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 37.44,
+      "gold": 22.47,
+      "crypto": 67.64,
+      "energy": 24.08,
+      "brazino777": 152.04,
+      "fatalmodel": 4538.64
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 41.7,
       "gold": 23.02,
       "crypto": 73.61,
@@ -13079,22 +13088,13 @@
       "brazino777": 152.04,
       "fatalmodel": 4405.06
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 40.64,
-      "gold": 22.82,
-      "crypto": 73.11,
-      "energy": 26.04,
-      "brazino777": 137.23,
-      "fatalmodel": 5113.34
-    },
     "trends": {
-      "tech": "Baixa 📉",
-      "gold": "Baixa 📉",
-      "crypto": "Baixa 📉",
+      "tech": "Alta 📈",
+      "gold": "Alta 📈",
+      "crypto": "Alta 📈",
       "energy": "Baixa 📉",
       "brazino777": "Estável 🔹",
-      "fatalmodel": "Alta 📈"
+      "fatalmodel": "Baixa 📉"
     }
   },
   "dungeonParties": {

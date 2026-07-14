@@ -10326,7 +10326,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 122631,
+      "wallet": 124707,
       "bank": 738431,
       "cooldowns": {
         "work": 1783728008192,
@@ -10336,7 +10336,7 @@
         "bet": 1784054344597,
         "daily": 1784127074797,
         "mine": 1784054638995,
-        "trafico": 1784054327602,
+        "trafico": 1784055256591,
         "explore": 1784054941898,
         "crime": 1783955359737,
         "cook": 1783896352187,
@@ -10460,7 +10460,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 3145,
+      "exp": 3745,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -10521,7 +10521,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 6
+          "xp": 7
         }
       },
       "properties": {},
@@ -10575,9 +10575,9 @@
         "fishCount": 41,
         "totalMine": 36,
         "mineCount": 36,
-        "totalTrafico": 56,
-        "traficoCount": 56,
-        "totalCrimes": 56,
+        "totalTrafico": 57,
+        "traficoCount": 57,
+        "totalCrimes": 57,
         "totalExplore": 33,
         "exploreCount": 33
       },

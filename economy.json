@@ -11291,7 +11291,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 891,
+      "wallet": 1719,
       "bank": 2225506,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11300,7 +11300,7 @@
         "rob": 1783983057205,
         "mine": 1784046922096,
         "crime": 1783469671010,
-        "trafico": 1783992726067,
+        "trafico": 1784047245699,
         "hunt": 1784047657391,
         "crimesair": 1783820907251,
         "explore": 1784047225794,
@@ -11424,7 +11424,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 15167,
+      "exp": 15392,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -11482,7 +11482,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 22
+          "xp": 23
         }
       },
       "properties": {},
@@ -11552,9 +11552,9 @@
         "exploreCount": 39,
         "totalHunt": 35,
         "huntCount": 35,
-        "totalTrafico": 15,
-        "traficoCount": 16,
-        "totalCrimes": 16
+        "totalTrafico": 16,
+        "traficoCount": 17,
+        "totalCrimes": 17
       },
       "farm": {
         "plots": [
@@ -11582,7 +11582,7 @@
         "maxPlots": 4,
         "lastExpansion": 0
       },
-      "trafico": "sldcv",
+      "trafico": "ldfcv",
       "classeBonuses": {
         "attack": 20,
         "defense": 10

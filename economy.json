@@ -11291,7 +11291,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 16474,
+      "wallet": 2529.5,
       "bank": 2222977,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11591,16 +11591,17 @@
         "stocks": {
           "gold": 150000,
           "energy": 9000,
-          "tech": 10000
+          "tech": 10000,
+          "fatalmodel": 2
         },
         "stocksCost": {
           "crypto": 0,
           "gold": 2363200,
           "energy": 450540,
-          "fatalmodel": 0,
+          "fatalmodel": 13944.5,
           "tech": 282200
         },
-        "totalInvested": 3093255,
+        "totalInvested": 3107199.5,
         "totalProfit": 1190373.95,
         "lastDividend": 0
       },

@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 7824,
+      "wallet": 7143,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -821,10 +821,10 @@
       "investments": {
         "stocks": {
           "gold": 679282,
-          "brazino777": 20016,
+          "brazino777": 20020,
           "tech": 53500
         },
-        "totalInvested": 20380789.449999988,
+        "totalInvested": 20381470.449999988,
         "totalProfit": 21228673.25,
         "lastDividend": 0,
         "stocksCost": {
@@ -832,7 +832,7 @@
           "tech": 1511950,
           "gold": 15364114.54999999,
           "fatalmodel": 0,
-          "brazino777": 3504724
+          "brazino777": 3505405
         }
       },
       "streak": {

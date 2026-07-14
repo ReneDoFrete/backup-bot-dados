@@ -8725,7 +8725,7 @@
       }
     },
     "117025208856591@lid": {
-      "wallet": 636425,
+      "wallet": 636563,
       "bank": 8000,
       "cooldowns": {
         "work": 1783644567226,
@@ -8735,7 +8735,7 @@
         "mine": 1784054850490,
         "crash": 1783717406470,
         "explore": 1784048460394,
-        "fish": 1784048275489,
+        "fish": 1784054975493,
         "crime": 1783993753670,
         "daily": 1784060167025,
         "hunt": 1783975097598
@@ -8770,7 +8770,7 @@
           {
             "type": "fish",
             "target": 5,
-            "progress": 3
+            "progress": 4
           },
           {
             "type": "work",
@@ -8792,7 +8792,7 @@
           {
             "type": "fish",
             "target": 29,
-            "progress": 11
+            "progress": 12
           },
           {
             "type": "explore",
@@ -8829,7 +8829,7 @@
           {
             "type": "fish",
             "target": 60,
-            "progress": 21
+            "progress": 22
           },
           {
             "type": "explore",
@@ -8888,7 +8888,7 @@
         },
         "fishing": {
           "level": 1,
-          "xp": 21
+          "xp": 22
         },
         "exploring": {
           "level": 1,
@@ -8980,8 +8980,8 @@
         "mineCount": 29,
         "totalExplore": 8,
         "exploreCount": 8,
-        "totalFish": 21,
-        "fishCount": 21,
+        "totalFish": 22,
+        "fishCount": 22,
         "totalHunt": 1,
         "huntCount": 1
       },
@@ -8998,7 +8998,7 @@
         "lastDividend": 0
       },
       "ingredients": {
-        "peixe": 60,
+        "peixe": 62,
         "carne": 2
       },
       "streak": {

@@ -209,7 +209,7 @@
       "trafico": "aviaozinhocv"
     },
     "166812754911326@lid": {
-      "wallet": 0,
+      "wallet": 169,
       "bank": 2580760,
       "cooldowns": {
         "work": 1783477612015,
@@ -217,7 +217,7 @@
         "rob": 1783992588678,
         "dados": 1783451352903,
         "crash": 1783459446110,
-        "fish": 1784049211198,
+        "fish": 1784050372190,
         "trafico": 1784050520689,
         "daily": 1784074206555,
         "bet": 1784040608801,
@@ -323,7 +323,7 @@
           {
             "type": "fish",
             "target": 96,
-            "progress": 80
+            "progress": 81
           },
           {
             "type": "mine",
@@ -373,7 +373,7 @@
         },
         "fishing": {
           "level": 2,
-          "xp": 30
+          "xp": 31
         },
         "exploring": {
           "level": 2,
@@ -443,8 +443,8 @@
         "workCount": 4,
         "totalCrime": 8,
         "crimeCount": 8,
-        "totalFish": 80,
-        "fishCount": 80,
+        "totalFish": 81,
+        "fishCount": 81,
         "totalMine": 75,
         "mineCount": 75,
         "totalTrafico": 84,
@@ -457,7 +457,7 @@
       },
       "ingredients": {
         "carne": 23,
-        "peixe": 244
+        "peixe": 246
       },
       "trafico": "fdmcv",
       "streak": {

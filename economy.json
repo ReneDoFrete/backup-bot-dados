@@ -209,7 +209,7 @@
       "trafico": "aviaozinhocv"
     },
     "166812754911326@lid": {
-      "wallet": 825,
+      "wallet": 4341,
       "bank": 2578419,
       "cooldowns": {
         "work": 1783477612015,
@@ -218,7 +218,7 @@
         "dados": 1783451352903,
         "crash": 1783459446110,
         "fish": 1784049211198,
-        "trafico": 1784049401898,
+        "trafico": 1784050520689,
         "daily": 1784074206555,
         "bet": 1784040608801,
         "mine": 1784050211501,
@@ -335,7 +335,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 11917,
+      "exp": 13117,
       "prestige": 0,
       "classe": null,
       "clan": "clan_5",
@@ -389,7 +389,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 43
+          "xp": 44
         }
       },
       "properties": {},
@@ -447,9 +447,9 @@
         "fishCount": 80,
         "totalMine": 75,
         "mineCount": 75,
-        "totalTrafico": 83,
-        "traficoCount": 83,
-        "totalCrimes": 85,
+        "totalTrafico": 84,
+        "traficoCount": 84,
+        "totalCrimes": 86,
         "totalExplore": 51,
         "exploreCount": 51,
         "totalHunt": 17,

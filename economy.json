@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 305158,
+      "wallet": 306983,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -541,7 +541,7 @@
         "crimesair": 1783471363697,
         "blackjack": 1783572168376,
         "cook": 1783751803038,
-        "trafico": 1784070421876
+        "trafico": 1784072980738
       },
       "inventory": {
         "espada_diamante": 1,
@@ -667,7 +667,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 1976,
+      "exp": 2576,
       "prestige": 0,
       "classe": "paladino",
       "clan": "clan_5",
@@ -727,7 +727,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 43
+          "xp": 44
         }
       },
       "properties": {},
@@ -802,14 +802,14 @@
         "totalExplore": 78,
         "totalBattles": 0,
         "totalWins": 0,
-        "totalCrimes": 43,
+        "totalCrimes": 44,
         "workCount": 54,
         "exploreCount": 78,
         "fishCount": 55,
         "mineCount": 69,
         "huntCount": 51,
-        "totalTrafico": 42,
-        "traficoCount": 42
+        "totalTrafico": 43,
+        "traficoCount": 43
       },
       "ingredients": {
         "peixe": 164,
@@ -12942,27 +12942,27 @@
   "stockMarket": {
     "prices": {
       "tech": 34.84,
+      "gold": 22.9,
+      "crypto": 45.81,
+      "energy": 31.01,
+      "brazino777": 185.36,
+      "fatalmodel": 3145.52
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
+      "tech": 34.84,
       "gold": 21.63,
       "crypto": 45.81,
       "energy": 28.15,
       "brazino777": 174.15,
       "fatalmodel": 2988.38
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 35.98,
-      "gold": 22.39,
-      "crypto": 41.59,
-      "energy": 27.98,
-      "brazino777": 162.3,
-      "fatalmodel": 2944.96
-    },
     "trends": {
-      "tech": "Estável 🔹",
+      "tech": "Baixa 📉",
       "gold": "Alta 📈",
-      "crypto": "Estável 🔹",
-      "energy": "Alta 📈",
-      "brazino777": "Alta 📈",
+      "crypto": "Alta 📈",
+      "energy": "Baixa 📉",
+      "brazino777": "Baixa 📉",
       "fatalmodel": "Alta 📈"
     }
   },

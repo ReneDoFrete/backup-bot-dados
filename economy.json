@@ -6124,7 +6124,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 2731,
+      "wallet": 2755,
       "bank": 2534924,
       "cooldowns": {
         "daily": 1784033104182,
@@ -6135,7 +6135,7 @@
         "crime": 1783481043855,
         "mine": 1784054031001,
         "trafico": 1784054326896,
-        "hunt": 1783969123259,
+        "hunt": 1784054757894,
         "explore": 1784054334896,
         "roleta": 1783549177560
       },
@@ -6167,7 +6167,7 @@
         "pedra": 101,
         "ferro": 72,
         "carvao": 38,
-        "couro": 6,
+        "couro": 7,
         "ouro": 10,
         "diamante": 3,
         "madeira": 41,
@@ -6203,7 +6203,7 @@
           {
             "type": "hunt",
             "target": 17,
-            "progress": 1
+            "progress": 2
           },
           {
             "type": "work",
@@ -6296,7 +6296,7 @@
         },
         "hunting": {
           "level": 1,
-          "xp": 23
+          "xp": 24
         },
         "forging": {
           "level": 1,
@@ -6354,7 +6354,7 @@
       "ingredients": {
         "peixe": 63,
         "arroz": 9,
-        "carne": 27,
+        "carne": 29,
         "queijo": 24
       },
       "stats": {
@@ -6368,8 +6368,8 @@
         "crimeCount": 1,
         "totalExplore": 28,
         "exploreCount": 28,
-        "totalHunt": 8,
-        "huntCount": 8,
+        "totalHunt": 9,
+        "huntCount": 9,
         "totalTrafico": 9,
         "traficoCount": 9,
         "totalCrimes": 9

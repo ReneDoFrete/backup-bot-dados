@@ -209,11 +209,11 @@
       "trafico": "aviaozinhocv"
     },
     "166812754911326@lid": {
-      "wallet": 35251,
+      "wallet": 35289,
       "bank": 2535297,
       "cooldowns": {
         "work": 1783477612015,
-        "hunt": 1784044244392,
+        "hunt": 1784046349794,
         "rob": 1783992588678,
         "dados": 1783451352903,
         "crash": 1783459446110,
@@ -242,7 +242,7 @@
         }
       },
       "materials": {
-        "couro": 12,
+        "couro": 13,
         "pedra": 206,
         "madeira": 56,
         "linha": 30,
@@ -296,7 +296,7 @@
           {
             "type": "hunt",
             "target": 23,
-            "progress": 13
+            "progress": 14
           }
         ],
         "reward": 4123,
@@ -318,7 +318,7 @@
           {
             "type": "hunt",
             "target": 82,
-            "progress": 15
+            "progress": 16
           },
           {
             "type": "fish",
@@ -381,7 +381,7 @@
         },
         "hunting": {
           "level": 1,
-          "xp": 16
+          "xp": 17
         },
         "forging": {
           "level": 1,
@@ -452,11 +452,11 @@
         "totalCrimes": 81,
         "totalExplore": 48,
         "exploreCount": 48,
-        "totalHunt": 14,
-        "huntCount": 14
+        "totalHunt": 15,
+        "huntCount": 15
       },
       "ingredients": {
-        "carne": 20,
+        "carne": 21,
         "peixe": 232
       },
       "trafico": "fdmcv",

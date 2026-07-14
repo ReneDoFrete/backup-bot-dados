@@ -209,7 +209,7 @@
       "trafico": "aviaozinhocv"
     },
     "166812754911326@lid": {
-      "wallet": 38296,
+      "wallet": 38569,
       "bank": 2535297,
       "cooldowns": {
         "work": 1783477612015,
@@ -224,7 +224,7 @@
         "mine": 1784045614792,
         "crimesair": 1783514143495,
         "crime": 1783993771711,
-        "explore": 1784045926692,
+        "explore": 1784047305497,
         "blackjack": 1783899464173
       },
       "inventory": {
@@ -244,7 +244,7 @@
       "materials": {
         "couro": 13,
         "pedra": 206,
-        "madeira": 56,
+        "madeira": 57,
         "linha": 30,
         "corda": 16,
         "cristal": 1,
@@ -313,7 +313,7 @@
           {
             "type": "explore",
             "target": 87,
-            "progress": 48
+            "progress": 49
           },
           {
             "type": "hunt",
@@ -377,7 +377,7 @@
         },
         "exploring": {
           "level": 1,
-          "xp": 48
+          "xp": 49
         },
         "hunting": {
           "level": 1,
@@ -450,8 +450,8 @@
         "totalTrafico": 80,
         "traficoCount": 80,
         "totalCrimes": 82,
-        "totalExplore": 48,
-        "exploreCount": 48,
+        "totalExplore": 49,
+        "exploreCount": 49,
         "totalHunt": 15,
         "huntCount": 15
       },

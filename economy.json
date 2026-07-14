@@ -11071,12 +11071,12 @@
       "lastDungeon": 1784041297488
     },
     "71546269905098@lid": {
-      "wallet": 1479,
+      "wallet": 1905,
       "bank": 0,
       "cooldowns": {
         "rob": 1783997156280,
         "work": 1783988995291,
-        "trafico": 1784052695894
+        "trafico": 1784054236604
       },
       "inventory": {},
       "items": {},
@@ -11165,7 +11165,7 @@
         "claimed": false
       },
       "level": 5,
-      "exp": 88,
+      "exp": 238,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -11212,7 +11212,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 2
+          "xp": 3
         }
       },
       "properties": {},
@@ -11234,9 +11234,9 @@
       "stats": {
         "totalWork": 3,
         "workCount": 3,
-        "totalTrafico": 2,
-        "traficoCount": 2,
-        "totalCrimes": 2
+        "totalTrafico": 3,
+        "traficoCount": 3,
+        "totalCrimes": 3
       },
       "trafico": "vaporpcc"
     },

@@ -6124,7 +6124,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 2915,
+      "wallet": 5415,
       "bank": 2534924,
       "cooldowns": {
         "daily": 1784033104182,
@@ -6257,7 +6257,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 10107,
+      "exp": 10207,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": null,
@@ -11071,7 +11071,7 @@
       "lastDungeon": 1784041297488
     },
     "71546269905098@lid": {
-      "wallet": 5,
+      "wallet": 2505,
       "bank": 1900,
       "cooldowns": {
         "rob": 1783997156280,
@@ -11165,7 +11165,7 @@
         "claimed": false
       },
       "level": 5,
-      "exp": 238,
+      "exp": 338,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -13165,18 +13165,6 @@
       ],
       "maxMembers": 3,
       "created": 1783993911390,
-      "status": "waiting"
-    },
-    "party_1784053490891": {
-      "id": "party_1784053490891",
-      "type": "floresta",
-      "leader": "95297237704813@lid",
-      "members": [
-        "95297237704813@lid",
-        "71546269905098@lid"
-      ],
-      "maxMembers": 2,
-      "created": 1784053490891,
       "status": "waiting"
     }
   },

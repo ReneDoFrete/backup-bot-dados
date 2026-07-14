@@ -11703,10 +11703,10 @@
       "lastMonthly": 0
     },
     "25216189243468@lid": {
-      "wallet": 3034,
+      "wallet": 3270,
       "bank": 0,
       "cooldowns": {
-        "work": 1783973031291
+        "work": 1784054201893
       },
       "inventory": {},
       "items": {},
@@ -11714,25 +11714,25 @@
       "tools": {},
       "materials": {},
       "challenge": {
-        "expiresAt": 1783997999999,
+        "expiresAt": 1784073599999,
         "tasks": [
           {
-            "type": "explore",
-            "target": 5,
-            "progress": 0
-          },
-          {
-            "type": "hunt",
-            "target": 5,
-            "progress": 0
-          },
-          {
             "type": "mine",
-            "target": 5,
+            "target": 7,
+            "progress": 0
+          },
+          {
+            "type": "fish",
+            "target": 3,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 3,
             "progress": 0
           }
         ],
-        "reward": 416,
+        "reward": 307,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -11756,7 +11756,7 @@
           {
             "type": "work",
             "target": 28,
-            "progress": 1
+            "progress": 2
           }
         ],
         "reward": 4639,
@@ -11773,7 +11773,7 @@
           {
             "type": "work",
             "target": 80,
-            "progress": 1
+            "progress": 2
           },
           {
             "type": "crimeSuccess",
@@ -11794,14 +11794,14 @@
         "reward": 16742,
         "claimed": false
       },
-      "level": 3,
-      "exp": 150,
+      "level": 4,
+      "exp": 125,
       "prestige": 0,
       "classe": null,
       "clan": null,
       "house": null,
       "family": null,
-      "power": 145,
+      "power": 160,
       "hp": 100,
       "maxHp": 100,
       "mana": 50,
@@ -11822,7 +11822,7 @@
         },
         "working": {
           "level": 1,
-          "xp": 1
+          "xp": 2
         },
         "fishing": {
           "level": 1,
@@ -11862,8 +11862,8 @@
       "lastWeekly": 0,
       "lastMonthly": 0,
       "stats": {
-        "totalWork": 1,
-        "workCount": 1
+        "totalWork": 2,
+        "workCount": 2
       },
       "lastDungeon": 1783973761205
     }

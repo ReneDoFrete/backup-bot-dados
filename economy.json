@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 8591,
+      "wallet": 10524,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -541,7 +541,7 @@
         "crimesair": 1783471363697,
         "blackjack": 1783572168376,
         "cook": 1783751803038,
-        "trafico": 1784052058194
+        "trafico": 1784054835096
       },
       "inventory": {
         "espada_diamante": 1,
@@ -667,7 +667,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 22825,
+      "exp": 23425,
       "prestige": 0,
       "classe": "paladino",
       "clan": "clan_5",
@@ -727,7 +727,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 37
+          "xp": 38
         }
       },
       "properties": {},
@@ -802,14 +802,14 @@
         "totalExplore": 74,
         "totalBattles": 0,
         "totalWins": 0,
-        "totalCrimes": 37,
+        "totalCrimes": 38,
         "workCount": 54,
         "exploreCount": 74,
         "fishCount": 51,
         "mineCount": 62,
         "huntCount": 48,
-        "totalTrafico": 36,
-        "traficoCount": 36
+        "totalTrafico": 37,
+        "traficoCount": 37
       },
       "ingredients": {
         "peixe": 154,

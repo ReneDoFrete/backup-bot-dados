@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 129184,
+      "wallet": 128891,
       "bank": 5020000,
       "cooldowns": {
         "work": 1783782773447,
@@ -9465,11 +9465,11 @@
       }
     },
     "119507515347175@lid": {
-      "wallet": 553,
+      "wallet": 846,
       "bank": 0,
       "cooldowns": {
         "work": 1783563000643,
-        "rob": 1783480567168
+        "rob": 1784046682099
       },
       "inventory": {},
       "items": {},
@@ -9477,25 +9477,25 @@
       "tools": {},
       "materials": {},
       "challenge": {
-        "expiresAt": 1783565999999,
+        "expiresAt": 1784073599999,
         "tasks": [
           {
-            "type": "crimeSuccess",
-            "target": 7,
+            "type": "mine",
+            "target": 4,
             "progress": 0
           },
           {
-            "type": "hunt",
+            "type": "work",
             "target": 6,
             "progress": 0
           },
           {
             "type": "explore",
-            "target": 3,
+            "target": 5,
             "progress": 0
           }
         ],
-        "reward": 309,
+        "reward": 427,
         "claimed": false
       },
       "weeklyChallenge": {

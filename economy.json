@@ -4595,7 +4595,7 @@
       "lastDungeon": 1780014564378
     },
     "86153201999991@lid": {
-      "wallet": 2547,
+      "wallet": 2590.7,
       "bank": 0,
       "cooldowns": {
         "work": 1783460451534,
@@ -4997,16 +4997,16 @@
       "investments": {
         "stocks": {
           "gold": 1,
-          "energy": 53955
+          "energy": 53954
         },
-        "totalInvested": 2034721.4500000004,
-        "totalProfit": 754994.16,
+        "totalInvested": 2034686.4500000004,
+        "totalProfit": 755002.86,
         "lastDividend": 0,
         "stocksCost": {
           "gold": 39.449999999953434,
           "tech": 0,
           "crypto": 0,
-          "energy": 1942143.4000000004
+          "energy": 1942108.4000000004
         }
       },
       "lastArena": 1783342041161,

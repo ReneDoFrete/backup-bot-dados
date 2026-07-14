@@ -11291,14 +11291,14 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 0,
+      "wallet": 320,
       "bank": 2225506,
       "cooldowns": {
         "daily": 1784068805832,
         "fish": 1783992539899,
         "work": 1783887104797,
         "rob": 1783983057205,
-        "mine": 1783992414132,
+        "mine": 1784046922096,
         "crime": 1783469671010,
         "trafico": 1783992726067,
         "hunt": 1783993136640,
@@ -11332,13 +11332,13 @@
         }
       },
       "materials": {
-        "pedra": 122,
+        "pedra": 124,
         "couro": 34,
-        "ferro": 66,
+        "ferro": 68,
         "madeira": 42,
         "linha": 19,
         "cristal": 2,
-        "carvao": 9,
+        "carvao": 10,
         "corda": 12,
         "ouro": 1
       },
@@ -11370,7 +11370,7 @@
           {
             "type": "mine",
             "target": 20,
-            "progress": 14
+            "progress": 15
           },
           {
             "type": "crimeSuccess",
@@ -11458,7 +11458,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 0
+          "xp": 1
         },
         "working": {
           "level": 1,
@@ -11544,8 +11544,8 @@
         "fishCount": 51,
         "totalWork": 29,
         "workCount": 29,
-        "totalMine": 50,
-        "mineCount": 50,
+        "totalMine": 51,
+        "mineCount": 51,
         "totalCrime": 6,
         "crimeCount": 6,
         "totalExplore": 38,

@@ -524,12 +524,12 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 1014,
+      "wallet": 1506,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
         "crime": 1783988498877,
-        "explore": 1783997752621,
+        "explore": 1784047232689,
         "fish": 1783997565686,
         "hunt": 1783998169706,
         "rob": 1783987305138,
@@ -576,7 +576,7 @@
       "materials": {
         "madeira": 103,
         "corda": 22,
-        "linha": 50,
+        "linha": 51,
         "cristal": 4,
         "pedra": 197,
         "couro": 65,
@@ -601,7 +601,7 @@
           {
             "type": "explore",
             "target": 7,
-            "progress": 0
+            "progress": 1
           }
         ],
         "reward": 389,
@@ -645,7 +645,7 @@
           {
             "type": "explore",
             "target": 76,
-            "progress": 65
+            "progress": 66
           },
           {
             "type": "crimeSuccess",
@@ -715,7 +715,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 23
+          "xp": 24
         },
         "hunting": {
           "level": 2,
@@ -799,12 +799,12 @@
         "totalWork": 54,
         "totalFish": 50,
         "totalHunt": 46,
-        "totalExplore": 73,
+        "totalExplore": 74,
         "totalBattles": 0,
         "totalWins": 0,
         "totalCrimes": 36,
         "workCount": 54,
-        "exploreCount": 73,
+        "exploreCount": 74,
         "fishCount": 50,
         "mineCount": 61,
         "huntCount": 46,

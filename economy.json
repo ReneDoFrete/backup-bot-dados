@@ -8252,8 +8252,8 @@
       }
     },
     "166709960913086@lid": {
-      "wallet": 92524,
-      "bank": 45000,
+      "wallet": 232463,
+      "bank": 0,
       "cooldowns": {
         "work": 1783469935845,
         "explore": 1784032196833,
@@ -8263,7 +8263,7 @@
         "fish": 1784032013435,
         "mine": 1784031890234,
         "hunt": 1784032606628,
-        "bet": 1784060103272,
+        "bet": 1784060355706,
         "crash": 1783811011210,
         "crime": 1784033110030
       },
@@ -11321,8 +11321,8 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 90876,
-      "bank": 2228145,
+      "wallet": 0,
+      "bank": 2259030,
       "cooldowns": {
         "daily": 1784068805832,
         "fish": 1784049477095,
@@ -11334,7 +11334,7 @@
         "hunt": 1784050070895,
         "crimesair": 1783820907251,
         "explore": 1784049647790,
-        "bet": 1783988166035,
+        "bet": 1784060480158,
         "roleta": 1783915849628,
         "cook": 1783916867080
       },
@@ -11622,16 +11622,18 @@
           "gold": 150000,
           "energy": 9000,
           "tech": 10000,
-          "fatalmodel": 2
+          "fatalmodel": 2,
+          "brazino777": 200
         },
         "stocksCost": {
           "crypto": 0,
           "gold": 2363200,
           "energy": 450540,
           "fatalmodel": 13944.5,
-          "tech": 282200
+          "tech": 282200,
+          "brazino777": 29704.000000000004
         },
-        "totalInvested": 3107199.5,
+        "totalInvested": 3136903.5,
         "totalProfit": 1190373.95,
         "lastDividend": 0
       },
@@ -12315,14 +12317,14 @@
       "defenseBonus": 8,
       "durability": 80
     },
-    "amuleto_magico": {
-      "name": "Anel de Ouro",
-      "price": 2400,
+    "bracelete_magico": {
+      "name": "Bracelete Mágico",
+      "price": 300000000000000000,
       "type": "equipment",
       "slot": "accessory",
-      "attackBonus": 12,
-      "defenseBonus": 8,
-      "durability": 80
+      "attackBonus": 18,
+      "defenseBonus": 14,
+      "durability": 120
     },
     "amuleto_protecao": {
       "name": "Amuleto de Proteção",
@@ -12500,173 +12502,13 @@
       },
       "gold": 160000
     },
-    "pickaxe_bronze": {
-      "requires": {
-        "pedra": 10,
-        "ferro": 2
-      },
-      "gold": 100
-    },
-    "pickaxe_ferro": {
-      "requires": {
-        "ferro": 10,
-        "ouro": 2
-      },
-      "gold": 300
-    },
-    "pickaxe_diamante": {
-      "requires": {
-        "ouro": 10,
-        "diamante": 4
-      },
-      "gold": 1200
-    },
-    "espada_ferro": {
-      "requires": {
-        "ferro": 15,
-        "madeira": 5
-      },
-      "gold": 250
-    },
-    "espada_aco": {
-      "requires": {
-        "ferro": 25,
-        "carvao": 10
-      },
-      "gold": 500
-    },
-    "espada_diamante": {
-      "requires": {
-        "diamante": 8,
-        "ferro": 20
-      },
-      "gold": 1500
-    },
-    "arco_basico": {
-      "requires": {
-        "madeira": 10,
-        "corda": 3
-      },
-      "gold": 200
-    },
-    "arco_reforcado": {
-      "requires": {
-        "madeira": 15,
-        "ferro": 12
-      },
-      "gold": 600
-    },
-    "armadura_couro": {
-      "requires": {
-        "couro": 20,
-        "linha": 5
-      },
-      "gold": 300
-    },
-    "armadura_ferro": {
-      "requires": {
-        "ferro": 30,
-        "couro": 15
-      },
-      "gold": 800
-    },
-    "armadura_aco": {
-      "requires": {
-        "ferro": 40,
-        "carvao": 15
-      },
-      "gold": 1200
-    },
-    "escudo_madeira": {
-      "requires": {
-        "madeira": 15,
-        "ferro": 5
-      },
-      "gold": 150
-    },
-    "escudo_ferro": {
-      "requires": {
-        "ferro": 25,
-        "madeira": 10
-      },
-      "gold": 450
-    },
-    "elmo_couro": {
-      "requires": {
-        "couro": 10,
-        "linha": 3
-      },
-      "gold": 200
-    },
-    "elmo_ferro": {
-      "requires": {
-        "ferro": 15,
-        "couro": 8
-      },
-      "gold": 400
-    },
-    "elmo_aco": {
-      "requires": {
-        "ferro": 20,
-        "carvao": 8
-      },
-      "gold": 700
-    },
-    "botas_couro": {
-      "requires": {
-        "couro": 12,
-        "linha": 4
-      },
-      "gold": 250
-    },
-    "botas_ferro": {
-      "requires": {
-        "ferro": 18,
-        "couro": 10
-      },
-      "gold": 500
-    },
-    "botas_aco": {
-      "requires": {
-        "ferro": 25,
-        "carvao": 10
-      },
-      "gold": 900
-    },
-    "anel_ferro": {
-      "requires": {
-        "ferro": 8,
-        "ouro": 2
-      },
-      "gold": 350
-    },
-    "anel_ouro": {
+    "bracelete_magico": {
       "requires": {
         "ouro": 12,
-        "diamante": 2
+        "diamante": 24,
+        "cristal": 8
       },
-      "gold": 800
-    },
-    "amuleto_protecao": {
-      "requires": {
-        "cristal": 5,
-        "ouro": 8
-      },
-      "gold": 1000
-    },
-    "luvas_ferro": {
-      "requires": {
-        "ferro": 10,
-        "couro": 5
-      },
-      "gold": 300
-    },
-    "luvas_aco": {
-      "requires": {
-        "ferro": 15,
-        "carvao": 6
-      },
-      "gold": 600
+      "gold": 800000
     }
   },
   "jobCatalog": {
@@ -13110,6 +12952,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 40.02,
+      "gold": 27.93,
+      "crypto": 85.81,
+      "energy": 28.48,
+      "brazino777": 163.63,
+      "fatalmodel": 3604.86
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 36.89,
       "gold": 26.74,
       "crypto": 89.01,
@@ -13117,19 +12968,10 @@
       "brazino777": 148.52,
       "fatalmodel": 4181.21
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 40.51,
-      "gold": 29.54,
-      "crypto": 83.84,
-      "energy": 30.59,
-      "brazino777": 148.52,
-      "fatalmodel": 3770.92
-    },
     "trends": {
-      "tech": "Alta 📈",
+      "tech": "Baixa 📉",
       "gold": "Alta 📈",
-      "crypto": "Baixa 📉",
+      "crypto": "Estável 🔹",
       "energy": "Baixa 📉",
       "brazino777": "Alta 📈",
       "fatalmodel": "Baixa 📉"

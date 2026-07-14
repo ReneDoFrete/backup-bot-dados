@@ -209,7 +209,7 @@
       "trafico": "aviaozinhocv"
     },
     "166812754911326@lid": {
-      "wallet": 19980,
+      "wallet": 16980,
       "bank": 2555000,
       "cooldowns": {
         "work": 1783477612015,
@@ -228,7 +228,7 @@
         "blackjack": 1783899464173
       },
       "inventory": {
-        "vault": 10,
+        "vault": 13,
         "vault_grande": 5
       },
       "items": {},

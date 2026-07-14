@@ -524,14 +524,14 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 1506,
+      "wallet": 1560,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
         "crime": 1783988498877,
         "explore": 1784047232689,
         "fish": 1783997565686,
-        "hunt": 1783998169706,
+        "hunt": 1784047654399,
         "rob": 1783987305138,
         "mine": 1783990374871,
         "dados": 1783459700789,
@@ -579,7 +579,7 @@
         "linha": 51,
         "cristal": 4,
         "pedra": 197,
-        "couro": 65,
+        "couro": 67,
         "ferro": 105,
         "carvao": 36,
         "ouro": 10,
@@ -596,7 +596,7 @@
           {
             "type": "hunt",
             "target": 4,
-            "progress": 0
+            "progress": 1
           },
           {
             "type": "explore",
@@ -660,7 +660,7 @@
           {
             "type": "hunt",
             "target": 97,
-            "progress": 57
+            "progress": 58
           }
         ],
         "reward": 16214,
@@ -719,7 +719,7 @@
         },
         "hunting": {
           "level": 2,
-          "xp": 8
+          "xp": 9
         },
         "forging": {
           "level": 1,
@@ -798,7 +798,7 @@
         "totalMine": 61,
         "totalWork": 54,
         "totalFish": 50,
-        "totalHunt": 46,
+        "totalHunt": 47,
         "totalExplore": 74,
         "totalBattles": 0,
         "totalWins": 0,
@@ -807,13 +807,13 @@
         "exploreCount": 74,
         "fishCount": 50,
         "mineCount": 61,
-        "huntCount": 46,
+        "huntCount": 47,
         "totalTrafico": 35,
         "traficoCount": 35
       },
       "ingredients": {
         "peixe": 152,
-        "carne": 70,
+        "carne": 72,
         "queijo": 6,
         "ovo": 2,
         "trigo": 6

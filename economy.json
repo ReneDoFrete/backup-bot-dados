@@ -209,7 +209,7 @@
       "trafico": "aviaozinhocv"
     },
     "166812754911326@lid": {
-      "wallet": 22084,
+      "wallet": 20980,
       "bank": 2555000,
       "cooldowns": {
         "work": 1783477612015,
@@ -425,7 +425,7 @@
       "totalExplore": 0,
       "totalCrime": 0,
       "battlesWon": 2,
-      "battlesLost": 21,
+      "battlesLost": 22,
       "lotteryTickets": 0,
       "createdAt": 1773356059432,
       "lastDaily": 0,
@@ -11291,7 +11291,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 1535,
+      "wallet": 2639,
       "bank": 2225506,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11424,7 +11424,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 15392,
+      "exp": 15542,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -11517,7 +11517,7 @@
       "totalHunt": 0,
       "totalExplore": 0,
       "totalCrime": 0,
-      "battlesWon": 11,
+      "battlesWon": 12,
       "battlesLost": 7,
       "lotteryTickets": 0,
       "createdAt": 1781904618850,
@@ -11621,7 +11621,7 @@
       "achievements": {
         "milionario": 1783891124334
       },
-      "lastDuel": 1783991832153,
+      "lastDuel": 1784046437801,
       "cookedFood": {
         "pao": 0
       },

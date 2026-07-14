@@ -13166,6 +13166,17 @@
       "maxMembers": 3,
       "created": 1783993911390,
       "status": "waiting"
+    },
+    "party_1784053740296": {
+      "id": "party_1784053740296",
+      "type": "floresta",
+      "leader": "71546269905098@lid",
+      "members": [
+        "71546269905098@lid"
+      ],
+      "maxMembers": 2,
+      "created": 1784053740296,
+      "status": "waiting"
     }
   },
   "treasury": 128000,

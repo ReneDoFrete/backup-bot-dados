@@ -7578,7 +7578,7 @@
       }
     },
     "253257075150984@lid": {
-      "wallet": 53795,
+      "wallet": 60395,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
@@ -7709,7 +7709,7 @@
         "claimed": false
       },
       "level": 11,
-      "exp": 2775,
+      "exp": 3275,
       "prestige": 0,
       "classe": "ladino",
       "clan": null,
@@ -7831,7 +7831,7 @@
         "totalHunt": 4,
         "huntCount": 4
       },
-      "lastDungeon": 1784041268395,
+      "lastDungeon": 1784049668899,
       "trafico": "ldfcv",
       "ingredients": {
         "peixe": 36,

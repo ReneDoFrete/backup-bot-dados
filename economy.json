@@ -992,13 +992,13 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 38860,
+      "wallet": 39139,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
         "crime": 1783981332487,
         "fish": 1783999251192,
-        "explore": 1784045478890,
+        "explore": 1784048490090,
         "daily": 1784058195707,
         "rob": 1783992610327,
         "crash": 1783883655640,
@@ -1043,7 +1043,7 @@
         }
       },
       "materials": {
-        "madeira": 68,
+        "madeira": 69,
         "linha": 21,
         "couro": 28,
         "cristal": 8,
@@ -1124,7 +1124,7 @@
           {
             "type": "explore",
             "target": 68,
-            "progress": 48
+            "progress": 49
           },
           {
             "type": "hunt",
@@ -1184,7 +1184,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 0
+          "xp": 1
         },
         "hunting": {
           "level": 1,
@@ -1243,8 +1243,8 @@
         "workCount": 38,
         "totalFish": 45,
         "fishCount": 45,
-        "totalExplore": 50,
-        "exploreCount": 50,
+        "totalExplore": 51,
+        "exploreCount": 51,
         "totalMine": 69,
         "mineCount": 69,
         "totalHunt": 15,

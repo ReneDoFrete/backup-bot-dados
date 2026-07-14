@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 4539,
+      "wallet": 80369,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -667,7 +667,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 26175,
+      "exp": 28340,
       "prestige": 0,
       "classe": "paladino",
       "clan": "clan_5",
@@ -2184,7 +2184,7 @@
       }
     },
     "164815091843303@lid": {
-      "wallet": 472168,
+      "wallet": 606328,
       "bank": 0,
       "cooldowns": {
         "daily": 1783998007731,
@@ -2328,7 +2328,7 @@
         "claimed": false
       },
       "level": 14,
-      "exp": 15258,
+      "exp": 19088,
       "prestige": 0,
       "classe": "ladino",
       "clan": "clan_1",
@@ -2704,7 +2704,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 1437416,
+      "wallet": 1892406,
       "bank": 0,
       "cooldowns": {
         "work": 1783468790688,
@@ -2853,7 +2853,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 40443,
+      "exp": 55438,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -10816,14 +10816,14 @@
       }
     },
     "277304580288729@lid": {
-      "wallet": 1044112,
+      "wallet": 384112,
       "bank": 1262868,
       "cooldowns": {
         "work": 1783727846799,
         "fish": 1784056061395,
         "mine": 1784055938597,
         "trafico": 1784062684764,
-        "bet": 1784057410104,
+        "bet": 1784063699453,
         "explore": 1784056245994,
         "daily": 1784079150061,
         "hunt": 1784044543201,
@@ -11321,7 +11321,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 1519529,
+      "wallet": 1939519,
       "bank": 2259030,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11454,7 +11454,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 18979,
+      "exp": 30974,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -12952,6 +12952,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 31.62,
+      "gold": 22.83,
+      "crypto": 82.33,
+      "energy": 29.95,
+      "brazino777": 208.06,
+      "fatalmodel": 3333.85
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 35.71,
       "gold": 25.78,
       "crypto": 75.05,
@@ -12959,22 +12968,13 @@
       "brazino777": 201.73,
       "fatalmodel": 3297.86
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 37.51,
-      "gold": 23.77,
-      "crypto": 81.4,
-      "energy": 24.93,
-      "brazino777": 184.71,
-      "fatalmodel": 3269.23
-    },
     "trends": {
-      "tech": "Baixa 📉",
-      "gold": "Baixa 📉",
-      "crypto": "Alta 📈",
-      "energy": "Alta 📈",
-      "brazino777": "Alta 📈",
-      "fatalmodel": "Alta 📈"
+      "tech": "Alta 📈",
+      "gold": "Alta 📈",
+      "crypto": "Baixa 📉",
+      "energy": "Baixa 📉",
+      "brazino777": "Baixa 📉",
+      "fatalmodel": "Estável 🔹"
     }
   },
   "dungeonParties": {
@@ -13034,19 +13034,6 @@
       "created": 1783987179719,
       "status": "waiting"
     },
-    "party_1783993911390": {
-      "id": "party_1783993911390",
-      "type": "ruinas",
-      "leader": "164815091843303@lid",
-      "members": [
-        "164815091843303@lid",
-        "259472379355184@lid",
-        "36168003502114@lid"
-      ],
-      "maxMembers": 3,
-      "created": 1783993911390,
-      "status": "waiting"
-    },
     "party_1784053740296": {
       "id": "party_1784053740296",
       "type": "floresta",
@@ -13056,6 +13043,17 @@
       ],
       "maxMembers": 2,
       "created": 1784053740296,
+      "status": "waiting"
+    },
+    "party_1784063639644": {
+      "id": "party_1784063639644",
+      "type": "3",
+      "leader": "91384740589687@lid",
+      "members": [
+        "91384740589687@lid"
+      ],
+      "maxMembers": 3,
+      "created": 1784063639644,
       "status": "waiting"
     }
   },

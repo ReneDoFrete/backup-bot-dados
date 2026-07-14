@@ -209,7 +209,7 @@
       "trafico": "aviaozinhocv"
     },
     "166812754911326@lid": {
-      "wallet": 0,
+      "wallet": 9500,
       "bank": 2590871,
       "cooldowns": {
         "work": 1783477612015,
@@ -2702,7 +2702,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 87232,
+      "wallet": 77232,
       "bank": 0,
       "cooldowns": {
         "work": 1783468790688,
@@ -2764,7 +2764,7 @@
         "ferro": 182,
         "carvao": 76,
         "diamante": 9,
-        "cristal": 1,
+        "cristal": 2,
         "madeira": 80,
         "linha": 35,
         "corda": 10,
@@ -13285,16 +13285,6 @@
         "seller": "166812754911326@lid",
         "sellerName": "Kennedy Silva 👑",
         "created": 1783992905767
-      },
-      {
-        "id": "listing_1784052932291",
-        "name": "cristal",
-        "price": 10000,
-        "amount": 1,
-        "isMat": true,
-        "seller": "166812754911326@lid",
-        "sellerName": "Kennedy Silva 👑",
-        "created": 1784052932291
       }
     ],
     "fee": 0.05

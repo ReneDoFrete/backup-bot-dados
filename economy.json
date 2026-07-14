@@ -10537,18 +10537,18 @@
           "speed": 12,
           "element": "fire",
           "level": 5,
-          "exp": 71,
+          "exp": 136,
           "evolutions": 0,
-          "hunger": 80,
-          "mood": 100,
+          "hunger": 56,
+          "mood": 98,
           "wins": 2,
           "losses": 0,
           "equipment": {
             "accessory": "pet_ring",
             "weapon": "mystic_collar"
           },
-          "lastUpdate": 1784046485898,
-          "lastTrain": 1784046486105,
+          "lastUpdate": 1784050262388,
+          "lastTrain": 1784050262389,
           "cost": 15000
         }
       ],

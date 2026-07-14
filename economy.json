@@ -13057,18 +13057,6 @@
       "maxMembers": 2,
       "created": 1784053740296,
       "status": "waiting"
-    },
-    "party_1784063155055": {
-      "id": "party_1784063155055",
-      "type": "3",
-      "leader": "264437378322556@lid",
-      "members": [
-        "264437378322556@lid",
-        "91384740589687@lid"
-      ],
-      "maxMembers": 3,
-      "created": 1784063155055,
-      "status": "waiting"
     }
   },
   "treasury": 128000,

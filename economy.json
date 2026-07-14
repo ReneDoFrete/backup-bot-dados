@@ -8725,7 +8725,7 @@
       }
     },
     "117025208856591@lid": {
-      "wallet": 636563,
+      "wallet": 636969,
       "bank": 8000,
       "cooldowns": {
         "work": 1783644567226,
@@ -8734,7 +8734,7 @@
         "bet": 1784028896129,
         "mine": 1784054850490,
         "crash": 1783717406470,
-        "explore": 1784048460394,
+        "explore": 1784055161298,
         "fish": 1784054975493,
         "crime": 1783993753670,
         "daily": 1784060167025,
@@ -8762,7 +8762,7 @@
         "ouro": 10,
         "diamante": 2,
         "cristal": 1,
-        "madeira": 4
+        "madeira": 6
       },
       "challenge": {
         "expiresAt": 1784073599999,
@@ -8797,7 +8797,7 @@
           {
             "type": "explore",
             "target": 21,
-            "progress": 7
+            "progress": 8
           },
           {
             "type": "hunt",
@@ -8834,7 +8834,7 @@
           {
             "type": "explore",
             "target": 94,
-            "progress": 8
+            "progress": 9
           },
           {
             "type": "hunt",
@@ -8892,7 +8892,7 @@
         },
         "exploring": {
           "level": 1,
-          "xp": 8
+          "xp": 9
         },
         "hunting": {
           "level": 1,
@@ -8978,8 +8978,8 @@
         "totalCrimes": 35,
         "totalMine": 29,
         "mineCount": 29,
-        "totalExplore": 8,
-        "exploreCount": 8,
+        "totalExplore": 9,
+        "exploreCount": 9,
         "totalFish": 22,
         "fishCount": 22,
         "totalHunt": 1,

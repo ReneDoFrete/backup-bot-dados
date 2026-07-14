@@ -989,7 +989,7 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 37664,
+      "wallet": 40997,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
@@ -1002,7 +1002,7 @@
         "hunt": 1783999855202,
         "mine": 1784000701057,
         "blackjack": 1783572187443,
-        "trafico": 1784041593598,
+        "trafico": 1784045466295,
         "bet": 1783988508142,
         "cook": 1783973955936
       },
@@ -1133,7 +1133,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 5154,
+      "exp": 6354,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -1193,7 +1193,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 35
+          "xp": 36
         }
       },
       "properties": {},
@@ -1246,9 +1246,9 @@
         "mineCount": 67,
         "totalHunt": 15,
         "huntCount": 15,
-        "totalTrafico": 84,
-        "traficoCount": 84,
-        "totalCrimes": 85
+        "totalTrafico": 85,
+        "traficoCount": 85,
+        "totalCrimes": 86
       },
       "ingredients": {
         "peixe": 130,

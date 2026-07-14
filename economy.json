@@ -7578,7 +7578,7 @@
       }
     },
     "253257075150984@lid": {
-      "wallet": 60395,
+      "wallet": 58895,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
@@ -7605,7 +7605,8 @@
         "arco_reforcado": 1,
         "anel_ouro": 0,
         "vault_grande": 1,
-        "vault_medio": 1
+        "vault_medio": 1,
+        "pet_armor": 1
       },
       "items": {},
       "job": null,

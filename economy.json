@@ -10784,7 +10784,7 @@
       }
     },
     "277304580288729@lid": {
-      "wallet": 33699,
+      "wallet": 32699,
       "bank": 531000,
       "cooldowns": {
         "work": 1783727846799,
@@ -10801,7 +10801,7 @@
       "inventory": {
         "dragonslayer": 1,
         "lucky": 1,
-        "vault": 9,
+        "vault": 10,
         "vault_grande": 1,
         "armadura_aco": 0,
         "luvas_aco": 1,

@@ -209,7 +209,7 @@
       "trafico": "aviaozinhocv"
     },
     "166812754911326@lid": {
-      "wallet": 20980,
+      "wallet": 19980,
       "bank": 2555000,
       "cooldowns": {
         "work": 1783477612015,
@@ -228,7 +228,7 @@
         "blackjack": 1783899464173
       },
       "inventory": {
-        "vault": 9,
+        "vault": 10,
         "vault_grande": 5
       },
       "items": {},
@@ -10325,7 +10325,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 117125,
+      "wallet": 117025,
       "bank": 738431,
       "cooldowns": {
         "work": 1783728008192,
@@ -10536,9 +10536,9 @@
           "speed": 12,
           "element": "fire",
           "level": 5,
-          "exp": 0,
+          "exp": 71,
           "evolutions": 0,
-          "hunger": 100,
+          "hunger": 80,
           "mood": 100,
           "wins": 2,
           "losses": 0,
@@ -10546,8 +10546,8 @@
             "accessory": "pet_ring",
             "weapon": "mystic_collar"
           },
-          "lastUpdate": 1784041020393,
-          "lastTrain": 1784040558698,
+          "lastUpdate": 1784046485898,
+          "lastTrain": 1784046486105,
           "cost": 15000
         }
       ],

@@ -992,13 +992,13 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 39578,
+      "wallet": 39851,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
         "crime": 1783981332487,
         "fish": 1783999251192,
-        "explore": 1784048490090,
+        "explore": 1784050529896,
         "daily": 1784058195707,
         "rob": 1783992610327,
         "crash": 1783883655640,
@@ -1043,12 +1043,12 @@
         }
       },
       "materials": {
-        "madeira": 69,
+        "madeira": 71,
         "linha": 21,
         "couro": 28,
         "cristal": 8,
         "pedra": 232,
-        "corda": 19,
+        "corda": 20,
         "ferro": 155,
         "ouro": 15,
         "carvao": 57,
@@ -1124,7 +1124,7 @@
           {
             "type": "explore",
             "target": 68,
-            "progress": 49
+            "progress": 50
           },
           {
             "type": "hunt",
@@ -1184,7 +1184,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 1
+          "xp": 2
         },
         "hunting": {
           "level": 1,
@@ -1243,8 +1243,8 @@
         "workCount": 38,
         "totalFish": 45,
         "fishCount": 45,
-        "totalExplore": 51,
-        "exploreCount": 51,
+        "totalExplore": 52,
+        "exploreCount": 52,
         "totalMine": 70,
         "mineCount": 70,
         "totalHunt": 15,
@@ -7578,7 +7578,7 @@
       }
     },
     "253257075150984@lid": {
-      "wallet": 54295,
+      "wallet": 53795,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
@@ -7773,7 +7773,7 @@
       "properties": {},
       "pets": [
         {
-          "name": "Dragão",
+          "name": "banguela",
           "emoji": "🐉",
           "type": "dragao",
           "hp": 161,

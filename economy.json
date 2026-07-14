@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 2139,
+      "wallet": 2039,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -745,12 +745,12 @@
           "level": 4,
           "exp": 252,
           "evolutions": 0,
-          "hunger": 80,
-          "mood": 97,
+          "hunger": 57,
+          "mood": 10,
           "wins": 2,
           "losses": 6,
           "equipment": {},
-          "lastUpdate": 1783996859711,
+          "lastUpdate": 1784046690194,
           "lastTrain": 1783996875377,
           "cost": 10000
         },
@@ -767,12 +767,12 @@
           "level": 2,
           "exp": 0,
           "evolutions": 0,
-          "hunger": 80,
-          "mood": 100,
+          "hunger": 23,
+          "mood": 3,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1783996872110,
+          "lastUpdate": 1784046690194,
           "lastTrain": 1783996879639,
           "cost": 15000
         }

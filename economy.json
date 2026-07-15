@@ -2697,7 +2697,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 41363,
+      "wallet": 91363,
       "bank": 2830862,
       "cooldowns": {
         "work": 1783468790688,
@@ -2853,7 +2853,7 @@
       "house": {
         "type": "castelo",
         "decorations": [],
-        "lastCollect": 1783982422023
+        "lastCollect": 1784130430958
       },
       "family": {
         "spouse": null,
@@ -6119,7 +6119,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 18492,
+      "wallet": 18307,
       "bank": 2790010,
       "cooldowns": {
         "daily": 1784033104182,
@@ -11088,10 +11088,10 @@
       }
     },
     "71546269905098@lid": {
-      "wallet": 5432,
+      "wallet": 5617,
       "bank": 10000,
       "cooldowns": {
-        "rob": 1784071081396,
+        "rob": 1784131000170,
         "work": 1783988995291,
         "trafico": 1784131286788
       },
@@ -12930,21 +12930,23 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 37.43,
+      "gold": 50.18,
+      "crypto": 50.31,
+      "energy": 35.29,
+      "brazino777": 112.1,
+      "fatalmodel": 1209.71,
+      "brazzers": 350.00
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 40.7,
       "gold": 52.32,
       "crypto": 45.84,
       "energy": 32.2,
       "brazino777": 112.1,
-      "fatalmodel": 1084.17
-    },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 40.7,
-      "gold": 46.9,
-      "crypto": 43.86,
-      "energy": 30.56,
-      "brazino777": 100.49,
-      "fatalmodel": 1060.14
+      "fatalmodel": 1084.17,
+      "brazzers": 350.00
     },
     "trends": {
       "tech": "Baixa 📉",
@@ -12952,7 +12954,8 @@
       "crypto": "Alta 📈",
       "energy": "Alta 📈",
       "brazino777": "Estável 🔹",
-      "fatalmodel": "Alta 📈"
+      "fatalmodel": "Baixa 📉",
+      "brazzers": "Alta 📈"
     }
   },
   "dungeonParties": {

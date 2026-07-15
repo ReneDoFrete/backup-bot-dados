@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 44287,
+      "wallet": 703,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -671,7 +671,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 13790,
+      "exp": 14140,
       "prestige": 0,
       "classe": "paladino",
       "clan": "clan_5",
@@ -747,15 +747,15 @@
           "speed": 20,
           "element": "fire",
           "level": 6,
-          "exp": 0,
+          "exp": 52,
           "evolutions": 0,
-          "hunger": 80,
-          "mood": 46,
+          "hunger": 52,
+          "mood": 42,
           "wins": 3,
           "losses": 6,
           "equipment": {},
-          "lastUpdate": 1784138077078,
-          "lastTrain": 1784138350124,
+          "lastUpdate": 1784145546756,
+          "lastTrain": 1784145546756,
           "cost": 10000
         },
         {
@@ -769,10 +769,10 @@
           "speed": 12,
           "element": "fire",
           "level": 4,
-          "exp": 190,
+          "exp": 265,
           "evolutions": 0,
-          "hunger": 80,
-          "mood": 28,
+          "hunger": 52,
+          "mood": 24,
           "wins": 2,
           "losses": 3,
           "equipment": {
@@ -781,8 +781,8 @@
             "shield": "pet_shield",
             "armor": "pet_armor"
           },
-          "lastUpdate": 1784138084380,
-          "lastTrain": 1784138354192,
+          "lastUpdate": 1784145546756,
+          "lastTrain": 1784145550164,
           "cost": 15000
         }
       ],
@@ -793,7 +793,7 @@
       "totalHunt": 0,
       "totalExplore": 0,
       "totalCrime": 0,
-      "battlesWon": 45,
+      "battlesWon": 47,
       "battlesLost": 25,
       "lotteryTickets": 0,
       "createdAt": 1774731286905,
@@ -830,11 +830,11 @@
       "investments": {
         "stocks": {
           "gold": 679282,
-          "brazino777": 26381,
+          "brazino777": 27059,
           "tech": 53500,
           "energy": 36000
         },
-        "totalInvested": 21861560.749999985,
+        "totalInvested": 21910676.289999988,
         "totalProfit": 21228673.25,
         "lastDividend": 0,
         "stocksCost": {
@@ -842,7 +842,7 @@
           "tech": 1511950,
           "gold": 15364114.54999999,
           "fatalmodel": 0,
-          "brazino777": 4130175.3
+          "brazino777": 4179290.8400000003
         }
       },
       "streak": {
@@ -851,7 +851,7 @@
         "record": 7
       },
       "trafico": "grtpcc",
-      "lastDungeon": 1784134320773,
+      "lastDungeon": 1784145557071,
       "classeBonuses": {
         "defense": 25,
         "attack": 10
@@ -922,7 +922,7 @@
         "total": 10000,
         "count": 2
       },
-      "lastArena": 1784138329695
+      "lastArena": 1784145560025
     },
     "142133436666060@lid": {
       "wallet": 0,
@@ -7711,14 +7711,14 @@
       "premiumItems": {}
     },
     "253257075150984@lid": {
-      "wallet": 136199,
+      "wallet": 128133,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
         "work": 1783521115388,
         "crime": 1783961099280,
         "rob": 1783959893253,
-        "trafico": 1784136062464,
+        "trafico": 1784146405806,
         "fish": 1784127500259,
         "mine": 1784134355615,
         "crash": 1783883632559,
@@ -7844,14 +7844,14 @@
         "claimed": false
       },
       "level": 13,
-      "exp": 10691,
+      "exp": 11066,
       "prestige": 0,
       "classe": "ladino",
       "clan": null,
       "house": {
         "type": "casa",
         "decorations": [],
-        "lastCollect": 1784043242598
+        "lastCollect": 1784145639137
       },
       "family": {
         "spouse": null,
@@ -7900,7 +7900,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 33
+          "xp": 34
         }
       },
       "properties": {},
@@ -7916,15 +7916,15 @@
           "speed": 12,
           "element": "fire",
           "level": 3,
-          "exp": 75,
+          "exp": 130,
           "evolutions": 0,
           "hunger": 100,
           "mood": 100,
           "wins": 0,
           "losses": 1,
           "equipment": {},
-          "lastUpdate": 1784133781851,
-          "lastTrain": 1784133768523,
+          "lastUpdate": 1784145538159,
+          "lastTrain": 1784145530129,
           "cost": 15000
         }
       ],
@@ -7936,7 +7936,7 @@
       "totalExplore": 0,
       "totalCrime": 0,
       "battlesWon": 3,
-      "battlesLost": 3,
+      "battlesLost": 4,
       "lotteryTickets": 0,
       "createdAt": 1783443961702,
       "lastDaily": 0,
@@ -7956,9 +7956,9 @@
         "fishCount": 13,
         "totalMine": 17,
         "mineCount": 17,
-        "totalTrafico": 27,
-        "traficoCount": 27,
-        "totalCrimes": 30,
+        "totalTrafico": 28,
+        "traficoCount": 28,
+        "totalCrimes": 31,
         "totalExplore": 14,
         "exploreCount": 14,
         "totalHunt": 5,
@@ -8004,7 +8004,8 @@
       "classeBonuses": {
         "attack": 12,
         "luck": 20
-      }
+      },
+      "lastArena": 1784145596919
     },
     "194347454709793@lid": {
       "wallet": 135534,
@@ -10479,7 +10480,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 34500,
+      "wallet": 34400,
       "bank": 2268459,
       "cooldowns": {
         "work": 1783728008192,
@@ -10693,9 +10694,9 @@
           "speed": 12,
           "element": "fire",
           "level": 6,
-          "exp": 292,
+          "exp": 368,
           "evolutions": 0,
-          "hunger": 100,
+          "hunger": 80,
           "mood": 100,
           "wins": 10,
           "losses": 0,
@@ -10705,8 +10706,8 @@
             "shield": "pet_shield",
             "armor": "pet_armor"
           },
-          "lastUpdate": 1784137851125,
-          "lastTrain": 1784137846073,
+          "lastUpdate": 1784145692276,
+          "lastTrain": 1784145697069,
           "cost": 15000
         }
       ],
@@ -13083,6 +13084,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 47.87,
+      "gold": 46.86,
+      "crypto": 64.3,
+      "energy": 37.26,
+      "brazino777": 77.16,
+      "fatalmodel": 1384.76,
+      "brazzers": 450.65
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 45.47,
       "gold": 51.62,
       "crypto": 59.31,
@@ -13091,23 +13102,13 @@
       "fatalmodel": 1413.69,
       "brazzers": 512.32
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 45.47,
-      "gold": 49.41,
-      "crypto": 54.93,
-      "energy": 32.54,
-      "brazino777": 65.15,
-      "fatalmodel": 1413.69,
-      "brazzers": 493.94
-    },
     "trends": {
-      "tech": "Alta 📈",
-      "gold": "Baixa 📉",
-      "crypto": "Alta 📈",
+      "tech": "Baixa 📉",
+      "gold": "Alta 📈",
+      "crypto": "Baixa 📉",
       "energy": "Alta 📈",
       "brazino777": "Alta 📈",
-      "fatalmodel": "Baixa 📉",
+      "fatalmodel": "Alta 📈",
       "brazzers": "Baixa 📉"
     }
   },

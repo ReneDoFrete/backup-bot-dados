@@ -2697,7 +2697,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 166052,
+      "wallet": 46052,
       "bank": 0,
       "cooldowns": {
         "work": 1783468790688,
@@ -2757,7 +2757,7 @@
         "pedra": 312,
         "ferro": 227,
         "carvao": 105,
-        "diamante": 16,
+        "diamante": 18,
         "cristal": 6,
         "madeira": 86,
         "linha": 40,
@@ -8733,7 +8733,7 @@
       "lastDungeon": 1784064580885
     },
     "117025208856591@lid": {
-      "wallet": 625633,
+      "wallet": 739633,
       "bank": 9000,
       "cooldowns": {
         "work": 1783644567226,
@@ -13151,16 +13151,6 @@
         "seller": "166812754911326@lid",
         "sellerName": "Kennedy Silva 👑",
         "created": 1783992905767
-      },
-      {
-        "id": "listing_1784123484559",
-        "name": "diamante",
-        "price": 120000,
-        "amount": 2,
-        "isMat": true,
-        "seller": "117025208856591@lid",
-        "sellerName": "Romano😉",
-        "created": 1784123484559
       }
     ],
     "fee": 0.05

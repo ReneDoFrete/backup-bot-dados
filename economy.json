@@ -2697,7 +2697,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 5569.16,
+      "wallet": 5569,
       "bank": 2830862,
       "cooldowns": {
         "work": 1783468790688,
@@ -12925,6 +12925,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 35.28,
+      "gold": 44.57,
+      "crypto": 42.37,
+      "energy": 31.95,
+      "brazino777": 78.36,
+      "fatalmodel": 1113.34
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 40.53,
       "gold": 47.39,
       "crypto": 37.62,
@@ -12932,22 +12941,13 @@
       "brazino777": 83.86,
       "fatalmodel": 1298.78
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 37.22,
-      "gold": 42.3,
-      "crypto": 42.08,
-      "energy": 31.61,
-      "brazino777": 74.75,
-      "fatalmodel": 1270.16
-    },
     "trends": {
       "tech": "Baixa 📉",
       "gold": "Baixa 📉",
-      "crypto": "Alta 📈",
+      "crypto": "Baixa 📉",
       "energy": "Alta 📈",
       "brazino777": "Baixa 📉",
-      "fatalmodel": "Baixa 📉"
+      "fatalmodel": "Estável 🔹"
     }
   },
   "dungeonParties": {

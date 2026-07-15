@@ -8733,17 +8733,17 @@
       "lastDungeon": 1784064580885
     },
     "117025208856591@lid": {
-      "wallet": 624534,
+      "wallet": 625241,
       "bank": 9000,
       "cooldowns": {
         "work": 1783644567226,
         "rob": 1783992546352,
         "trafico": 1784124156361,
         "bet": 1784071350102,
-        "mine": 1784071922338,
+        "mine": 1784123858261,
         "crash": 1783717406470,
         "explore": 1784065876454,
-        "fish": 1784072053127,
+        "fish": 1784123980668,
         "crime": 1784073072890,
         "daily": 1784151436978,
         "hunt": 1783975097598
@@ -8762,12 +8762,12 @@
         }
       },
       "materials": {
-        "pedra": 97,
-        "ferro": 70,
-        "carvao": 33,
+        "pedra": 100,
+        "ferro": 73,
+        "carvao": 35,
         "corda": 5,
         "linha": 2,
-        "ouro": 12,
+        "ouro": 13,
         "diamante": 2,
         "cristal": 1,
         "madeira": 9
@@ -8800,7 +8800,7 @@
           {
             "type": "fish",
             "target": 29,
-            "progress": 15
+            "progress": 16
           },
           {
             "type": "explore",
@@ -8827,7 +8827,7 @@
           {
             "type": "mine",
             "target": 80,
-            "progress": 32
+            "progress": 33
           },
           {
             "type": "work",
@@ -8837,7 +8837,7 @@
           {
             "type": "fish",
             "target": 60,
-            "progress": 25
+            "progress": 26
           },
           {
             "type": "explore",
@@ -8888,7 +8888,7 @@
       "skills": {
         "mining": {
           "level": 1,
-          "xp": 32
+          "xp": 33
         },
         "working": {
           "level": 1,
@@ -8896,7 +8896,7 @@
         },
         "fishing": {
           "level": 1,
-          "xp": 25
+          "xp": 26
         },
         "exploring": {
           "level": 1,
@@ -8984,12 +8984,12 @@
         "totalTrafico": 37,
         "traficoCount": 37,
         "totalCrimes": 37,
-        "totalMine": 32,
-        "mineCount": 32,
+        "totalMine": 33,
+        "mineCount": 33,
         "totalExplore": 10,
         "exploreCount": 10,
-        "totalFish": 25,
-        "fishCount": 25,
+        "totalFish": 26,
+        "fishCount": 26,
         "totalHunt": 1,
         "huntCount": 1
       },
@@ -9006,7 +9006,7 @@
         "lastDividend": 0
       },
       "ingredients": {
-        "peixe": 70,
+        "peixe": 73,
         "carne": 2
       },
       "streak": {

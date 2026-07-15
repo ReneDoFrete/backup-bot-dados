@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 320707,
+      "wallet": 295051,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -785,7 +785,7 @@
       "totalExplore": 0,
       "totalCrime": 0,
       "battlesWon": 33,
-      "battlesLost": 24,
+      "battlesLost": 25,
       "lotteryTickets": 0,
       "createdAt": 1774731286905,
       "lastDaily": 0,
@@ -913,7 +913,7 @@
         "total": 10000,
         "count": 2
       },
-      "lastArena": 1784078968194
+      "lastArena": 1784087767439
     },
     "142133436666060@lid": {
       "wallet": 0,

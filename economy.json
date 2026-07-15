@@ -11308,7 +11308,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 8341632,
+      "wallet": 7341632,
       "bank": 4125816,
       "cooldowns": {
         "daily": 1784211026861,
@@ -11336,7 +11336,8 @@
         "anel_ouro": 0,
         "lucky": 1,
         "botas_aco": 0,
-        "wolfbane": 1
+        "wolfbane": 1,
+        "vault_gigante": 1
       },
       "items": {},
       "job": null,

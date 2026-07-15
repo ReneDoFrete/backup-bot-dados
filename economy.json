@@ -11308,7 +11308,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 2292448,
+      "wallet": 292448,
       "bank": 9175000,
       "cooldowns": {
         "daily": 1784211026861,
@@ -11337,7 +11337,8 @@
         "lucky": 1,
         "botas_aco": 0,
         "wolfbane": 1,
-        "vault_gigante": 1
+        "vault_gigante": 1,
+        "mansao": 1
       },
       "items": {},
       "job": null,
@@ -11604,7 +11605,8 @@
       },
       "lastDungeon": 1784124631865,
       "premiumItems": {
-        "multiplicador_xp": 1
+        "multiplicador_xp": 1,
+        "mansao": 1
       },
       "xpMultiplier": 2,
       "equipment": {
@@ -11622,7 +11624,8 @@
       "cookedFood": {
         "pao": 0
       },
-      "energy": 10
+      "energy": 10,
+      "dailyIncome": 5000
     },
     "101439175168082@lid": {
       "wallet": 0,

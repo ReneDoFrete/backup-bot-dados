@@ -10800,7 +10800,7 @@
       }
     },
     "277304580288729@lid": {
-      "wallet": 1516,
+      "wallet": 1686,
       "bank": 39469,
       "cooldowns": {
         "work": 1783727846799,
@@ -10809,7 +10809,7 @@
         "trafico": 1784086259155,
         "bet": 1784080819566,
         "explore": 1784070812182,
-        "daily": 1784079150061,
+        "daily": 1784171784368,
         "hunt": 1784086701766,
         "rob": 1783992567882,
         "crime": 1783993776246
@@ -10935,7 +10935,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 5001,
+      "exp": 5061,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -11070,9 +11070,9 @@
         "lastDividend": 0
       },
       "streak": {
-        "count": 1,
-        "lastClaim": 1783992750061,
-        "record": 1
+        "count": 2,
+        "lastClaim": 1784085384368,
+        "record": 2
       },
       "equipment": {
         "weapon": "espada_diamante",

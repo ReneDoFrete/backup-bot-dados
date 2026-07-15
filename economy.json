@@ -2697,7 +2697,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 5601,
+      "wallet": 5569.16,
       "bank": 2830862,
       "cooldowns": {
         "work": 1783468790688,
@@ -3030,15 +3030,15 @@
       },
       "investments": {
         "stocks": {
-          "energy": 1354599,
+          "energy": 1354600,
           "tech": 72761
         },
-        "totalInvested": 34981471.71,
+        "totalInvested": 34981503.550000004,
         "totalProfit": 41889220.45,
         "lastDividend": 0,
         "stocksCost": {
           "crypto": 0,
-          "energy": 32680767.39,
+          "energy": 32680799.23,
           "tech": 2300702.8200000003
         }
       },

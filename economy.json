@@ -987,20 +987,20 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 775519,
+      "wallet": 786376,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
         "crime": 1783981332487,
         "fish": 1784077943024,
-        "explore": 1784152243989,
+        "explore": 1784154524205,
         "daily": 1784058195707,
         "rob": 1783992610327,
         "crash": 1783883655640,
         "hunt": 1784149266656,
         "mine": 1784151938931,
         "blackjack": 1783572187443,
-        "trafico": 1784152235838,
+        "trafico": 1784154468118,
         "bet": 1784069438126,
         "cook": 1783973955936
       },
@@ -1042,7 +1042,7 @@
         }
       },
       "materials": {
-        "madeira": 89,
+        "madeira": 90,
         "linha": 37,
         "couro": 31,
         "cristal": 7,
@@ -1123,7 +1123,7 @@
           {
             "type": "explore",
             "target": 68,
-            "progress": 67
+            "progress": 68
           },
           {
             "type": "hunt",
@@ -1135,7 +1135,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 34304,
+      "exp": 36554,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -1185,7 +1185,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 19
+          "xp": 20
         },
         "hunting": {
           "level": 1,
@@ -1197,7 +1197,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 55
+          "xp": 56
         }
       },
       "properties": {},
@@ -1244,15 +1244,15 @@
         "workCount": 38,
         "totalFish": 49,
         "fishCount": 49,
-        "totalExplore": 69,
-        "exploreCount": 69,
+        "totalExplore": 70,
+        "exploreCount": 70,
         "totalMine": 90,
         "mineCount": 90,
         "totalHunt": 18,
         "huntCount": 18,
-        "totalTrafico": 104,
-        "traficoCount": 104,
-        "totalCrimes": 105
+        "totalTrafico": 105,
+        "traficoCount": 105,
+        "totalCrimes": 106
       },
       "ingredients": {
         "peixe": 143,
@@ -2707,7 +2707,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 174435,
+      "wallet": 181750,
       "bank": 2830862,
       "cooldowns": {
         "work": 1783468790688,
@@ -2720,9 +2720,9 @@
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
         "bet": 1784127788236,
-        "mine": 1784153287670,
-        "trafico": 1784153582533,
-        "explore": 1784153586415
+        "mine": 1784153936559,
+        "trafico": 1784154490692,
+        "explore": 1784154493023
       },
       "inventory": {
         "vault": 4,
@@ -2764,15 +2764,15 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 360,
-        "ferro": 267,
-        "carvao": 122,
+        "pedra": 363,
+        "ferro": 268,
+        "carvao": 123,
         "diamante": 18,
         "cristal": 11,
-        "madeira": 100,
+        "madeira": 102,
         "linha": 42,
         "corda": 22,
-        "ouro": 16
+        "ouro": 17
       },
       "challenge": {
         "expiresAt": 1784170799999,
@@ -2856,7 +2856,7 @@
         "claimed": false
       },
       "level": 18,
-      "exp": 34959,
+      "exp": 37209,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -2892,7 +2892,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 41
+          "xp": 42
         },
         "working": {
           "level": 1,
@@ -2904,7 +2904,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 28
+          "xp": 29
         },
         "hunting": {
           "level": 1,
@@ -2916,7 +2916,7 @@
         },
         "crime": {
           "level": 3,
-          "xp": 14
+          "xp": 15
         }
       },
       "properties": {},
@@ -3028,15 +3028,15 @@
         "fishCount": 1,
         "totalCrime": 21,
         "crimeCount": 21,
-        "totalCrimes": 110,
+        "totalCrimes": 111,
         "totalHunt": 1,
         "huntCount": 1,
-        "totalTrafico": 108,
-        "traficoCount": 108,
-        "totalMine": 91,
-        "mineCount": 91,
-        "totalExplore": 78,
-        "exploreCount": 78
+        "totalTrafico": 109,
+        "traficoCount": 109,
+        "totalMine": 92,
+        "mineCount": 92,
+        "totalExplore": 79,
+        "exploreCount": 79
       },
       "investments": {
         "stocks": {
@@ -10480,7 +10480,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 44806,
+      "wallet": 49294,
       "bank": 2264959,
       "cooldowns": {
         "work": 1783728008192,
@@ -10490,7 +10490,7 @@
         "bet": 1784066792432,
         "daily": 1784224552665,
         "mine": 1784145911587,
-        "trafico": 1784152410775,
+        "trafico": 1784154486742,
         "explore": 1784146209358,
         "crime": 1784069448672,
         "cook": 1784076489336,
@@ -10618,7 +10618,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 26653,
+      "exp": 27853,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -10678,7 +10678,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 29
+          "xp": 30
         }
       },
       "properties": {},
@@ -10734,9 +10734,9 @@
         "fishCount": 48,
         "totalMine": 43,
         "mineCount": 43,
-        "totalTrafico": 79,
-        "traficoCount": 79,
-        "totalCrimes": 79,
+        "totalTrafico": 80,
+        "traficoCount": 80,
+        "totalCrimes": 80,
         "totalExplore": 40,
         "exploreCount": 40
       },
@@ -12078,6 +12078,28 @@
         "mineBonus": 1
       }
     },
+    "pickaxe_diamante_lvl3": {
+      "name": "Picareta de Diamante Encantada LVL 3",
+      "price": 300000000000000000,
+      "type": "tool",
+      "toolType": "pickaxe",
+      "tier": "diamante",
+      "durability": 300,
+      "effect": {
+        "mineBonus": 1.1
+      }
+    },
+    "pickaxe_netherite": {
+      "name": "Picareta de Netherite",
+      "price": 300000000000000000,
+      "type": "tool",
+      "toolType": "pickaxe",
+      "tier": "netherite",
+      "durability": 350,
+      "effect": {
+        "mineBonus": 1.25
+      }
+    },
     "repairkit": {
       "name": "Kit de Reparos",
       "price": 350,
@@ -13084,6 +13106,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 33.29,
+      "gold": 97.21,
+      "crypto": 41.37,
+      "energy": 69.7,
+      "brazino777": 82.57,
+      "fatalmodel": 991.47,
+      "brazzers": 294.85
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 31.9,
       "gold": 94.07,
       "crypto": 38.16,
@@ -13092,23 +13124,13 @@
       "fatalmodel": 1019.83,
       "brazzers": 343.14
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 35.63,
-      "gold": 84.05,
-      "crypto": 34.05,
-      "energy": 61.16,
-      "brazino777": 73.71,
-      "fatalmodel": 925.79,
-      "brazzers": 343.14
-    },
     "trends": {
       "tech": "Alta 📈",
-      "gold": "Alta 📈",
-      "crypto": "Alta 📈",
+      "gold": "Baixa 📉",
+      "crypto": "Baixa 📉",
       "energy": "Alta 📈",
       "brazino777": "Alta 📈",
-      "fatalmodel": "Baixa 📉",
+      "fatalmodel": "Estável 🔹",
       "brazzers": "Baixa 📉"
     }
   },

@@ -8731,7 +8731,7 @@
       "lastDungeon": 1784064580885
     },
     "117025208856591@lid": {
-      "wallet": 741547,
+      "wallet": 741635,
       "bank": 9000,
       "cooldowns": {
         "work": 1783644567226,
@@ -8741,7 +8741,7 @@
         "mine": 1784125783857,
         "crash": 1783717406470,
         "explore": 1784124241460,
-        "fish": 1784123980668,
+        "fish": 1784125909764,
         "crime": 1784073072890,
         "daily": 1784151436978,
         "hunt": 1783975097598
@@ -8798,7 +8798,7 @@
           {
             "type": "fish",
             "target": 29,
-            "progress": 16
+            "progress": 17
           },
           {
             "type": "explore",
@@ -8835,7 +8835,7 @@
           {
             "type": "fish",
             "target": 60,
-            "progress": 26
+            "progress": 27
           },
           {
             "type": "explore",
@@ -8894,7 +8894,7 @@
         },
         "fishing": {
           "level": 1,
-          "xp": 26
+          "xp": 27
         },
         "exploring": {
           "level": 1,
@@ -8986,8 +8986,8 @@
         "mineCount": 34,
         "totalExplore": 11,
         "exploreCount": 11,
-        "totalFish": 26,
-        "fishCount": 26,
+        "totalFish": 27,
+        "fishCount": 27,
         "totalHunt": 1,
         "huntCount": 1
       },
@@ -9004,7 +9004,7 @@
         "lastDividend": 0
       },
       "ingredients": {
-        "peixe": 73,
+        "peixe": 76,
         "carne": 2
       },
       "streak": {

@@ -10548,9 +10548,9 @@
           "speed": 12,
           "element": "fire",
           "level": 6,
-          "exp": 71,
+          "exp": 129,
           "evolutions": 0,
-          "hunger": 100,
+          "hunger": 80,
           "mood": 100,
           "wins": 8,
           "losses": 0,
@@ -10559,7 +10559,7 @@
             "weapon": "mystic_collar"
           },
           "lastUpdate": 1784115991657,
-          "lastTrain": 1784081092585,
+          "lastTrain": 1784115996262,
           "cost": 15000
         }
       ],

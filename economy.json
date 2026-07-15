@@ -10334,11 +10334,11 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 152056,
+      "wallet": 152088,
       "bank": 2190000,
       "cooldowns": {
         "work": 1783728008192,
-        "hunt": 1784076392710,
+        "hunt": 1784117278768,
         "fish": 1784075797965,
         "rob": 1784071110497,
         "bet": 1784066792432,
@@ -10427,7 +10427,7 @@
           {
             "type": "hunt",
             "target": 22,
-            "progress": 21
+            "progress": 22
           },
           {
             "type": "work",
@@ -10459,7 +10459,7 @@
           {
             "type": "hunt",
             "target": 83,
-            "progress": 45
+            "progress": 46
           },
           {
             "type": "crimeSuccess",
@@ -10524,7 +10524,7 @@
         },
         "hunting": {
           "level": 1,
-          "xp": 45
+          "xp": 46
         },
         "forging": {
           "level": 1,
@@ -10580,8 +10580,8 @@
       "stats": {
         "totalWork": 10,
         "workCount": 10,
-        "totalHunt": 45,
-        "huntCount": 45,
+        "totalHunt": 46,
+        "huntCount": 46,
         "totalFish": 45,
         "fishCount": 45,
         "totalMine": 40,
@@ -10598,7 +10598,7 @@
         "lastExpansion": 0
       },
       "ingredients": {
-        "carne": 52,
+        "carne": 53,
         "peixe": 127,
         "arroz": 22,
         "acucar": 15,

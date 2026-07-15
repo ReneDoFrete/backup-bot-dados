@@ -10798,8 +10798,8 @@
       }
     },
     "277304580288729@lid": {
-      "wallet": 4546,
-      "bank": 39469,
+      "wallet": 0,
+      "bank": 43715,
       "cooldowns": {
         "work": 1783727846799,
         "fish": 1784056061395,
@@ -10999,12 +10999,12 @@
           "level": 3,
           "exp": 76,
           "evolutions": 0,
-          "hunger": 23,
-          "mood": 22,
+          "hunger": 100,
+          "mood": 52,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784128585703,
+          "lastUpdate": 1784128637180,
           "lastTrain": 1784128585703,
           "cost": 15000
         }
@@ -12930,6 +12930,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 38.55,
+      "gold": 52.46,
+      "crypto": 45.8,
+      "energy": 32.86,
+      "brazino777": 96.02,
+      "fatalmodel": 975.91
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 34.65,
       "gold": 48.08,
       "crypto": 41.68,
@@ -12937,19 +12946,10 @@
       "brazino777": 89.18,
       "fatalmodel": 960.3
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 39.43,
-      "gold": 44.97,
-      "crypto": 39.21,
-      "energy": 38.44,
-      "brazino777": 88.99,
-      "fatalmodel": 1007.15
-    },
     "trends": {
       "tech": "Alta 📈",
-      "gold": "Alta 📈",
-      "crypto": "Alta 📈",
+      "gold": "Baixa 📉",
+      "crypto": "Baixa 📉",
       "energy": "Baixa 📉",
       "brazino777": "Alta 📈",
       "fatalmodel": "Alta 📈"

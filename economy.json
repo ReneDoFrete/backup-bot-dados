@@ -2697,7 +2697,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 33465,
+      "wallet": 34183,
       "bank": 0,
       "cooldowns": {
         "work": 1783468790688,
@@ -2710,7 +2710,7 @@
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
         "bet": 1784069710937,
-        "mine": 1784084730241,
+        "mine": 1784086705361,
         "trafico": 1784086995923,
         "explore": 1784085033220
       },
@@ -2754,9 +2754,9 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 305,
-        "ferro": 221,
-        "carvao": 101,
+        "pedra": 308,
+        "ferro": 224,
+        "carvao": 102,
         "diamante": 15,
         "cristal": 6,
         "madeira": 84,
@@ -2882,7 +2882,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 27
+          "xp": 28
         },
         "working": {
           "level": 1,
@@ -3023,8 +3023,8 @@
         "huntCount": 1,
         "totalTrafico": 96,
         "traficoCount": 96,
-        "totalMine": 77,
-        "mineCount": 77,
+        "totalMine": 78,
+        "mineCount": 78,
         "totalExplore": 64,
         "exploreCount": 64
       },

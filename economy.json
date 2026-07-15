@@ -11310,10 +11310,10 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 1542199,
+      "wallet": 1542439,
       "bank": 4125816,
       "cooldowns": {
-        "daily": 1784068805832,
+        "daily": 1784211026861,
         "fish": 1784125331267,
         "work": 1783887104797,
         "rob": 1784061493131,
@@ -11443,7 +11443,7 @@
         "claimed": false
       },
       "level": 18,
-      "exp": 4573,
+      "exp": 4668,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -11544,9 +11544,9 @@
       "lastWeekly": 0,
       "lastMonthly": 0,
       "streak": {
-        "count": 8,
-        "lastClaim": 1783982405832,
-        "record": 8
+        "count": 9,
+        "lastClaim": 1784124626861,
+        "record": 9
       },
       "ingredients": {
         "peixe": 177,

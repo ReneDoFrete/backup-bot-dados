@@ -8768,7 +8768,7 @@
         "corda": 5,
         "linha": 2,
         "ouro": 13,
-        "diamante": 2,
+        "diamante": 0,
         "cristal": 1,
         "madeira": 11
       },
@@ -13151,6 +13151,16 @@
         "seller": "166812754911326@lid",
         "sellerName": "Kennedy Silva 👑",
         "created": 1783992905767
+      },
+      {
+        "id": "listing_1784123484559",
+        "name": "diamante",
+        "price": 120000,
+        "amount": 2,
+        "isMat": true,
+        "seller": "117025208856591@lid",
+        "sellerName": "Romano😉",
+        "created": 1784123484559
       }
     ],
     "fee": 0.05

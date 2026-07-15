@@ -11310,7 +11310,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 1542572,
+      "wallet": 1548849,
       "bank": 4125816,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11443,7 +11443,7 @@
         "claimed": false
       },
       "level": 18,
-      "exp": 4573,
+      "exp": 5073,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -11604,7 +11604,7 @@
         "totalProfit": 1219373.95,
         "lastDividend": 0
       },
-      "lastDungeon": 1784069533606,
+      "lastDungeon": 1784099522441,
       "premiumItems": {
         "multiplicador_xp": 1
       },

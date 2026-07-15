@@ -10334,7 +10334,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 152615,
+      "wallet": 153051,
       "bank": 2190000,
       "cooldowns": {
         "work": 1783728008192,
@@ -10345,7 +10345,7 @@
         "daily": 1784127074797,
         "mine": 1784116562963,
         "trafico": 1784116849160,
-        "explore": 1784076058874,
+        "explore": 1784116865857,
         "crime": 1784069448672,
         "cook": 1784076489336,
         "roleta": 1783896341960
@@ -10382,10 +10382,10 @@
         "pedra": 130,
         "ferro": 82,
         "carvao": 32,
-        "madeira": 37,
+        "madeira": 40,
         "corda": 9,
         "linha": 27,
-        "cristal": 8,
+        "cristal": 9,
         "diamante": 2,
         "ouro": 9
       },
@@ -10417,7 +10417,7 @@
           {
             "type": "explore",
             "target": 22,
-            "progress": 20
+            "progress": 21
           },
           {
             "type": "fish",
@@ -10444,7 +10444,7 @@
           {
             "type": "explore",
             "target": 79,
-            "progress": 37
+            "progress": 38
           },
           {
             "type": "mine",
@@ -10520,7 +10520,7 @@
         },
         "exploring": {
           "level": 1,
-          "xp": 37
+          "xp": 38
         },
         "hunting": {
           "level": 1,
@@ -10589,8 +10589,8 @@
         "totalTrafico": 70,
         "traficoCount": 70,
         "totalCrimes": 70,
-        "totalExplore": 37,
-        "exploreCount": 37
+        "totalExplore": 38,
+        "exploreCount": 38
       },
       "farm": {
         "plots": [],

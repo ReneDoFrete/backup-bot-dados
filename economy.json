@@ -2697,8 +2697,8 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 2516540,
-      "bank": 0,
+      "wallet": 314322,
+      "bank": 2516540,
       "cooldowns": {
         "work": 1783468790688,
         "rob": 1783987360938,
@@ -2846,7 +2846,7 @@
         "claimed": false
       },
       "level": 18,
-      "exp": 13209,
+      "exp": 13359,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -2994,7 +2994,7 @@
       "totalHunt": 0,
       "totalExplore": 0,
       "totalCrime": 0,
-      "battlesWon": 24,
+      "battlesWon": 25,
       "battlesLost": 21,
       "lotteryTickets": 0,
       "createdAt": 1779485280323,
@@ -3072,7 +3072,7 @@
         "accessory": "anel_ouro",
         "weapon_enchant": 0
       },
-      "lastDuel": 1783986735434,
+      "lastDuel": 1784124868060,
       "classeBonuses": {
         "attack": 15,
         "mana": 30
@@ -11308,7 +11308,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 6286454,
+      "wallet": 5972132,
       "bank": 4125816,
       "cooldowns": {
         "daily": 1784211026861,
@@ -11535,7 +11535,7 @@
       "totalExplore": 0,
       "totalCrime": 0,
       "battlesWon": 14,
-      "battlesLost": 8,
+      "battlesLost": 9,
       "lotteryTickets": 0,
       "createdAt": 1781904618850,
       "lastDaily": 0,

@@ -10800,13 +10800,13 @@
       }
     },
     "277304580288729@lid": {
-      "wallet": 0,
+      "wallet": 1492,
       "bank": 39469,
       "cooldowns": {
         "work": 1783727846799,
         "fish": 1784056061395,
         "mine": 1784072952681,
-        "trafico": 1784081356010,
+        "trafico": 1784086259155,
         "bet": 1784080819566,
         "explore": 1784070812182,
         "daily": 1784079150061,
@@ -10854,25 +10854,25 @@
         "ouro": 1
       },
       "challenge": {
-        "expiresAt": 1784084399999,
+        "expiresAt": 1784170799999,
         "tasks": [
           {
-            "type": "mine",
-            "target": 7,
+            "type": "fish",
+            "target": 5,
             "progress": 0
           },
           {
             "type": "work",
-            "target": 3,
+            "target": 5,
             "progress": 0
           },
           {
             "type": "hunt",
             "target": 4,
-            "progress": 1
+            "progress": 0
           }
         ],
-        "reward": 645,
+        "reward": 576,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -10935,7 +10935,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 4401,
+      "exp": 5001,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -10982,7 +10982,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 35
+          "xp": 36
         }
       },
       "properties": {},
@@ -11031,9 +11031,9 @@
         "fishCount": 20,
         "totalMine": 26,
         "mineCount": 26,
-        "totalTrafico": 35,
-        "traficoCount": 35,
-        "totalCrimes": 35,
+        "totalTrafico": 36,
+        "traficoCount": 36,
+        "totalCrimes": 36,
         "totalExplore": 20,
         "exploreCount": 20,
         "totalHunt": 19,

@@ -8731,12 +8731,12 @@
       "lastDungeon": 1784064580885
     },
     "117025208856591@lid": {
-      "wallet": 739633,
+      "wallet": 741121,
       "bank": 9000,
       "cooldowns": {
         "work": 1783644567226,
         "rob": 1783992546352,
-        "trafico": 1784124156361,
+        "trafico": 1784126079759,
         "bet": 1784071350102,
         "mine": 1784123858261,
         "crash": 1783717406470,
@@ -8852,7 +8852,7 @@
         "claimed": false
       },
       "level": 14,
-      "exp": 1061,
+      "exp": 1661,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -8910,7 +8910,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 40
+          "xp": 41
         }
       },
       "properties": {},
@@ -8979,9 +8979,9 @@
         "workCount": 21,
         "totalCrime": 3,
         "crimeCount": 3,
-        "totalTrafico": 37,
-        "traficoCount": 37,
-        "totalCrimes": 37,
+        "totalTrafico": 38,
+        "traficoCount": 38,
+        "totalCrimes": 38,
         "totalMine": 33,
         "mineCount": 33,
         "totalExplore": 11,

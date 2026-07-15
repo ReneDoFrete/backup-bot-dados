@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 316099,
+      "wallet": 319428,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -667,7 +667,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 3526,
+      "exp": 3726,
       "prestige": 0,
       "classe": "paladino",
       "clan": "clan_5",
@@ -842,7 +842,7 @@
         "record": 7
       },
       "trafico": "grtpcc",
-      "lastDungeon": 1784078960341,
+      "lastDungeon": 1784087742949,
       "classeBonuses": {
         "defense": 25,
         "attack": 10

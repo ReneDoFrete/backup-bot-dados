@@ -7576,14 +7576,14 @@
       "premiumItems": {}
     },
     "253257075150984@lid": {
-      "wallet": 61080,
+      "wallet": 62412,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
         "work": 1783521115388,
         "crime": 1783961099280,
         "rob": 1783959893253,
-        "trafico": 1784081024906,
+        "trafico": 1784092788548,
         "fish": 1783959950967,
         "mine": 1784043819898,
         "crash": 1783883632559,
@@ -7627,25 +7627,25 @@
         "corda": 2
       },
       "challenge": {
-        "expiresAt": 1784084399999,
+        "expiresAt": 1784159999999,
         "tasks": [
           {
-            "type": "crimeSuccess",
-            "target": 3,
+            "type": "hunt",
+            "target": 6,
             "progress": 0
           },
           {
             "type": "explore",
-            "target": 5,
+            "target": 7,
             "progress": 0
           },
           {
-            "type": "fish",
-            "target": 4,
+            "type": "mine",
+            "target": 6,
             "progress": 0
           }
         ],
-        "reward": 376,
+        "reward": 684,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -7708,7 +7708,7 @@
         "claimed": false
       },
       "level": 11,
-      "exp": 3650,
+      "exp": 4025,
       "prestige": 0,
       "classe": "ladino",
       "clan": null,
@@ -7766,7 +7766,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 30
+          "xp": 31
         }
       },
       "properties": {},
@@ -7782,15 +7782,15 @@
           "speed": 12,
           "element": "fire",
           "level": 2,
-          "exp": 121,
+          "exp": 177,
           "evolutions": 0,
-          "hunger": 100,
-          "mood": 100,
+          "hunger": 65,
+          "mood": 93,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784078724812,
-          "lastTrain": 1784078684905,
+          "lastUpdate": 1784091892649,
+          "lastTrain": 1784091892649,
           "cost": 15000
         }
       ],
@@ -7822,9 +7822,9 @@
         "fishCount": 12,
         "totalMine": 15,
         "mineCount": 15,
-        "totalTrafico": 24,
-        "traficoCount": 24,
-        "totalCrimes": 27,
+        "totalTrafico": 25,
+        "traficoCount": 25,
+        "totalCrimes": 28,
         "totalExplore": 12,
         "exploreCount": 12,
         "totalHunt": 4,

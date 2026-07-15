@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 3463,
+      "wallet": 5633,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -541,7 +541,7 @@
         "crimesair": 1783471363697,
         "blackjack": 1783572168376,
         "cook": 1783751803038,
-        "trafico": 1784148838004
+        "trafico": 1784154786612
       },
       "inventory": {
         "espada_diamante": 1,
@@ -671,7 +671,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 14740,
+      "exp": 15340,
       "prestige": 0,
       "classe": "paladino",
       "clan": "clan_5",
@@ -731,7 +731,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 3
+          "xp": 4
         }
       },
       "properties": {},
@@ -811,14 +811,14 @@
         "totalExplore": 86,
         "totalBattles": 0,
         "totalWins": 0,
-        "totalCrimes": 53,
+        "totalCrimes": 54,
         "workCount": 54,
         "exploreCount": 86,
         "fishCount": 59,
         "mineCount": 77,
         "huntCount": 59,
-        "totalTrafico": 52,
-        "traficoCount": 52
+        "totalTrafico": 53,
+        "traficoCount": 53
       },
       "ingredients": {
         "peixe": 175,
@@ -12100,6 +12100,28 @@
         "mineBonus": 1.25
       }
     },
+    "pickaxe_netherite_lvl1": {
+      "name": "Picareta de Netherite Encantada LVL 1",
+      "price": 300000000000000000,
+      "type": "tool",
+      "toolType": "pickaxe",
+      "tier": "netherite",
+      "durability": 400,
+      "effect": {
+        "mineBonus": 1.35
+      }
+    },
+    "pickaxe_netherite_lvl2": {
+      "name": "Picareta de Netherite Encantada LVL 2",
+      "price": 300000000000000000,
+      "type": "tool",
+      "toolType": "pickaxe",
+      "tier": "netherite",
+      "durability": 450,
+      "effect": {
+        "mineBonus": 1.5
+      }
+    },
     "repairkit": {
       "name": "Kit de Reparos",
       "price": 350,
@@ -12634,7 +12656,16 @@
     "carvao": 5,
     "cristal": 250
   },
+
   "recipes": {
+    "armadura_netherite": {
+      "requires": {
+        "netherite": 16,
+        "diamante": 8,
+        "ouro": 12
+      },
+      "gold": 320000
+    },
     "armadura_diamante": {
       "requires": {
         "diamante": 16,
@@ -13106,6 +13137,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 37.83,
+      "gold": 93,
+      "crypto": 35.81,
+      "energy": 73.14,
+      "brazino777": 72.68,
+      "fatalmodel": 991.47,
+      "brazzers": 244.99
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 33.29,
       "gold": 97.21,
       "crypto": 41.37,
@@ -13114,24 +13155,14 @@
       "fatalmodel": 991.47,
       "brazzers": 294.85
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 31.9,
-      "gold": 94.07,
-      "crypto": 38.16,
-      "energy": 67.93,
-      "brazino777": 73.71,
-      "fatalmodel": 1019.83,
-      "brazzers": 343.14
-    },
     "trends": {
-      "tech": "Alta 📈",
+      "tech": "Baixa 📉",
       "gold": "Baixa 📉",
       "crypto": "Baixa 📉",
       "energy": "Alta 📈",
-      "brazino777": "Alta 📈",
-      "fatalmodel": "Estável 🔹",
-      "brazzers": "Baixa 📉"
+      "brazino777": "Baixa 📉",
+      "fatalmodel": "Alta 📈",
+      "brazzers": "Alta 📈"
     }
   },
   "dungeonParties": {

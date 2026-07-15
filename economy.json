@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 165217,
+      "wallet": 203003,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -541,7 +541,7 @@
         "crimesair": 1783471363697,
         "blackjack": 1783572168376,
         "cook": 1783751803038,
-        "trafico": 1784135148416
+        "trafico": 1784136337695
       },
       "inventory": {
         "espada_diamante": 1,
@@ -667,7 +667,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 8140,
+      "exp": 9740,
       "prestige": 0,
       "classe": "paladino",
       "clan": "clan_5",
@@ -727,7 +727,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 46
+          "xp": 47
         }
       },
       "properties": {},
@@ -802,14 +802,14 @@
         "totalExplore": 82,
         "totalBattles": 0,
         "totalWins": 0,
-        "totalCrimes": 46,
+        "totalCrimes": 47,
         "workCount": 54,
         "exploreCount": 82,
         "fishCount": 57,
         "mineCount": 73,
         "huntCount": 56,
-        "totalTrafico": 45,
-        "traficoCount": 45
+        "totalTrafico": 46,
+        "traficoCount": 46
       },
       "ingredients": {
         "peixe": 169,
@@ -7574,7 +7574,7 @@
       "premiumItems": {}
     },
     "253257075150984@lid": {
-      "wallet": 118699,
+      "wallet": 136199,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
@@ -7707,7 +7707,7 @@
         "claimed": false
       },
       "level": 13,
-      "exp": 10191,
+      "exp": 10691,
       "prestige": 0,
       "classe": "ladino",
       "clan": null,
@@ -10331,7 +10331,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 278913,
+      "wallet": 296413,
       "bank": 2190000,
       "cooldowns": {
         "work": 1783728008192,
@@ -10468,7 +10468,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 17193,
+      "exp": 17693,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -12928,6 +12928,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 30.45,
+      "gold": 58.29,
+      "crypto": 52.98,
+      "energy": 29.25,
+      "brazino777": 103.68,
+      "fatalmodel": 1381.73,
+      "brazzers": 508.63
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 26.73,
       "gold": 55.34,
       "crypto": 48.76,
@@ -12936,24 +12946,14 @@
       "fatalmodel": 1203.16,
       "brazzers": 544.04
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 29.3,
-      "gold": 57.48,
-      "crypto": 50.25,
-      "energy": 33.32,
-      "brazino777": 106.52,
-      "fatalmodel": 1089.66,
-      "brazzers": 544.04
-    },
     "trends": {
       "tech": "Alta 📈",
-      "gold": "Alta 📈",
-      "crypto": "Alta 📈",
+      "gold": "Baixa 📉",
+      "crypto": "Baixa 📉",
       "energy": "Baixa 📉",
-      "brazino777": "Alta 📈",
+      "brazino777": "Estável 🔹",
       "fatalmodel": "Alta 📈",
-      "brazzers": "Baixa 📉"
+      "brazzers": "Alta 📈"
     }
   },
   "dungeonParties": {

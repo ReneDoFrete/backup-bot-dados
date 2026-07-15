@@ -10334,7 +10334,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 149437,
+      "wallet": 146789,
       "bank": 2190000,
       "cooldowns": {
         "work": 1783728008192,
@@ -10344,7 +10344,7 @@
         "bet": 1784066792432,
         "daily": 1784127074797,
         "mine": 1784075741137,
-        "trafico": 1784081776626,
+        "trafico": 1784120132259,
         "explore": 1784076058874,
         "crime": 1784069448672,
         "cook": 1784076489336,
@@ -10390,25 +10390,25 @@
         "ouro": 8
       },
       "challenge": {
-        "expiresAt": 1784084399999,
+        "expiresAt": 1784159999999,
         "tasks": [
           {
-            "type": "mine",
-            "target": 6,
-            "progress": 1
+            "type": "explore",
+            "target": 4,
+            "progress": 0
           },
           {
-            "type": "crimeSuccess",
+            "type": "fish",
             "target": 4,
             "progress": 0
           },
           {
             "type": "work",
-            "target": 6,
+            "target": 4,
             "progress": 0
           }
         ],
-        "reward": 610,
+        "reward": 580,
         "claimed": false
       },
       "weeklyChallenge": {

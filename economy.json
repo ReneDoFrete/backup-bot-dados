@@ -6121,7 +6121,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 18492,
+      "wallet": 19098,
       "bank": 2790010,
       "cooldowns": {
         "daily": 1784033104182,
@@ -6131,7 +6131,7 @@
         "cook": 1782846656129,
         "crime": 1783481043855,
         "mine": 1784070539083,
-        "trafico": 1784081266262,
+        "trafico": 1784092403647,
         "hunt": 1784054757894,
         "explore": 1784054334896,
         "roleta": 1783549177560
@@ -6173,25 +6173,25 @@
         "corda": 11
       },
       "challenge": {
-        "expiresAt": 1784084399999,
+        "expiresAt": 1784159999999,
         "tasks": [
           {
-            "type": "explore",
-            "target": 6,
-            "progress": 0
-          },
-          {
-            "type": "crimeSuccess",
+            "type": "fish",
             "target": 3,
             "progress": 0
           },
           {
+            "type": "work",
+            "target": 4,
+            "progress": 0
+          },
+          {
             "type": "hunt",
-            "target": 5,
+            "target": 3,
             "progress": 0
           }
         ],
-        "reward": 581,
+        "reward": 309,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -6254,7 +6254,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 21447,
+      "exp": 21672,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": null,
@@ -6301,7 +6301,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 13
+          "xp": 14
         }
       },
       "properties": {},
@@ -6367,9 +6367,9 @@
         "exploreCount": 28,
         "totalHunt": 9,
         "huntCount": 9,
-        "totalTrafico": 12,
-        "traficoCount": 12,
-        "totalCrimes": 12
+        "totalTrafico": 13,
+        "traficoCount": 13,
+        "totalCrimes": 13
       },
       "farm": {
         "plots": [],

@@ -9185,11 +9185,11 @@
       }
     },
     "30967267856538@lid": {
-      "wallet": 608866,
+      "wallet": 609699,
       "bank": 0,
       "cooldowns": {
         "work": 1783519152572,
-        "trafico": 1784071745212,
+        "trafico": 1784087198696,
         "trafiaco": 1783472831328,
         "fish": 1784071620112,
         "rob": 1783705361123,
@@ -9229,25 +9229,25 @@
         "cristal": 0
       },
       "challenge": {
-        "expiresAt": 1784073599999,
+        "expiresAt": 1784170799999,
         "tasks": [
           {
             "type": "fish",
             "target": 4,
-            "progress": 1
+            "progress": 0
           },
           {
-            "type": "explore",
-            "target": 3,
+            "type": "work",
+            "target": 6,
             "progress": 0
           },
           {
             "type": "hunt",
-            "target": 6,
-            "progress": 1
+            "target": 3,
+            "progress": 0
           }
         ],
-        "reward": 584,
+        "reward": 330,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -9310,7 +9310,7 @@
         "claimed": false
       },
       "level": 13,
-      "exp": 7891,
+      "exp": 8266,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": null,
@@ -9365,7 +9365,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 0
+          "xp": 1
         }
       },
       "properties": {},
@@ -9420,9 +9420,9 @@
         "huntCount": 9,
         "totalExplore": 2,
         "exploreCount": 2,
-        "totalTrafico": 24,
-        "traficoCount": 24,
-        "totalCrimes": 24
+        "totalTrafico": 25,
+        "traficoCount": 25,
+        "totalCrimes": 25
       },
       "trafico": "ldfcv",
       "investments": {

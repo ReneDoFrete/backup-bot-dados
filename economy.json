@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 319916,
+      "wallet": 320559,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -533,7 +533,7 @@
         "fish": 1784079667145,
         "hunt": 1784089064741,
         "rob": 1783987305138,
-        "mine": 1784072979544,
+        "mine": 1784088351544,
         "dados": 1783459700789,
         "bet": 1784069778332,
         "daily": 1784151445475,
@@ -578,10 +578,10 @@
         "corda": 23,
         "linha": 52,
         "cristal": 4,
-        "pedra": 229,
+        "pedra": 233,
         "couro": 77,
-        "ferro": 127,
-        "carvao": 43,
+        "ferro": 131,
+        "carvao": 44,
         "ouro": 13,
         "diamante": 2
       },
@@ -591,7 +591,7 @@
           {
             "type": "mine",
             "target": 3,
-            "progress": 0
+            "progress": 1
           },
           {
             "type": "work",
@@ -655,7 +655,7 @@
           {
             "type": "mine",
             "target": 85,
-            "progress": 70
+            "progress": 71
           },
           {
             "type": "hunt",
@@ -703,7 +703,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 20
+          "xp": 21
         },
         "working": {
           "level": 2,
@@ -795,7 +795,7 @@
         "trabalhador": 1783891235623
       },
       "stats": {
-        "totalMine": 70,
+        "totalMine": 71,
         "totalWork": 54,
         "totalFish": 56,
         "totalHunt": 54,
@@ -806,7 +806,7 @@
         "workCount": 54,
         "exploreCount": 80,
         "fishCount": 56,
-        "mineCount": 70,
+        "mineCount": 71,
         "huntCount": 54,
         "totalTrafico": 44,
         "traficoCount": 44

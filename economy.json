@@ -978,7 +978,7 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 100796,
+      "wallet": 101489,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
@@ -989,7 +989,7 @@
         "rob": 1783992610327,
         "crash": 1783883655640,
         "hunt": 1784078540463,
-        "mine": 1784083406599,
+        "mine": 1784086227357,
         "blackjack": 1783572187443,
         "trafico": 1784086520281,
         "bet": 1784069438126,
@@ -1036,10 +1036,10 @@
         "madeira": 81,
         "linha": 32,
         "couro": 31,
-        "cristal": 2,
-        "pedra": 295,
+        "cristal": 3,
+        "pedra": 301,
         "corda": 22,
-        "ferro": 203,
+        "ferro": 206,
         "ouro": 20,
         "carvao": 79,
         "diamante": 4
@@ -1099,7 +1099,7 @@
           {
             "type": "mine",
             "target": 97,
-            "progress": 85
+            "progress": 86
           },
           {
             "type": "work",
@@ -1164,7 +1164,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 35
+          "xp": 36
         },
         "working": {
           "level": 1,
@@ -1237,8 +1237,8 @@
         "fishCount": 49,
         "totalExplore": 64,
         "exploreCount": 64,
-        "totalMine": 85,
-        "mineCount": 85,
+        "totalMine": 86,
+        "mineCount": 86,
         "totalHunt": 17,
         "huntCount": 17,
         "totalTrafico": 98,

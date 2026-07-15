@@ -2707,8 +2707,8 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 2634532,
-      "bank": 0,
+      "wallet": 0,
+      "bank": 1110238,
       "cooldowns": {
         "work": 1783468790688,
         "rob": 1783987360938,
@@ -3041,16 +3041,16 @@
       },
       "investments": {
         "stocks": {
-          "energy": 2332100,
-          "tech": 82761
+          "tech": 82761,
+          "brazino777": 3500000
         },
-        "totalInvested": 34981503.550000004,
-        "totalProfit": 41889220.45,
+        "totalInvested": 194730704.55,
+        "totalProfit": 200114127.45,
         "lastDividend": 0,
         "stocksCost": {
           "crypto": 0,
-          "energy": 32680799.23,
-          "tech": 2300702.8200000003
+          "tech": 2300702.8200000003,
+          "brazino777": 192430000
         }
       },
       "ingredients": {
@@ -13188,6 +13188,16 @@
   "stockMarket": {
     "prices": {
       "tech": 36.71,
+      "gold": 80.79,
+      "crypto": 34.26,
+      "energy": 81.86,
+      "brazino777": 54.98,
+      "fatalmodel": 986.49,
+      "brazzers": 338.02
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
+      "tech": 36.71,
       "gold": 88.59,
       "crypto": 32.04,
       "energy": 71.9,
@@ -13195,23 +13205,13 @@
       "fatalmodel": 986.49,
       "brazzers": 294.4
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 42.12,
-      "gold": 79.1,
-      "crypto": 31.13,
-      "energy": 81.82,
-      "brazino777": 64.16,
-      "fatalmodel": 1139.83,
-      "brazzers": 264.16
-    },
     "trends": {
-      "tech": "Estável 🔹",
+      "tech": "Baixa 📉",
       "gold": "Baixa 📉",
       "crypto": "Alta 📈",
-      "energy": "Alta 📈",
-      "brazino777": "Baixa 📉",
-      "fatalmodel": "Estável 🔹",
+      "energy": "Baixa 📉",
+      "brazino777": "Alta 📈",
+      "fatalmodel": "Baixa 📉",
       "brazzers": "Alta 📈"
     }
   },

@@ -11310,7 +11310,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 1541017,
+      "wallet": 1541060,
       "bank": 4125816,
       "cooldowns": {
         "daily": 1784068805832,
@@ -11320,7 +11320,7 @@
         "mine": 1784125192059,
         "crime": 1783469671010,
         "trafico": 1784081834851,
-        "hunt": 1784082258902,
+        "hunt": 1784125915156,
         "crimesair": 1783820907251,
         "explore": 1784081844743,
         "bet": 1784069724487,
@@ -11426,7 +11426,7 @@
           {
             "type": "hunt",
             "target": 64,
-            "progress": 52
+            "progress": 53
           },
           {
             "type": "work",
@@ -11493,7 +11493,7 @@
         },
         "hunting": {
           "level": 2,
-          "xp": 2
+          "xp": 3
         },
         "forging": {
           "level": 1,
@@ -11554,7 +11554,7 @@
         "queijo": 12,
         "alface": 4,
         "tomate": 12,
-        "carne": 66,
+        "carne": 67,
         "ovo": 2,
         "arroz": 8
       },
@@ -11569,8 +11569,8 @@
         "crimeCount": 6,
         "totalExplore": 44,
         "exploreCount": 44,
-        "totalHunt": 42,
-        "huntCount": 42,
+        "totalHunt": 43,
+        "huntCount": 43,
         "totalTrafico": 21,
         "traficoCount": 22,
         "totalCrimes": 22

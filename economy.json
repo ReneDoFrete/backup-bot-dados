@@ -10334,7 +10334,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 80354,
+      "wallet": 87100,
       "bank": 2190000,
       "cooldowns": {
         "work": 1783728008192,
@@ -10347,7 +10347,7 @@
         "trafico": 1784077093329,
         "explore": 1784076058874,
         "crime": 1784069448672,
-        "cook": 1783896352187,
+        "cook": 1784076489336,
         "roleta": 1783896341960
       },
       "inventory": {
@@ -10471,7 +10471,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 6928,
+      "exp": 7428,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -10608,7 +10608,7 @@
         "alface": 4,
         "tomate": 3,
         "batata": 4,
-        "trigo": 3
+        "trigo": 0
       },
       "investments": {
         "stocks": {
@@ -10636,7 +10636,7 @@
             "name": "👨‍🍳 Cozinhar 5 receitas",
             "reward": 4000,
             "exp": 180,
-            "progress": 0,
+            "progress": 1,
             "goal": 5,
             "claimed": false
           },
@@ -10654,7 +10654,7 @@
             "name": "🗺️ Completar 2 dungeons",
             "reward": 8000,
             "exp": 300,
-            "progress": 0,
+            "progress": 1,
             "goal": 2,
             "claimed": false
           }
@@ -10665,11 +10665,12 @@
         "milionario": 1784040782702,
         "criminoso": 1784040782702
       },
-      "lastDungeon": 1784040575795,
+      "lastDungeon": 1784076265573,
       "cookedFood": {
         "pizza": 0,
         "sushi": 0,
-        "bolo": 0
+        "bolo": 0,
+        "pao": 1
       },
       "equipment": {
         "weapon": "espada_diamante",
@@ -12944,6 +12945,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 35.4,
+      "gold": 21.1,
+      "crypto": 49.33,
+      "energy": 24.57,
+      "brazino777": 164.12,
+      "fatalmodel": 2024.1
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 33.56,
       "gold": 19.05,
       "crypto": 47.43,
@@ -12951,19 +12961,10 @@
       "brazino777": 160.56,
       "fatalmodel": 2170.99
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 30.83,
-      "gold": 17.57,
-      "crypto": 50.08,
-      "energy": 27.77,
-      "brazino777": 166.11,
-      "fatalmodel": 2170.99
-    },
     "trends": {
-      "tech": "Alta 📈",
+      "tech": "Estável 🔹",
       "gold": "Alta 📈",
-      "crypto": "Alta 📈",
+      "crypto": "Baixa 📉",
       "energy": "Alta 📈",
       "brazino777": "Alta 📈",
       "fatalmodel": "Baixa 📉"

@@ -11310,14 +11310,14 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 1540510,
+      "wallet": 1541017,
       "bank": 4125816,
       "cooldowns": {
         "daily": 1784068805832,
         "fish": 1784078900184,
         "work": 1783887104797,
         "rob": 1784061493131,
-        "mine": 1784081541241,
+        "mine": 1784125192059,
         "crime": 1783469671010,
         "trafico": 1784081834851,
         "hunt": 1784082258902,
@@ -11351,9 +11351,9 @@
         }
       },
       "materials": {
-        "pedra": 148,
+        "pedra": 151,
         "couro": 42,
-        "ferro": 86,
+        "ferro": 88,
         "madeira": 53,
         "linha": 23,
         "cristal": 4,
@@ -11362,25 +11362,25 @@
         "ouro": 5
       },
       "challenge": {
-        "expiresAt": 1784084399999,
+        "expiresAt": 1784159999999,
         "tasks": [
           {
-            "type": "explore",
-            "target": 7,
-            "progress": 2
-          },
-          {
-            "type": "hunt",
-            "target": 4,
-            "progress": 2
-          },
-          {
-            "type": "fish",
-            "target": 7,
+            "type": "mine",
+            "target": 3,
             "progress": 1
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 3,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 4,
+            "progress": 0
           }
         ],
-        "reward": 386,
+        "reward": 680,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -11477,7 +11477,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 9
+          "xp": 10
         },
         "working": {
           "level": 1,
@@ -11563,8 +11563,8 @@
         "fishCount": 58,
         "totalWork": 29,
         "workCount": 29,
-        "totalMine": 59,
-        "mineCount": 59,
+        "totalMine": 60,
+        "mineCount": 60,
         "totalCrime": 6,
         "crimeCount": 6,
         "totalExplore": 44,

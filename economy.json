@@ -10800,7 +10800,7 @@
       }
     },
     "277304580288729@lid": {
-      "wallet": 1492,
+      "wallet": 1516,
       "bank": 39469,
       "cooldowns": {
         "work": 1783727846799,
@@ -10810,7 +10810,7 @@
         "bet": 1784080819566,
         "explore": 1784070812182,
         "daily": 1784079150061,
-        "hunt": 1784080425993,
+        "hunt": 1784086701766,
         "rob": 1783992567882,
         "crime": 1783993776246
       },
@@ -10848,7 +10848,7 @@
         "cristal": 2,
         "linha": 10,
         "corda": 2,
-        "couro": 6,
+        "couro": 7,
         "ferro": 9,
         "carvao": 4,
         "ouro": 1
@@ -10869,7 +10869,7 @@
           {
             "type": "hunt",
             "target": 4,
-            "progress": 0
+            "progress": 1
           }
         ],
         "reward": 576,
@@ -10908,7 +10908,7 @@
           {
             "type": "hunt",
             "target": 70,
-            "progress": 19
+            "progress": 20
           },
           {
             "type": "explore",
@@ -10974,7 +10974,7 @@
         },
         "hunting": {
           "level": 1,
-          "xp": 19
+          "xp": 20
         },
         "forging": {
           "level": 1,
@@ -11036,8 +11036,8 @@
         "totalCrimes": 36,
         "totalExplore": 20,
         "exploreCount": 20,
-        "totalHunt": 19,
-        "huntCount": 19
+        "totalHunt": 20,
+        "huntCount": 20
       },
       "ingredients": {
         "peixe": 55,
@@ -11046,7 +11046,7 @@
         "acucar": 40,
         "queijo": 24,
         "trigo": 21,
-        "carne": 25,
+        "carne": 26,
         "milho": 4,
         "tomate": 3
       },

@@ -10334,16 +10334,16 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 152088,
+      "wallet": 152615,
       "bank": 2190000,
       "cooldowns": {
         "work": 1783728008192,
         "hunt": 1784117278768,
-        "fish": 1784075797965,
+        "fish": 1784116681158,
         "rob": 1784071110497,
         "bet": 1784066792432,
         "daily": 1784127074797,
-        "mine": 1784075741137,
+        "mine": 1784116562963,
         "trafico": 1784116849160,
         "explore": 1784076058874,
         "crime": 1784069448672,
@@ -10379,15 +10379,15 @@
       },
       "materials": {
         "couro": 28,
-        "pedra": 126,
-        "ferro": 81,
-        "carvao": 31,
+        "pedra": 130,
+        "ferro": 82,
+        "carvao": 32,
         "madeira": 37,
         "corda": 9,
         "linha": 27,
         "cristal": 8,
         "diamante": 2,
-        "ouro": 8
+        "ouro": 9
       },
       "challenge": {
         "expiresAt": 1784159999999,
@@ -10395,7 +10395,7 @@
           {
             "type": "mine",
             "target": 4,
-            "progress": 0
+            "progress": 1
           },
           {
             "type": "work",
@@ -10405,7 +10405,7 @@
           {
             "type": "fish",
             "target": 5,
-            "progress": 0
+            "progress": 1
           }
         ],
         "reward": 303,
@@ -10449,7 +10449,7 @@
           {
             "type": "mine",
             "target": 68,
-            "progress": 40
+            "progress": 41
           },
           {
             "type": "work",
@@ -10508,7 +10508,7 @@
       "skills": {
         "mining": {
           "level": 1,
-          "xp": 40
+          "xp": 41
         },
         "working": {
           "level": 1,
@@ -10516,7 +10516,7 @@
         },
         "fishing": {
           "level": 1,
-          "xp": 45
+          "xp": 46
         },
         "exploring": {
           "level": 1,
@@ -10582,10 +10582,10 @@
         "workCount": 10,
         "totalHunt": 46,
         "huntCount": 46,
-        "totalFish": 45,
-        "fishCount": 45,
-        "totalMine": 40,
-        "mineCount": 40,
+        "totalFish": 46,
+        "fishCount": 46,
+        "totalMine": 41,
+        "mineCount": 41,
         "totalTrafico": 70,
         "traficoCount": 70,
         "totalCrimes": 70,
@@ -10599,7 +10599,7 @@
       },
       "ingredients": {
         "carne": 53,
-        "peixe": 127,
+        "peixe": 131,
         "arroz": 22,
         "acucar": 15,
         "queijo": 19,

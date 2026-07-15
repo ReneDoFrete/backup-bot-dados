@@ -2697,7 +2697,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 5170,
+      "wallet": 5570,
       "bank": 2830862,
       "cooldowns": {
         "work": 1783468790688,
@@ -2712,7 +2712,7 @@
         "bet": 1784069710937,
         "mine": 1784125497555,
         "trafico": 1784125783968,
-        "explore": 1784124225156
+        "explore": 1784125801158
       },
       "inventory": {
         "vault": 4,
@@ -2759,7 +2759,7 @@
         "carvao": 106,
         "diamante": 18,
         "cristal": 6,
-        "madeira": 86,
+        "madeira": 89,
         "linha": 40,
         "corda": 15,
         "ouro": 14
@@ -2770,7 +2770,7 @@
           {
             "type": "explore",
             "target": 5,
-            "progress": 2
+            "progress": 3
           },
           {
             "type": "work",
@@ -2894,7 +2894,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 16
+          "xp": 17
         },
         "hunting": {
           "level": 1,
@@ -3025,8 +3025,8 @@
         "traficoCount": 98,
         "totalMine": 80,
         "mineCount": 80,
-        "totalExplore": 66,
-        "exploreCount": 66
+        "totalExplore": 67,
+        "exploreCount": 67
       },
       "investments": {
         "stocks": {

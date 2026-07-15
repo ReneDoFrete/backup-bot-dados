@@ -2697,7 +2697,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 35520,
+      "wallet": 38791,
       "bank": 0,
       "cooldowns": {
         "work": 1783468790688,
@@ -2711,7 +2711,7 @@
         "crime": 1783895865389,
         "bet": 1784069710937,
         "mine": 1784123920862,
-        "trafico": 1784086995923,
+        "trafico": 1784124223760,
         "explore": 1784087010263
       },
       "inventory": {
@@ -2846,7 +2846,7 @@
         "claimed": false
       },
       "level": 18,
-      "exp": 12009,
+      "exp": 13209,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -2906,7 +2906,7 @@
         },
         "crime": {
           "level": 3,
-          "xp": 2
+          "xp": 3
         }
       },
       "properties": {},
@@ -3018,11 +3018,11 @@
         "fishCount": 1,
         "totalCrime": 21,
         "crimeCount": 21,
-        "totalCrimes": 98,
+        "totalCrimes": 99,
         "totalHunt": 1,
         "huntCount": 1,
-        "totalTrafico": 96,
-        "traficoCount": 96,
+        "totalTrafico": 97,
+        "traficoCount": 97,
         "totalMine": 79,
         "mineCount": 79,
         "totalExplore": 65,

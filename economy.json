@@ -11310,11 +11310,11 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 1541335,
+      "wallet": 1541437,
       "bank": 4125816,
       "cooldowns": {
         "daily": 1784068805832,
-        "fish": 1784078900184,
+        "fish": 1784125331267,
         "work": 1783887104797,
         "rob": 1784061493131,
         "mine": 1784125192059,
@@ -11404,7 +11404,7 @@
           {
             "type": "fish",
             "target": 29,
-            "progress": 21
+            "progress": 22
           }
         ],
         "reward": 3972,
@@ -11421,7 +11421,7 @@
           {
             "type": "fish",
             "target": 81,
-            "progress": 57
+            "progress": 58
           },
           {
             "type": "hunt",
@@ -11485,7 +11485,7 @@
         },
         "fishing": {
           "level": 2,
-          "xp": 8
+          "xp": 9
         },
         "exploring": {
           "level": 1,
@@ -11549,7 +11549,7 @@
         "record": 8
       },
       "ingredients": {
-        "peixe": 174,
+        "peixe": 177,
         "trigo": 9,
         "queijo": 12,
         "alface": 4,
@@ -11559,8 +11559,8 @@
         "arroz": 8
       },
       "stats": {
-        "totalFish": 58,
-        "fishCount": 58,
+        "totalFish": 59,
+        "fishCount": 59,
         "totalWork": 29,
         "workCount": 29,
         "totalMine": 60,

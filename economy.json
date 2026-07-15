@@ -2174,10 +2174,10 @@
       }
     },
     "164815091843303@lid": {
-      "wallet": 904050,
+      "wallet": 904210,
       "bank": 0,
       "cooldowns": {
-        "daily": 1783998007731,
+        "daily": 1784223354051,
         "work": 1784041623893,
         "fish": 1784067056071,
         "hunt": 1784060786339,
@@ -2237,25 +2237,25 @@
         "diamante": 5
       },
       "challenge": {
-        "expiresAt": 1784073599999,
+        "expiresAt": 1784170799999,
         "tasks": [
           {
             "type": "mine",
-            "target": 4,
-            "progress": 3
+            "target": 3,
+            "progress": 0
           },
           {
             "type": "work",
-            "target": 4,
-            "progress": 1
+            "target": 6,
+            "progress": 0
           },
           {
             "type": "crimeSuccess",
-            "target": 5,
-            "progress": 1
+            "target": 4,
+            "progress": 0
           }
         ],
-        "reward": 485,
+        "reward": 378,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -2318,7 +2318,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 9585,
+      "exp": 9640,
       "prestige": 0,
       "classe": "ladino",
       "clan": "clan_1",
@@ -2532,8 +2532,8 @@
       },
       "lastBoss": 1783631118914,
       "streak": {
-        "count": 6,
-        "lastClaim": 1783911607731,
+        "count": 1,
+        "lastClaim": 1784136954051,
         "record": 6,
         "lastLogin": 1779485963484
       },
@@ -4592,11 +4592,11 @@
       "lastDungeon": 1780014564378
     },
     "86153201999991@lid": {
-      "wallet": 10522,
+      "wallet": 14682,
       "bank": 0,
       "cooldowns": {
         "work": 1783460451534,
-        "daily": 1783993840101,
+        "daily": 1784223053970,
         "mine": 1783993476683,
         "explore": 1783993788376,
         "hunt": 1783861634123,
@@ -4736,14 +4736,14 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 6571,
+      "exp": 6626,
       "prestige": 0,
       "classe": "mago",
       "clan": null,
       "house": {
         "type": "casa",
         "decorations": [],
-        "lastCollect": 1783946645593
+        "lastCollect": 1784136648544
       },
       "family": {
         "spouse": null,
@@ -4947,8 +4947,8 @@
         "huntCount": 4
       },
       "streak": {
-        "count": 6,
-        "lastClaim": 1783907440101,
+        "count": 1,
+        "lastClaim": 1784136653970,
         "record": 6
       },
       "lastDungeon": 1783946725770,
@@ -12928,6 +12928,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 26.76,
+      "gold": 54.28,
+      "crypto": 41.9,
+      "energy": 30.89,
+      "brazino777": 101.32,
+      "fatalmodel": 1480.64,
+      "brazzers": 454.54
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 31.88,
       "gold": 56.56,
       "crypto": 46.32,
@@ -12936,24 +12946,14 @@
       "fatalmodel": 1480.64,
       "brazzers": 544.87
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 30.45,
-      "gold": 58.29,
-      "crypto": 52.98,
-      "energy": 29.25,
-      "brazino777": 103.68,
-      "fatalmodel": 1381.73,
-      "brazzers": 508.63
-    },
     "trends": {
-      "tech": "Baixa 📉",
+      "tech": "Alta 📈",
       "gold": "Baixa 📉",
       "crypto": "Baixa 📉",
-      "energy": "Alta 📈",
+      "energy": "Baixa 📉",
       "brazino777": "Baixa 📉",
-      "fatalmodel": "Estável 🔹",
-      "brazzers": "Baixa 📉"
+      "fatalmodel": "Baixa 📉",
+      "brazzers": "Alta 📈"
     }
   },
   "dungeonParties": {

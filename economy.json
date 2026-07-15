@@ -10334,7 +10334,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 153051,
+      "wallet": 152951,
       "bank": 2190000,
       "cooldowns": {
         "work": 1783728008192,
@@ -10550,15 +10550,15 @@
           "level": 6,
           "exp": 71,
           "evolutions": 0,
-          "hunger": 92,
-          "mood": 100,
+          "hunger": 85,
+          "mood": 90,
           "wins": 8,
           "losses": 0,
           "equipment": {
             "accessory": "pet_ring",
             "weapon": "mystic_collar"
           },
-          "lastUpdate": 1784081101297,
+          "lastUpdate": 1784115987062,
           "lastTrain": 1784081092585,
           "cost": 15000
         }

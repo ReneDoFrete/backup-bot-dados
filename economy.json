@@ -978,7 +978,7 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 68139,
+      "wallet": 72070,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
@@ -991,7 +991,7 @@
         "hunt": 1784078540463,
         "mine": 1784077705567,
         "blackjack": 1783572187443,
-        "trafico": 1784075910615,
+        "trafico": 1784079351670,
         "bet": 1784069438126,
         "cook": 1783973955936
       },
@@ -1126,7 +1126,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 15404,
+      "exp": 16604,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -1188,7 +1188,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 43
+          "xp": 44
         }
       },
       "properties": {},
@@ -1241,9 +1241,9 @@
         "mineCount": 81,
         "totalHunt": 17,
         "huntCount": 17,
-        "totalTrafico": 92,
-        "traficoCount": 92,
-        "totalCrimes": 93
+        "totalTrafico": 93,
+        "traficoCount": 93,
+        "totalCrimes": 94
       },
       "ingredients": {
         "peixe": 143,
@@ -6121,7 +6121,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 0,
+      "wallet": 17500,
       "bank": 2790010,
       "cooldowns": {
         "daily": 1784033104182,
@@ -6254,7 +6254,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 20497,
+      "exp": 20997,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": null,
@@ -7576,7 +7576,7 @@
       "premiumItems": {}
     },
     "253257075150984@lid": {
-      "wallet": 59895,
+      "wallet": 59695,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
@@ -7782,15 +7782,15 @@
           "speed": 12,
           "element": "fire",
           "level": 2,
-          "exp": 63,
+          "exp": 121,
           "evolutions": 0,
-          "hunger": 60,
-          "mood": 90,
+          "hunger": 100,
+          "mood": 100,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784065160853,
-          "lastTrain": 1784065160853,
+          "lastUpdate": 1784078724812,
+          "lastTrain": 1784078684905,
           "cost": 15000
         }
       ],
@@ -10334,7 +10334,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 124042,
+      "wallet": 141542,
       "bank": 2190000,
       "cooldowns": {
         "work": 1783728008192,
@@ -10471,7 +10471,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 9028,
+      "exp": 9528,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -12946,28 +12946,28 @@
   "stockMarket": {
     "prices": {
       "tech": 38.31,
+      "gold": 24.49,
+      "crypto": 54.73,
+      "energy": 25.22,
+      "brazino777": 156.74,
+      "fatalmodel": 1476.14
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
+      "tech": 38.31,
       "gold": 25.77,
       "crypto": 50.82,
       "energy": 26,
       "brazino777": 181.8,
       "fatalmodel": 1476.14
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 37.28,
-      "gold": 24.05,
-      "crypto": 44.99,
-      "energy": 28.28,
-      "brazino777": 164.43,
-      "fatalmodel": 1727.52
-    },
     "trends": {
       "tech": "Estável 🔹",
-      "gold": "Baixa 📉",
-      "crypto": "Alta 📈",
-      "energy": "Baixa 📉",
+      "gold": "Alta 📈",
+      "crypto": "Baixa 📉",
+      "energy": "Alta 📈",
       "brazino777": "Baixa 📉",
-      "fatalmodel": "Estável 🔹"
+      "fatalmodel": "Alta 📈"
     }
   },
   "dungeonParties": {
@@ -13036,6 +13036,18 @@
       ],
       "maxMembers": 2,
       "created": 1784053740296,
+      "status": "waiting"
+    },
+    "party_1784078268110": {
+      "id": "party_1784078268110",
+      "type": "3",
+      "leader": "91384740589687@lid",
+      "members": [
+        "91384740589687@lid",
+        "229205291859991@lid"
+      ],
+      "maxMembers": 3,
+      "created": 1784078268110,
       "status": "waiting"
     }
   },

@@ -10950,13 +10950,13 @@
       }
     },
     "277304580288729@lid": {
-      "wallet": 0,
+      "wallet": 2164,
       "bank": 44171,
       "cooldowns": {
         "work": 1783727846799,
         "fish": 1784056061395,
         "mine": 1784140320128,
-        "trafico": 1784129442601,
+        "trafico": 1784148042181,
         "bet": 1784080819566,
         "explore": 1784129480079,
         "daily": 1784171784368,
@@ -11086,7 +11086,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 5661,
+      "exp": 6261,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -11133,7 +11133,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 37
+          "xp": 38
         }
       },
       "properties": {},
@@ -11182,9 +11182,9 @@
         "fishCount": 20,
         "totalMine": 28,
         "mineCount": 28,
-        "totalTrafico": 37,
-        "traficoCount": 37,
-        "totalCrimes": 37,
+        "totalTrafico": 38,
+        "traficoCount": 38,
+        "totalCrimes": 38,
         "totalExplore": 21,
         "exploreCount": 21,
         "totalHunt": 21,
@@ -13084,6 +13084,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 51.16,
+      "gold": 57.31,
+      "crypto": 58.54,
+      "energy": 36.83,
+      "brazino777": 89.67,
+      "fatalmodel": 1447.26,
+      "brazzers": 445.01
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 45.45,
       "gold": 53.88,
       "crypto": 55.38,
@@ -13091,16 +13101,6 @@
       "brazino777": 84.02,
       "fatalmodel": 1558.33,
       "brazzers": 398.09
-    },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 47.87,
-      "gold": 46.86,
-      "crypto": 64.3,
-      "energy": 37.26,
-      "brazino777": 77.16,
-      "fatalmodel": 1384.76,
-      "brazzers": 450.65
     },
     "trends": {
       "tech": "Alta 📈",

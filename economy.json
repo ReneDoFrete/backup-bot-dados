@@ -2184,7 +2184,7 @@
       }
     },
     "164815091843303@lid": {
-      "wallet": 904964,
+      "wallet": 922464,
       "bank": 0,
       "cooldowns": {
         "daily": 1784223354051,
@@ -2328,7 +2328,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 9790,
+      "exp": 10290,
       "prestige": 0,
       "classe": "ladino",
       "clan": "clan_1",
@@ -5038,17 +5038,100 @@
       }
     },
     "84534116774135@lid": {
-      "wallet": 0,
+      "wallet": 101,
       "bank": 0,
-      "cooldowns": {},
+      "cooldowns": {
+        "explore": 1784143910506
+      },
       "inventory": {},
       "items": {},
       "job": null,
       "tools": {},
-      "materials": {},
-      "challenge": null,
-      "weeklyChallenge": null,
-      "monthlyChallenge": null,
+      "materials": {
+        "madeira": 1,
+        "linha": 2
+      },
+      "challenge": {
+        "expiresAt": 1784170799999,
+        "tasks": [
+          {
+            "type": "mine",
+            "target": 5,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 6,
+            "progress": 1
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 6,
+            "progress": 0
+          }
+        ],
+        "reward": 462,
+        "claimed": false
+      },
+      "weeklyChallenge": {
+        "expiresAt": 1784516399999,
+        "tasks": [
+          {
+            "type": "explore",
+            "target": 19,
+            "progress": 1
+          },
+          {
+            "type": "fish",
+            "target": 16,
+            "progress": 0
+          },
+          {
+            "type": "hunt",
+            "target": 29,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 25,
+            "progress": 0
+          }
+        ],
+        "reward": 4299,
+        "claimed": false
+      },
+      "monthlyChallenge": {
+        "expiresAt": 1785553199999,
+        "tasks": [
+          {
+            "type": "mine",
+            "target": 86,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 72,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 95,
+            "progress": 0
+          },
+          {
+            "type": "fish",
+            "target": 65,
+            "progress": 0
+          },
+          {
+            "type": "hunt",
+            "target": 78,
+            "progress": 0
+          }
+        ],
+        "reward": 15397,
+        "claimed": false
+      },
       "level": 1,
       "exp": 0,
       "prestige": 0,
@@ -5077,7 +5160,36 @@
       "luck": 10,
       "attackBonus": 0,
       "defenseBonus": 0,
-      "skills": {},
+      "skills": {
+        "mining": {
+          "level": 1,
+          "xp": 0
+        },
+        "working": {
+          "level": 1,
+          "xp": 0
+        },
+        "fishing": {
+          "level": 1,
+          "xp": 0
+        },
+        "exploring": {
+          "level": 1,
+          "xp": 1
+        },
+        "hunting": {
+          "level": 1,
+          "xp": 0
+        },
+        "forging": {
+          "level": 1,
+          "xp": 0
+        },
+        "crime": {
+          "level": 1,
+          "xp": 0
+        }
+      },
       "properties": {},
       "pets": [],
       "lastPetBattle": 0,
@@ -5093,7 +5205,22 @@
       "createdAt": 1779513847028,
       "lastDaily": 0,
       "lastWeekly": 0,
-      "lastMonthly": 0
+      "lastMonthly": 0,
+      "stats": {
+        "totalExplore": 1,
+        "exploreCount": 1
+      },
+      "investments": {
+        "stocks": {
+          "brazino777": 2
+        },
+        "stocksCost": {
+          "brazino777": 16.67000000000002
+        },
+        "totalInvested": 240.67000000000002,
+        "totalProfit": 74.89,
+        "lastDividend": 0
+      }
     },
     "37396364189789@lid": {
       "wallet": 160,
@@ -10352,7 +10479,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 11211,
+      "wallet": 28711,
       "bank": 2268459,
       "cooldowns": {
         "work": 1783728008192,
@@ -10490,7 +10617,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 22553,
+      "exp": 23053,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -12956,6 +13083,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 46.1,
+      "gold": 46.83,
+      "crypto": 57.25,
+      "energy": 27.38,
+      "brazino777": 71.77,
+      "fatalmodel": 1350.4,
+      "brazzers": 510.01
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 40.31,
       "gold": 43.02,
       "crypto": 52.09,
@@ -12964,22 +13101,12 @@
       "fatalmodel": 1530.33,
       "brazzers": 545.5
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 36.42,
-      "gold": 47.29,
-      "crypto": 47.1,
-      "energy": 28.13,
-      "brazino777": 80.34,
-      "fatalmodel": 1654.3,
-      "brazzers": 644.95
-    },
     "trends": {
-      "tech": "Alta 📈",
+      "tech": "Baixa 📉",
       "gold": "Alta 📈",
       "crypto": "Alta 📈",
       "energy": "Alta 📈",
-      "brazino777": "Baixa 📉",
+      "brazino777": "Estável 🔹",
       "fatalmodel": "Baixa 📉",
       "brazzers": "Baixa 📉"
     }

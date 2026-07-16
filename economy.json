@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 4967,
+      "wallet": 1,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -535,7 +535,7 @@
         "rob": 1784135581244,
         "mine": 1784167655007,
         "dados": 1783459700789,
-        "bet": 1784167572453,
+        "bet": 1784179089533,
         "daily": 1784253499818,
         "crash": 1783711003889,
         "crimesair": 1783471363697,
@@ -830,19 +830,19 @@
       "investments": {
         "stocks": {
           "gold": 679281,
-          "brazino777": 27594,
+          "brazino777": 45865,
           "tech": 53499,
-          "energy": 35999
+          "energy": 8405
         },
-        "totalInvested": 21936845.289999988,
-        "totalProfit": 21228839.43,
+        "totalInvested": 22848345.959999986,
+        "totalProfit": 22135056.83,
         "lastDividend": 0,
         "stocksCost": {
-          "energy": 855297,
+          "energy": 199694,
           "tech": 1511922,
           "gold": 15364092.54999999,
           "fatalmodel": 0,
-          "brazino777": 4205532.84
+          "brazino777": 5772636.51
         }
       },
       "streak": {
@@ -13244,6 +13244,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 58.61,
+      "gold": 116.05,
+      "crypto": 39.47,
+      "energy": 56.6,
+      "brazino777": 85.77,
+      "fatalmodel": 763.35,
+      "brazzers": 307.72
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 54.4,
       "gold": 111.7,
       "crypto": 41.37,
@@ -13252,23 +13262,13 @@
       "fatalmodel": 858.52,
       "brazzers": 337.97
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 64.54,
-      "gold": 124.91,
-      "crypto": 36.05,
-      "energy": 64.19,
-      "brazino777": 79.53,
-      "fatalmodel": 831.48,
-      "brazzers": 383
-    },
     "trends": {
-      "tech": "Alta 📈",
+      "tech": "Baixa 📉",
       "gold": "Alta 📈",
       "crypto": "Baixa 📉",
-      "energy": "Baixa 📉",
-      "brazino777": "Estável 🔹",
-      "fatalmodel": "Baixa 📉",
+      "energy": "Alta 📈",
+      "brazino777": "Baixa 📉",
+      "fatalmodel": "Alta 📈",
       "brazzers": "Baixa 📉"
     }
   },

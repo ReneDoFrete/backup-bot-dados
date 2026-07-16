@@ -2712,7 +2712,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 34531,
+      "wallet": 31869,
       "bank": 560238,
       "cooldowns": {
         "work": 1783468790688,
@@ -2725,9 +2725,9 @@
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
         "bet": 1784127788236,
-        "mine": 1784170100265,
-        "trafico": 1784170398750,
-        "explore": 1784170402624
+        "mine": 1784208838923,
+        "trafico": 1784209138026,
+        "explore": 1784209141326
       },
       "inventory": {
         "vault": 4,
@@ -2770,36 +2770,36 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 398,
-        "ferro": 281,
-        "carvao": 129,
+        "pedra": 401,
+        "ferro": 285,
+        "carvao": 130,
         "diamante": 4,
         "cristal": 1,
-        "madeira": 111,
+        "madeira": 114,
         "linha": 42,
-        "corda": 24,
-        "ouro": 21
+        "corda": 25,
+        "ouro": 22
       },
       "challenge": {
-        "expiresAt": 1784170799999,
+        "expiresAt": 1784246399999,
         "tasks": [
           {
-            "type": "explore",
+            "type": "mine",
             "target": 5,
-            "progress": 5
+            "progress": 1
           },
           {
             "type": "work",
-            "target": 4,
+            "target": 6,
             "progress": 0
           },
           {
-            "type": "hunt",
-            "target": 5,
+            "type": "fish",
+            "target": 3,
             "progress": 0
           }
         ],
-        "reward": 605,
+        "reward": 697,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -2898,7 +2898,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 50
+          "xp": 51
         },
         "working": {
           "level": 1,
@@ -2910,7 +2910,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 36
+          "xp": 37
         },
         "hunting": {
           "level": 1,
@@ -3039,10 +3039,10 @@
         "huntCount": 1,
         "totalTrafico": 116,
         "traficoCount": 116,
-        "totalMine": 100,
-        "mineCount": 100,
-        "totalExplore": 86,
-        "exploreCount": 86
+        "totalMine": 101,
+        "mineCount": 101,
+        "totalExplore": 87,
+        "exploreCount": 87
       },
       "investments": {
         "stocks": {
@@ -10958,13 +10958,13 @@
     },
     "277304580288729@lid": {
       "wallet": 0,
-      "bank": 54349,
+      "bank": 56186,
       "cooldowns": {
         "work": 1783727846799,
         "fish": 1784056061395,
         "mine": 1784161721085,
-        "trafico": 1784201316969,
-        "bet": 1784163309505,
+        "trafico": 1784209055229,
+        "bet": 1784208200920,
         "explore": 1784162045382,
         "daily": 1784171784368,
         "hunt": 1784162443971,
@@ -11093,7 +11093,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 8061,
+      "exp": 8661,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -11140,7 +11140,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 41
+          "xp": 42
         }
       },
       "properties": {},
@@ -11189,9 +11189,9 @@
         "fishCount": 20,
         "totalMine": 30,
         "mineCount": 30,
-        "totalTrafico": 41,
-        "traficoCount": 41,
-        "totalCrimes": 41,
+        "totalTrafico": 42,
+        "traficoCount": 42,
+        "totalCrimes": 42,
         "totalExplore": 22,
         "exploreCount": 22,
         "totalHunt": 23,
@@ -13482,6 +13482,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 86.97,
+      "gold": 81.52,
+      "crypto": 35.07,
+      "energy": 27.36,
+      "brazino777": 107.7,
+      "fatalmodel": 466.1,
+      "brazzers": 308.13
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 79.29,
       "gold": 76.46,
       "crypto": 35.07,
@@ -13490,24 +13500,14 @@
       "fatalmodel": 448.9,
       "brazzers": 288.58
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 79.29,
-      "gold": 81.74,
-      "crypto": 34.01,
-      "energy": 34.67,
-      "brazino777": 93.09,
-      "fatalmodel": 514.57,
-      "brazzers": 298.57
-    },
     "trends": {
-      "tech": "Alta 📈",
+      "tech": "Baixa 📉",
       "gold": "Alta 📈",
-      "crypto": "Estável 🔹",
-      "energy": "Baixa 📉",
+      "crypto": "Alta 📈",
+      "energy": "Estável 🔹",
       "brazino777": "Alta 📈",
       "fatalmodel": "Alta 📈",
-      "brazzers": "Alta 📈"
+      "brazzers": "Baixa 📉"
     }
   },
   "dungeonParties": {

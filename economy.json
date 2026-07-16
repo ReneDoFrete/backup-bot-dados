@@ -2712,7 +2712,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 34078,
+      "wallet": 33911,
       "bank": 560238,
       "cooldowns": {
         "work": 1783468790688,
@@ -3052,15 +3052,15 @@
       "investments": {
         "stocks": {
           "tech": 82761,
-          "brazino777": 3499999
+          "brazino777": 3500000
         },
-        "totalInvested": 194730650.55,
-        "totalProfit": 200114239.22,
+        "totalInvested": 194730847.31000003,
+        "totalProfit": 200114270.21,
         "lastDividend": 0,
         "stocksCost": {
           "crypto": 0,
-          "tech": 2300702.8200000003,
-          "brazino777": 192429946
+          "tech": 2300733.8100000005,
+          "brazino777": 192430111.77
         }
       },
       "ingredients": {
@@ -6274,7 +6274,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 628825,
+      "wallet": 838825,
       "bank": 0,
       "cooldowns": {
         "daily": 1784253666933,
@@ -7741,7 +7741,7 @@
       "lastDungeon": 1784229453283
     },
     "253257075150984@lid": {
-      "wallet": 242486,
+      "wallet": 25089,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
@@ -8005,12 +8005,14 @@
       },
       "investments": {
         "stocks": {
-          "brazzers": 3777
+          "brazzers": 3777,
+          "tech": 300
         },
         "stocksCost": {
-          "fatalmodel": 0
+          "fatalmodel": 0,
+          "tech": 17397
         },
-        "totalInvested": 4.21999999973923,
+        "totalInvested": 17401.21999999974,
         "totalProfit": 1635338.5600000003,
         "lastDividend": 0
       },
@@ -11532,7 +11534,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 176788,
+      "wallet": 166788,
       "bank": 9254635,
       "cooldowns": {
         "daily": 1784211026861,
@@ -11854,14 +11856,14 @@
       },
       "energy": 10,
       "dailyIncome": 5000,
-      "consumivel_bonus_ativo": 0.3,
-      "mineBonus": 0.3,
-      "workBonus": 0.3,
-      "traficoBonus": 0.3,
-      "fishBonus": 0.3,
-      "exploreBonus": 0.3,
-      "huntBonus": 0.3,
-      "forgeBonus": 0.3
+      "consumivel_bonus_ativo": 0,
+      "mineBonus": 0,
+      "workBonus": 0,
+      "traficoBonus": 0,
+      "fishBonus": 0,
+      "exploreBonus": 0,
+      "huntBonus": 0,
+      "forgeBonus": 0
     },
     "101439175168082@lid": {
       "wallet": 0,
@@ -13583,6 +13585,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 61.62,
+      "gold": 55.78,
+      "crypto": 46.42,
+      "energy": 22.31,
+      "brazino777": 139.56,
+      "fatalmodel": 225.02,
+      "brazzers": 344.15
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 57.99,
       "gold": 55.78,
       "crypto": 41.19,
@@ -13591,24 +13603,14 @@
       "fatalmodel": 240.72,
       "brazzers": 344.15
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 51.52,
-      "gold": 50.46,
-      "crypto": 39.21,
-      "energy": 26.09,
-      "brazino777": 153.3,
-      "fatalmodel": 240.72,
-      "brazzers": 344.15
-    },
     "trends": {
-      "tech": "Estável 🔹",
-      "gold": "Estável 🔹",
-      "crypto": "Alta 📈",
-      "energy": "Baixa 📉",
+      "tech": "Alta 📈",
+      "gold": "Baixa 📉",
+      "crypto": "Baixa 📉",
+      "energy": "Alta 📈",
       "brazino777": "Baixa 📉",
       "fatalmodel": "Baixa 📉",
-      "brazzers": "Estável 🔹"
+      "brazzers": "Baixa 📉"
     }
   },
   "dungeonParties": {

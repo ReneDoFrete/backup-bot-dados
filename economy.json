@@ -2712,7 +2712,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 34514,
+      "wallet": 30744,
       "bank": 560238,
       "cooldowns": {
         "work": 1783468790688,
@@ -2725,9 +2725,9 @@
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
         "bet": 1784127788236,
-        "mine": 1784216918423,
-        "trafico": 1784217209726,
-        "explore": 1784217216817
+        "mine": 1784217806522,
+        "trafico": 1784218114108,
+        "explore": 1784218125322
       },
       "inventory": {
         "vault": 4,
@@ -2770,13 +2770,13 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 420,
-        "ferro": 301,
+        "pedra": 424,
+        "ferro": 304,
         "carvao": 135,
-        "diamante": 4,
+        "diamante": 5,
         "cristal": 2,
-        "madeira": 119,
-        "linha": 44,
+        "madeira": 120,
+        "linha": 46,
         "corda": 28,
         "ouro": 23
       },
@@ -2898,7 +2898,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 56
+          "xp": 57
         },
         "working": {
           "level": 1,
@@ -2910,7 +2910,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 42
+          "xp": 43
         },
         "hunting": {
           "level": 1,
@@ -3039,10 +3039,10 @@
         "huntCount": 1,
         "totalTrafico": 118,
         "traficoCount": 118,
-        "totalMine": 106,
-        "mineCount": 106,
-        "totalExplore": 92,
-        "exploreCount": 92
+        "totalMine": 107,
+        "mineCount": 107,
+        "totalExplore": 93,
+        "exploreCount": 93
       },
       "investments": {
         "stocks": {
@@ -13482,6 +13482,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 104.98,
+      "gold": 77.84,
+      "crypto": 36.72,
+      "energy": 27.97,
+      "brazino777": 145.08,
+      "fatalmodel": 389.38,
+      "brazzers": 424.43
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 94.24,
       "gold": 82.24,
       "crypto": 35.32,
@@ -13490,23 +13500,13 @@
       "fatalmodel": 416.94,
       "brazzers": 382.25
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 85.33,
-      "gold": 72.61,
-      "crypto": 40.54,
-      "energy": 24.61,
-      "brazino777": 114.93,
-      "fatalmodel": 453.69,
-      "brazzers": 342.03
-    },
     "trends": {
-      "tech": "Alta 📈",
-      "gold": "Baixa 📉",
+      "tech": "Baixa 📉",
+      "gold": "Alta 📈",
       "crypto": "Alta 📈",
-      "energy": "Estável 🔹",
-      "brazino777": "Alta 📈",
-      "fatalmodel": "Baixa 📉",
+      "energy": "Alta 📈",
+      "brazino777": "Baixa 📉",
+      "fatalmodel": "Estável 🔹",
       "brazzers": "Alta 📈"
     }
   },

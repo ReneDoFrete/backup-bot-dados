@@ -2188,7 +2188,7 @@
       }
     },
     "164815091843303@lid": {
-      "wallet": 923659,
+      "wallet": 931534,
       "bank": 0,
       "cooldowns": {
         "daily": 1784313580032,
@@ -2332,7 +2332,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 10500,
+      "exp": 11000,
       "prestige": 0,
       "classe": "ladino",
       "clan": "clan_1",
@@ -2627,7 +2627,7 @@
       },
       "lastArena": 1779549423947,
       "xp": 500,
-      "lastDungeon": 1784067867525,
+      "lastDungeon": 1784231859280,
       "equipment": {
         "weapon": "espada_diamante_lvl1",
         "armor": "armadura_aco",
@@ -2711,7 +2711,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 34010,
+      "wallet": 33110,
       "bank": 560238,
       "cooldowns": {
         "work": 1783468790688,
@@ -2719,7 +2719,7 @@
         "daily": 1783518163690,
         "hunt": 1783570082515,
         "fish": 1783425813213,
-        "crash": 1783717325439,
+        "crash": 1784232374049,
         "crimesair": 1783710534421,
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
@@ -2935,7 +2935,7 @@
           "name": "Tigresa Vip",
           "emoji": "🐯",
           "type": "tigre",
-          "hp": 55,
+          "hp": 45,
           "maxHp": 139,
           "attack": 25,
           "defense": 14,
@@ -2944,8 +2944,8 @@
           "level": 3,
           "exp": 158,
           "evolutions": 0,
-          "hunger": 38,
-          "mood": 10,
+          "hunger": 100,
+          "mood": 30,
           "wins": 3,
           "losses": 0,
           "equipment": {
@@ -2953,7 +2953,7 @@
             "shield": "pet_shield",
             "weapon": "tiger_talisman"
           },
-          "lastUpdate": 1784167532254,
+          "lastUpdate": 1784232131447,
           "lastTrain": 1784040976193,
           "cost": 7000
         },
@@ -2961,7 +2961,7 @@
           "name": "Nossa lobo mau",
           "emoji": "🐺",
           "type": "lobo",
-          "hp": 35,
+          "hp": 57,
           "maxHp": 116,
           "attack": 19,
           "defense": 11,
@@ -2970,12 +2970,12 @@
           "level": 2,
           "exp": 199,
           "evolutions": 0,
-          "hunger": 0,
-          "mood": 0,
+          "hunger": 100,
+          "mood": 20,
           "wins": 0,
           "losses": 1,
           "equipment": {},
-          "lastUpdate": 1784167532254,
+          "lastUpdate": 1784232128069,
           "lastTrain": 1783973858820,
           "cost": 5000
         },
@@ -2983,7 +2983,7 @@
           "name": "H. Romeu Pinto",
           "emoji": "🐉",
           "type": "dragao",
-          "hp": 49,
+          "hp": 81,
           "maxHp": 162,
           "attack": 27,
           "defense": 16,
@@ -2992,8 +2992,8 @@
           "level": 2,
           "exp": 0,
           "evolutions": 0,
-          "hunger": 0,
-          "mood": 0,
+          "hunger": 100,
+          "mood": 20,
           "wins": 1,
           "losses": 0,
           "equipment": {
@@ -3002,7 +3002,7 @@
             "armor": "pet_armor",
             "shield": "pet_shield"
           },
-          "lastUpdate": 1784167532254,
+          "lastUpdate": 1784232128069,
           "lastTrain": 1783973861681,
           "cost": 15000
         }
@@ -11529,22 +11529,23 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 204264,
+      "wallet": 174616,
       "bank": 9254635,
       "cooldowns": {
         "daily": 1784211026861,
         "fish": 1784225956382,
         "work": 1783887104797,
         "rob": 1784135752198,
-        "mine": 1784225813297,
+        "mine": 1784232535380,
         "crime": 1783469671010,
-        "trafico": 1784232708280,
         "hunt": 1784226535354,
         "crimesair": 1783820907251,
         "explore": 1784226137031,
         "bet": 1784069724487,
         "roleta": 1783915849628,
-        "cook": 1783916867080
+        "cook": 1783916867080,
+        "consumivel_efeito_fim": 1784233709134,
+        "consumivel_uso": 1784231909134
       },
       "inventory": {
         "vault": 33,
@@ -11559,7 +11560,8 @@
         "botas_aco": 0,
         "wolfbane": 1,
         "vault_gigante": 1,
-        "mansao": 1
+        "mansao": 1,
+        "cigarro_gudang": 0
       },
       "items": {},
       "job": null,
@@ -11572,15 +11574,16 @@
         }
       },
       "materials": {
-        "pedra": 168,
+        "pedra": 170,
         "couro": 46,
-        "ferro": 100,
+        "ferro": 103,
         "madeira": 56,
         "linha": 26,
         "cristal": 6,
-        "carvao": 25,
+        "carvao": 26,
         "corda": 14,
-        "ouro": 5
+        "ouro": 6,
+        "diamante": 1
       },
       "challenge": {
         "expiresAt": 1784246399999,
@@ -11588,7 +11591,7 @@
           {
             "type": "mine",
             "target": 6,
-            "progress": 2
+            "progress": 3
           },
           {
             "type": "work",
@@ -11664,7 +11667,7 @@
         "claimed": false
       },
       "level": 18,
-      "exp": 7634,
+      "exp": 6108,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -11698,7 +11701,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 16
+          "xp": 17
         },
         "working": {
           "level": 1,
@@ -11784,8 +11787,8 @@
         "fishCount": 65,
         "totalWork": 29,
         "workCount": 29,
-        "totalMine": 66,
-        "mineCount": 66,
+        "totalMine": 67,
+        "mineCount": 67,
         "totalCrime": 6,
         "crimeCount": 6,
         "totalExplore": 50,
@@ -11846,7 +11849,15 @@
         "pao": 0
       },
       "energy": 10,
-      "dailyIncome": 5000
+      "dailyIncome": 5000,
+      "consumivel_bonus_ativo": 0.3,
+      "mineBonus": 0.3,
+      "workBonus": 0.3,
+      "traficoBonus": 0.3,
+      "fishBonus": 0.3,
+      "exploreBonus": 0.3,
+      "huntBonus": 0.3,
+      "forgeBonus": 0.3
     },
     "101439175168082@lid": {
       "wallet": 0,
@@ -12569,7 +12580,7 @@
     },
     "cigarro_marlboro": {
       "name": "Cigarro Marlboro",
-      "price": 1500,
+      "price": 15000,
       "type": "upgrade",
       "effect": {
         "bonus": 0.2,
@@ -12578,7 +12589,7 @@
     },
     "cigarro_gudang": {
       "name": "Cigarro Gudang",
-      "price": 3000,
+      "price": 30000,
       "type": "upgrade",
       "effect": {
         "bonus": 0.3,
@@ -13568,6 +13579,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 49.55,
+      "gold": 35.24,
+      "crypto": 48.34,
+      "energy": 27.44,
+      "brazino777": 138.33,
+      "fatalmodel": 298.23,
+      "brazzers": 475.24
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 45.69,
       "gold": 39.16,
       "crypto": 54.88,
@@ -13576,23 +13597,13 @@
       "fatalmodel": 276.31,
       "brazzers": 565.71
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 41.39,
-      "gold": 44.81,
-      "crypto": 65.76,
-      "energy": 27.6,
-      "brazino777": 138.55,
-      "fatalmodel": 242.26,
-      "brazzers": 493.29
-    },
     "trends": {
-      "tech": "Alta 📈",
-      "gold": "Baixa 📉",
+      "tech": "Baixa 📉",
+      "gold": "Alta 📈",
       "crypto": "Baixa 📉",
-      "energy": "Alta 📈",
-      "brazino777": "Alta 📈",
-      "fatalmodel": "Alta 📈",
+      "energy": "Baixa 📉",
+      "brazino777": "Baixa 📉",
+      "fatalmodel": "Baixa 📉",
       "brazzers": "Baixa 📉"
     }
   },
@@ -13667,9 +13678,9 @@
   },
   "treasury": 128000,
   "crashHistory": [
-    "1.40x",
     "1.06x",
-    "1.48x"
+    "1.48x",
+    "1.03x"
   ],
   "auctions": [
     {

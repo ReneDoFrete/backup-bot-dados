@@ -2712,7 +2712,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 44260,
+      "wallet": 38538,
       "bank": 560238,
       "cooldowns": {
         "work": 1783468790688,
@@ -2725,9 +2725,9 @@
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
         "bet": 1784127788236,
-        "mine": 1784213771132,
-        "trafico": 1784214068023,
-        "explore": 1784214069819
+        "mine": 1784214724718,
+        "trafico": 1784215026824,
+        "explore": 1784215022320
       },
       "inventory": {
         "vault": 4,
@@ -2770,13 +2770,13 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 412,
-        "ferro": 296,
+        "pedra": 416,
+        "ferro": 300,
         "carvao": 134,
         "diamante": 4,
         "cristal": 2,
-        "madeira": 114,
-        "linha": 43,
+        "madeira": 116,
+        "linha": 44,
         "corda": 28,
         "ouro": 23
       },
@@ -2786,7 +2786,7 @@
           {
             "type": "mine",
             "target": 5,
-            "progress": 4
+            "progress": 5
           },
           {
             "type": "work",
@@ -2898,7 +2898,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 54
+          "xp": 55
         },
         "working": {
           "level": 1,
@@ -2910,7 +2910,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 40
+          "xp": 41
         },
         "hunting": {
           "level": 1,
@@ -3039,10 +3039,10 @@
         "huntCount": 1,
         "totalTrafico": 118,
         "traficoCount": 118,
-        "totalMine": 104,
-        "mineCount": 104,
-        "totalExplore": 90,
-        "exploreCount": 90
+        "totalMine": 105,
+        "mineCount": 105,
+        "totalExplore": 91,
+        "exploreCount": 91
       },
       "investments": {
         "stocks": {
@@ -10488,7 +10488,7 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 72967,
+      "wallet": 77716,
       "bank": 2264959,
       "cooldowns": {
         "work": 1783728008192,
@@ -10498,7 +10498,7 @@
         "bet": 1784210578820,
         "daily": 1784224552665,
         "mine": 1784212559616,
-        "trafico": 1784212769420,
+        "trafico": 1784215079429,
         "explore": 1784212870119,
         "crime": 1784069448672,
         "cook": 1784076489336,
@@ -10626,7 +10626,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 35053,
+      "exp": 36253,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -10686,7 +10686,7 @@
         },
         "crime": {
           "level": 2,
-          "xp": 36
+          "xp": 37
         }
       },
       "properties": {},
@@ -10742,9 +10742,9 @@
         "fishCount": 52,
         "totalMine": 48,
         "mineCount": 48,
-        "totalTrafico": 86,
-        "traficoCount": 86,
-        "totalCrimes": 86,
+        "totalTrafico": 87,
+        "traficoCount": 87,
+        "totalCrimes": 87,
         "totalExplore": 44,
         "exploreCount": 44
       },
@@ -13485,28 +13485,28 @@
     "prices": {
       "tech": 82.19,
       "gold": 61.74,
+      "crypto": 45.97,
+      "energy": 26.62,
+      "brazino777": 114.5,
+      "fatalmodel": 453.55,
+      "brazzers": 295.54
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
+      "tech": 82.19,
+      "gold": 61.74,
       "crypto": 41.63,
       "energy": 24.92,
       "brazino777": 103.97,
       "fatalmodel": 426.22,
       "brazzers": 282.92
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 80.53,
-      "gold": 56.31,
-      "crypto": 38.94,
-      "energy": 27.93,
-      "brazino777": 124.52,
-      "fatalmodel": 400.69,
-      "brazzers": 247.96
-    },
     "trends": {
-      "tech": "Estável 🔹",
-      "gold": "Estável 🔹",
-      "crypto": "Alta 📈",
-      "energy": "Alta 📈",
-      "brazino777": "Alta 📈",
+      "tech": "Baixa 📉",
+      "gold": "Alta 📈",
+      "crypto": "Baixa 📉",
+      "energy": "Baixa 📉",
+      "brazino777": "Baixa 📉",
       "fatalmodel": "Alta 📈",
       "brazzers": "Alta 📈"
     }

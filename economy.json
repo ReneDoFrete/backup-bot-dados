@@ -2188,7 +2188,7 @@
       }
     },
     "164815091843303@lid": {
-      "wallet": 922223,
+      "wallet": 921823,
       "bank": 0,
       "cooldowns": {
         "daily": 1784313580032,
@@ -2409,15 +2409,15 @@
           "level": 4,
           "exp": 128,
           "evolutions": 0,
-          "hunger": 72,
-          "mood": 86,
+          "hunger": 0,
+          "mood": 0,
           "wins": 1,
           "losses": 0,
           "equipment": {
             "weapon": "mystic_collar",
             "accessory": "pet_ring"
           },
-          "lastUpdate": 1784065907939,
+          "lastUpdate": 1784230342872,
           "lastTrain": 1783631210495,
           "cost": 6000
         },
@@ -2425,17 +2425,17 @@
           "name": "Khan",
           "emoji": "🐉",
           "type": "dragao",
-          "hp": 127,
-          "maxHp": 211,
-          "attack": 36,
-          "defense": 21,
+          "hp": 221,
+          "maxHp": 221,
+          "attack": 39,
+          "defense": 22,
           "speed": 12,
           "element": "fire",
-          "level": 5,
-          "exp": 448,
+          "level": 6,
+          "exp": 0,
           "evolutions": 0,
           "hunger": 100,
-          "mood": 46,
+          "mood": 40,
           "wins": 9,
           "losses": 3,
           "equipment": {
@@ -2444,8 +2444,8 @@
             "shield": "pet_shield",
             "accessory": "pet_ring"
           },
-          "lastUpdate": 1784066147431,
-          "lastTrain": 1784066139201,
+          "lastUpdate": 1784230362074,
+          "lastTrain": 1784230358070,
           "cost": 15000
         },
         {
@@ -2461,12 +2461,12 @@
           "level": 3,
           "exp": 133,
           "evolutions": 0,
-          "hunger": 72,
-          "mood": 86,
+          "hunger": 0,
+          "mood": 0,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784065907939,
+          "lastUpdate": 1784230342872,
           "lastTrain": 1783631217387,
           "cost": 10000
         },
@@ -2483,12 +2483,12 @@
           "level": 3,
           "exp": 202,
           "evolutions": 0,
-          "hunger": 72,
-          "mood": 86,
+          "hunger": 0,
+          "mood": 0,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784065907939,
+          "lastUpdate": 1784230342872,
           "lastTrain": 1783631220912,
           "cost": 7000
         },
@@ -2505,12 +2505,12 @@
           "level": 3,
           "exp": 56,
           "evolutions": 0,
-          "hunger": 72,
-          "mood": 86,
+          "hunger": 0,
+          "mood": 0,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784065907939,
+          "lastUpdate": 1784230342872,
           "lastTrain": 1783631224810,
           "cost": 5000
         }
@@ -12547,6 +12547,33 @@
         "traficoBonus": 0.1
       }
     },
+    "cigarro_gift": {
+      "name": "Cigarro Gift",
+      "price": 7500,
+      "type": "upgrade",
+      "effect": {
+        "bonus": 0.1,
+        "xpLossPercent": 0.3
+      }
+    },
+    "cigarro_marlboro": {
+      "name": "Cigarro Marlboro",
+      "price": 1500,
+      "type": "upgrade",
+      "effect": {
+        "bonus": 0.2,
+        "xpLossPercent": 0.25
+      }
+    },
+    "cigarro_gudang": {
+      "name": "Cigarro Gudang",
+      "price": 3000,
+      "type": "upgrade",
+      "effect": {
+        "bonus": 0.3,
+        "xpLossPercent": 0.2
+      }
+    },
     "rod": {
       "name": "Vara de Pesca",
       "price": 400,
@@ -13530,6 +13557,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 45.84,
+      "gold": 40.12,
+      "crypto": 75.31,
+      "energy": 32.97,
+      "brazino777": 123.46,
+      "fatalmodel": 231.71,
+      "brazzers": 584.28
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 40.76,
       "gold": 47.2,
       "crypto": 67.14,
@@ -13538,24 +13575,14 @@
       "fatalmodel": 261.31,
       "brazzers": 555.45
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 48.76,
-      "gold": 53.68,
-      "crypto": 67.14,
-      "energy": 35.13,
-      "brazino777": 112.02,
-      "fatalmodel": 241.29,
-      "brazzers": 510.81
-    },
     "trends": {
-      "tech": "Alta 📈",
-      "gold": "Baixa 📉",
-      "crypto": "Alta 📈",
+      "tech": "Baixa 📉",
+      "gold": "Alta 📈",
+      "crypto": "Baixa 📉",
       "energy": "Baixa 📉",
       "brazino777": "Alta 📈",
-      "fatalmodel": "Baixa 📉",
-      "brazzers": "Alta 📈"
+      "fatalmodel": "Alta 📈",
+      "brazzers": "Baixa 📉"
     }
   },
   "dungeonParties": {

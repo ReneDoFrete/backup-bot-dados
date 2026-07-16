@@ -989,20 +989,20 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 470846,
+      "wallet": 482174,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
         "crime": 1783981332487,
         "fish": 1784231398148,
-        "explore": 1784231566992,
+        "explore": 1784233883588,
         "daily": 1784253874899,
         "rob": 1783992610327,
         "crash": 1783883655640,
         "hunt": 1784231994480,
-        "mine": 1784231269042,
+        "mine": 1784233585183,
         "blackjack": 1783572187443,
-        "trafico": 1784231564166,
+        "trafico": 1784233874282,
         "bet": 1784069438126,
         "cook": 1783973955936
       },
@@ -1045,13 +1045,13 @@
         }
       },
       "materials": {
-        "madeira": 113,
+        "madeira": 115,
         "linha": 47,
         "couro": 32,
         "cristal": 1,
-        "pedra": 411,
+        "pedra": 414,
         "corda": 30,
-        "ferro": 273,
+        "ferro": 277,
         "ouro": 28,
         "carvao": 109,
         "diamante": 9,
@@ -1139,7 +1139,7 @@
         "claimed": false
       },
       "level": 17,
-      "exp": 62509,
+      "exp": 64759,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -1177,7 +1177,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 59
+          "xp": 60
         },
         "working": {
           "level": 1,
@@ -1189,7 +1189,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 36
+          "xp": 37
         },
         "hunting": {
           "level": 1,
@@ -1201,7 +1201,7 @@
         },
         "crime": {
           "level": 3,
-          "xp": 0
+          "xp": 1
         }
       },
       "properties": {},
@@ -1217,15 +1217,15 @@
           "speed": 12,
           "element": "fire",
           "level": 5,
-          "exp": 367,
+          "exp": 436,
           "evolutions": 0,
           "hunger": 80,
-          "mood": 27,
+          "mood": 34,
           "wins": 5,
           "losses": 4,
           "equipment": {},
-          "lastUpdate": 1784226844688,
-          "lastTrain": 1784226848888,
+          "lastUpdate": 1784232730181,
+          "lastTrain": 1784232737009,
           "cost": 15000
         }
       ],
@@ -1248,15 +1248,15 @@
         "workCount": 38,
         "totalFish": 50,
         "fishCount": 50,
-        "totalExplore": 86,
-        "exploreCount": 86,
-        "totalMine": 109,
-        "mineCount": 109,
+        "totalExplore": 87,
+        "exploreCount": 87,
+        "totalMine": 110,
+        "mineCount": 110,
         "totalHunt": 20,
         "huntCount": 20,
-        "totalTrafico": 116,
-        "traficoCount": 116,
-        "totalCrimes": 117
+        "totalTrafico": 117,
+        "traficoCount": 117,
+        "totalCrimes": 118
       },
       "ingredients": {
         "peixe": 147,
@@ -2016,10 +2016,11 @@
       }
     },
     "206845809565943@lid": {
-      "wallet": 185,
+      "wallet": 385,
       "bank": 0,
       "cooldowns": {
-        "fish": 1781114742013
+        "fish": 1781114742013,
+        "bet": 1784232466709
       },
       "inventory": {},
       "items": {},
@@ -2027,25 +2028,25 @@
       "tools": {},
       "materials": {},
       "challenge": {
-        "expiresAt": 1781146799999,
+        "expiresAt": 1784257199999,
         "tasks": [
           {
-            "type": "explore",
+            "type": "mine",
             "target": 5,
             "progress": 0
           },
           {
-            "type": "fish",
-            "target": 7,
-            "progress": 1
+            "type": "crimeSuccess",
+            "target": 3,
+            "progress": 0
           },
           {
-            "type": "hunt",
+            "type": "work",
             "target": 3,
             "progress": 0
           }
         ],
-        "reward": 499,
+        "reward": 470,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -2188,7 +2189,7 @@
       }
     },
     "164815091843303@lid": {
-      "wallet": 931534,
+      "wallet": 928834,
       "bank": 0,
       "cooldowns": {
         "daily": 1784313580032,
@@ -2400,7 +2401,7 @@
           "name": "kay",
           "emoji": "🦅",
           "type": "aguia",
-          "hp": 1,
+          "hp": 40,
           "maxHp": 135,
           "attack": 33,
           "defense": 11,
@@ -2409,15 +2410,15 @@
           "level": 4,
           "exp": 128,
           "evolutions": 0,
-          "hunger": 0,
-          "mood": 0,
+          "hunger": 100,
+          "mood": 30,
           "wins": 1,
           "losses": 0,
           "equipment": {
             "weapon": "mystic_collar",
             "accessory": "pet_ring"
           },
-          "lastUpdate": 1784230342872,
+          "lastUpdate": 1784232568798,
           "lastTrain": 1783631210495,
           "cost": 6000
         },
@@ -2449,10 +2450,10 @@
           "cost": 15000
         },
         {
-          "name": "Fênix",
+          "name": "Burn",
           "emoji": "🔥",
           "type": "fenix",
-          "hp": 1,
+          "hp": 46,
           "maxHp": 156,
           "attack": 27,
           "defense": 15,
@@ -2461,20 +2462,20 @@
           "level": 3,
           "exp": 133,
           "evolutions": 0,
-          "hunger": 0,
-          "mood": 0,
+          "hunger": 100,
+          "mood": 30,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784230342872,
+          "lastUpdate": 1784232568798,
           "lastTrain": 1783631217387,
           "cost": 10000
         },
         {
-          "name": "Tigre",
+          "name": "t'challa",
           "emoji": "🐯",
           "type": "tigre",
-          "hp": 1,
+          "hp": 43,
           "maxHp": 142,
           "attack": 24,
           "defense": 14,
@@ -2483,20 +2484,20 @@
           "level": 3,
           "exp": 202,
           "evolutions": 0,
-          "hunger": 0,
-          "mood": 0,
+          "hunger": 100,
+          "mood": 30,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784230342872,
+          "lastUpdate": 1784232568798,
           "lastTrain": 1783631220912,
           "cost": 7000
         },
         {
-          "name": "Lobo",
+          "name": "Korvak",
           "emoji": "🐺",
           "type": "lobo",
-          "hp": 1,
+          "hp": 37,
           "maxHp": 125,
           "attack": 20,
           "defense": 13,
@@ -2505,12 +2506,12 @@
           "level": 3,
           "exp": 56,
           "evolutions": 0,
-          "hunger": 0,
-          "mood": 0,
+          "hunger": 100,
+          "mood": 30,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784230342872,
+          "lastUpdate": 1784232568798,
           "lastTrain": 1783631224810,
           "cost": 5000
         }
@@ -11529,7 +11530,7 @@
       "lastMonthly": 0
     },
     "91384740589687@lid": {
-      "wallet": 174616,
+      "wallet": 175788,
       "bank": 9254635,
       "cooldowns": {
         "daily": 1784211026861,
@@ -11545,7 +11546,8 @@
         "roleta": 1783915849628,
         "cook": 1783916867080,
         "consumivel_efeito_fim": 1784233709134,
-        "consumivel_uso": 1784231909134
+        "consumivel_uso": 1784231909134,
+        "trafico": 1784233333932
       },
       "inventory": {
         "vault": 33,
@@ -11667,7 +11669,7 @@
         "claimed": false
       },
       "level": 18,
-      "exp": 6108,
+      "exp": 6483,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": "clan_4",
@@ -11725,7 +11727,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 31
+          "xp": 32
         }
       },
       "properties": {},
@@ -11795,9 +11797,9 @@
         "exploreCount": 50,
         "totalHunt": 49,
         "huntCount": 49,
-        "totalTrafico": 24,
-        "traficoCount": 25,
-        "totalCrimes": 25
+        "totalTrafico": 25,
+        "traficoCount": 26,
+        "totalCrimes": 26
       },
       "farm": {
         "plots": [],
@@ -13579,6 +13581,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 45.97,
+      "gold": 39.49,
+      "crypto": 44.04,
+      "energy": 25.47,
+      "brazino777": 121.71,
+      "fatalmodel": 278.61,
+      "brazzers": 397.63
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 49.55,
       "gold": 35.24,
       "crypto": 48.34,
@@ -13587,22 +13599,12 @@
       "fatalmodel": 298.23,
       "brazzers": 475.24
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 45.69,
-      "gold": 39.16,
-      "crypto": 54.88,
-      "energy": 25.51,
-      "brazino777": 122.83,
-      "fatalmodel": 276.31,
-      "brazzers": 565.71
-    },
     "trends": {
-      "tech": "Baixa 📉",
+      "tech": "Alta 📈",
       "gold": "Alta 📈",
-      "crypto": "Baixa 📉",
+      "crypto": "Alta 📈",
       "energy": "Baixa 📉",
-      "brazino777": "Baixa 📉",
+      "brazino777": "Alta 📈",
       "fatalmodel": "Baixa 📉",
       "brazzers": "Baixa 📉"
     }

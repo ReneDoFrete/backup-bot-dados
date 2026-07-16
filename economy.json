@@ -6256,8 +6256,8 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 1726,
-      "bank": 2807035,
+      "wallet": 2738623.38,
+      "bank": 0,
       "cooldowns": {
         "daily": 1784253666933,
         "fish": 1784156316119,
@@ -6308,25 +6308,25 @@
         "corda": 11
       },
       "challenge": {
-        "expiresAt": 1784170799999,
+        "expiresAt": 1784246399999,
         "tasks": [
           {
-            "type": "crimeSuccess",
+            "type": "explore",
             "target": 4,
             "progress": 0
           },
           {
-            "type": "hunt",
-            "target": 7,
-            "progress": 1
+            "type": "fish",
+            "target": 6,
+            "progress": 0
           },
           {
-            "type": "fish",
+            "type": "hunt",
             "target": 5,
-            "progress": 1
+            "progress": 0
           }
         ],
-        "reward": 665,
+        "reward": 661,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -6526,14 +6526,14 @@
       },
       "investments": {
         "stocks": {
-          "crypto": 20
+          "crypto": 19
         },
         "stocksCost": {
-          "crypto": 3800,
+          "crypto": 3610,
           "energy": 0
         },
-        "totalInvested": 3800,
-        "totalProfit": -123623,
+        "totalInvested": 3610,
+        "totalProfit": -123775.62,
         "lastDividend": 0
       },
       "classeBonuses": {
@@ -13240,6 +13240,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 70.64,
+      "gold": 105.29,
+      "crypto": 37.38,
+      "energy": 70.32,
+      "brazino777": 65.03,
+      "fatalmodel": 824.28,
+      "brazzers": 277.28
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 68.93,
       "gold": 105.29,
       "crypto": 34.58,
@@ -13248,24 +13258,14 @@
       "fatalmodel": 794.4,
       "brazzers": 296.5
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 71.16,
-      "gold": 93.22,
-      "crypto": 30.07,
-      "energy": 62.71,
-      "brazino777": 68.03,
-      "fatalmodel": 911.65,
-      "brazzers": 323.36
-    },
     "trends": {
-      "tech": "Alta 📈",
+      "tech": "Baixa 📉",
       "gold": "Estável 🔹",
       "crypto": "Alta 📈",
       "energy": "Alta 📈",
-      "brazino777": "Baixa 📉",
-      "fatalmodel": "Alta 📈",
-      "brazzers": "Baixa 📉"
+      "brazino777": "Alta 📈",
+      "fatalmodel": "Estável 🔹",
+      "brazzers": "Alta 📈"
     }
   },
   "dungeonParties": {

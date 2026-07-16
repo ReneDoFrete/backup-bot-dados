@@ -7715,7 +7715,7 @@
       "premiumItems": {}
     },
     "253257075150984@lid": {
-      "wallet": 1319489,
+      "wallet": 24479,
       "bank": 260000,
       "cooldowns": {
         "daily": 1784129633100,
@@ -7725,8 +7725,8 @@
         "trafico": 1784186153236,
         "fish": 1784185980043,
         "mine": 1784185857635,
-        "crash": 1783883632559,
-        "bet": 1784127943126,
+        "crash": 1784185377534,
+        "bet": 1784185352538,
         "explore": 1784186150733,
         "hunt": 1784186585444
       },
@@ -7976,11 +7976,14 @@
         "ovo": 2
       },
       "investments": {
-        "stocks": {},
-        "stocksCost": {
-          "fatalmodel": 0
+        "stocks": {
+          "brazzers": 3777
         },
-        "totalInvested": 4.21999999973923,
+        "stocksCost": {
+          "fatalmodel": 0,
+          "brazzers": 1258609.71
+        },
+        "totalInvested": 1258613.9299999997,
         "totalProfit": 1635338.5600000003,
         "lastDividend": 0
       },
@@ -13241,6 +13244,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 58.26,
+      "gold": 142.83,
+      "crypto": 27.09,
+      "energy": 48.67,
+      "brazino777": 88.83,
+      "fatalmodel": 582.27,
+      "brazzers": 282.01
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 61.66,
       "gold": 155.19,
       "crypto": 25.96,
@@ -13249,23 +13262,13 @@
       "fatalmodel": 638,
       "brazzers": 333.23
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 71.74,
-      "gold": 150.19,
-      "crypto": 24.73,
-      "energy": 59.24,
-      "brazino777": 79,
-      "fatalmodel": 606.58,
-      "brazzers": 324.29
-    },
     "trends": {
       "tech": "Baixa 📉",
-      "gold": "Baixa 📉",
+      "gold": "Alta 📈",
       "crypto": "Alta 📈",
       "energy": "Baixa 📉",
-      "brazino777": "Alta 📈",
-      "fatalmodel": "Baixa 📉",
+      "brazino777": "Baixa 📉",
+      "fatalmodel": "Alta 📈",
       "brazzers": "Baixa 📉"
     }
   },
@@ -13340,9 +13343,9 @@
   },
   "treasury": 128000,
   "crashHistory": [
-    "1.40x",
     "1.06x",
-    "1.48x"
+    "1.48x",
+    "1.20x"
   ],
   "auctions": [
     {

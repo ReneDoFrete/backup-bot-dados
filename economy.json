@@ -6260,7 +6260,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 2738523,
+      "wallet": 2738710,
       "bank": 0,
       "cooldowns": {
         "daily": 1784253666933,
@@ -7080,11 +7080,11 @@
       }
     },
     "66976391123003@lid": {
-      "wallet": 245,
+      "wallet": 58,
       "bank": 4870,
       "cooldowns": {
         "work": 1783977311241,
-        "rob": 1783976958317
+        "rob": 1784202973671
       },
       "inventory": {},
       "items": {},
@@ -7092,25 +7092,25 @@
       "tools": {},
       "materials": {},
       "challenge": {
-        "expiresAt": 1783997999999,
+        "expiresAt": 1784246399999,
         "tasks": [
           {
-            "type": "work",
-            "target": 4,
-            "progress": 1
-          },
-          {
-            "type": "mine",
+            "type": "crimeSuccess",
             "target": 4,
             "progress": 0
           },
           {
-            "type": "crimeSuccess",
+            "type": "explore",
+            "target": 7,
+            "progress": 0
+          },
+          {
+            "type": "mine",
             "target": 6,
             "progress": 0
           }
         ],
-        "reward": 357,
+        "reward": 441,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -12076,6 +12076,80 @@
       "lastDaily": 0,
       "lastWeekly": 0,
       "lastMonthly": 0
+    },
+    "208272107770090@lid": {
+      "wallet": 0,
+      "bank": 0,
+      "cooldowns": {
+        "rob": 1784202984269
+      },
+      "inventory": {},
+      "items": {},
+      "job": null,
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1784246399999,
+        "tasks": [
+          {
+            "type": "mine",
+            "target": 5,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 4,
+            "progress": 0
+          },
+          {
+            "type": "work",
+            "target": 3,
+            "progress": 0
+          }
+        ],
+        "reward": 312,
+        "claimed": false
+      },
+      "weeklyChallenge": null,
+      "monthlyChallenge": null,
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {},
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1784202384268,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0
     }
   },
   "shop": {
@@ -13241,6 +13315,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 77.12,
+      "gold": 126.96,
+      "crypto": 37.57,
+      "energy": 46.48,
+      "brazino777": 108.72,
+      "fatalmodel": 734.62,
+      "brazzers": 339.65
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 67.3,
       "gold": 116.06,
       "crypto": 33.1,
@@ -13249,23 +13333,13 @@
       "fatalmodel": 710.03,
       "brazzers": 305.62
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 80.99,
-      "gold": 138.1,
-      "crypto": 32.31,
-      "energy": 43.81,
-      "brazino777": 84.74,
-      "fatalmodel": 710.03,
-      "brazzers": 347.54
-    },
     "trends": {
-      "tech": "Alta 📈",
-      "gold": "Alta 📈",
-      "crypto": "Alta 📈",
+      "tech": "Baixa 📉",
+      "gold": "Baixa 📉",
+      "crypto": "Estável 🔹",
       "energy": "Alta 📈",
       "brazino777": "Alta 📈",
-      "fatalmodel": "Alta 📈",
+      "fatalmodel": "Baixa 📉",
       "brazzers": "Alta 📈"
     }
   },

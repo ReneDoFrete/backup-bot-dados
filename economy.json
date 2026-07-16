@@ -2712,7 +2712,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 38538,
+      "wallet": 34514,
       "bank": 560238,
       "cooldowns": {
         "work": 1783468790688,
@@ -2725,9 +2725,9 @@
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
         "bet": 1784127788236,
-        "mine": 1784214724718,
-        "trafico": 1784215026824,
-        "explore": 1784215022320
+        "mine": 1784216918423,
+        "trafico": 1784217209726,
+        "explore": 1784217216817
       },
       "inventory": {
         "vault": 4,
@@ -2770,12 +2770,12 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 416,
-        "ferro": 300,
-        "carvao": 134,
+        "pedra": 420,
+        "ferro": 301,
+        "carvao": 135,
         "diamante": 4,
         "cristal": 2,
-        "madeira": 116,
+        "madeira": 119,
         "linha": 44,
         "corda": 28,
         "ouro": 23
@@ -2898,7 +2898,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 55
+          "xp": 56
         },
         "working": {
           "level": 1,
@@ -2910,7 +2910,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 41
+          "xp": 42
         },
         "hunting": {
           "level": 1,
@@ -3039,10 +3039,10 @@
         "huntCount": 1,
         "totalTrafico": 118,
         "traficoCount": 118,
-        "totalMine": 105,
-        "mineCount": 105,
-        "totalExplore": 91,
-        "exploreCount": 91
+        "totalMine": 106,
+        "mineCount": 106,
+        "totalExplore": 92,
+        "exploreCount": 92
       },
       "investments": {
         "stocks": {
@@ -6260,7 +6260,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 2731129,
+      "wallet": 647586,
       "bank": 0,
       "cooldowns": {
         "daily": 1784253666933,
@@ -6269,8 +6269,8 @@
         "rob": 1783976950059,
         "cook": 1782846656129,
         "crime": 1784140862297,
-        "mine": 1784156178788,
-        "trafico": 1784145428627,
+        "mine": 1784216924727,
+        "trafico": 1784217219320,
         "hunt": 1784156904519,
         "explore": 1784156498123,
         "roleta": 1783549177560
@@ -6300,9 +6300,9 @@
         }
       },
       "materials": {
-        "pedra": 114,
-        "ferro": 81,
-        "carvao": 45,
+        "pedra": 118,
+        "ferro": 84,
+        "carvao": 47,
         "couro": 9,
         "ouro": 10,
         "diamante": 3,
@@ -6354,7 +6354,7 @@
           {
             "type": "mine",
             "target": 28,
-            "progress": 13
+            "progress": 14
           }
         ],
         "reward": 3337,
@@ -6366,7 +6366,7 @@
           {
             "type": "mine",
             "target": 92,
-            "progress": 52
+            "progress": 53
           },
           {
             "type": "work",
@@ -6393,7 +6393,7 @@
         "claimed": false
       },
       "level": 16,
-      "exp": 21952,
+      "exp": 22177,
       "prestige": 0,
       "classe": "guerreiro",
       "clan": null,
@@ -6416,7 +6416,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 2
+          "xp": 3
         },
         "working": {
           "level": 1,
@@ -6440,7 +6440,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 15
+          "xp": 16
         }
       },
       "properties": {},
@@ -6449,22 +6449,22 @@
           "name": "kilver boyola",
           "emoji": "🐉",
           "type": "dragao",
-          "hp": 177,
-          "maxHp": 177,
-          "attack": 33,
-          "defense": 19,
+          "hp": 195,
+          "maxHp": 195,
+          "attack": 37,
+          "defense": 21,
           "speed": 12,
           "element": "fire",
-          "level": 3,
-          "exp": 285,
+          "level": 4,
+          "exp": 0,
           "evolutions": 0,
-          "hunger": 95,
-          "mood": 92,
+          "hunger": 100,
+          "mood": 95,
           "wins": 0,
           "losses": 2,
           "equipment": {},
-          "lastUpdate": 1784203075668,
-          "lastTrain": 1784203060877,
+          "lastUpdate": 1784216127017,
+          "lastTrain": 1784216112419,
           "cost": 15000
         }
       ],
@@ -6498,17 +6498,17 @@
         "fishCount": 24,
         "totalWork": 34,
         "workCount": 34,
-        "totalMine": 52,
-        "mineCount": 52,
+        "totalMine": 53,
+        "mineCount": 53,
         "totalCrime": 1,
         "crimeCount": 1,
         "totalExplore": 30,
         "exploreCount": 30,
         "totalHunt": 10,
         "huntCount": 10,
-        "totalTrafico": 14,
-        "traficoCount": 14,
-        "totalCrimes": 14
+        "totalTrafico": 15,
+        "traficoCount": 15,
+        "totalCrimes": 15
       },
       "farm": {
         "plots": [],
@@ -6531,14 +6531,14 @@
       "investments": {
         "stocks": {
           "crypto": 19,
-          "fatalmodel": 13
+          "fatalmodel": 5013
         },
         "stocksCost": {
           "crypto": 3610,
           "energy": 0,
-          "fatalmodel": 7035
+          "fatalmodel": 2091735
         },
-        "totalInvested": 10645,
+        "totalInvested": 2095345,
         "totalProfit": -123775.62,
         "lastDividend": 0
       },
@@ -8389,7 +8389,7 @@
       }
     },
     "166709960913086@lid": {
-      "wallet": 2639,
+      "wallet": 69775,
       "bank": 0,
       "cooldowns": {
         "work": 1783469935845,
@@ -8605,17 +8605,16 @@
       },
       "investments": {
         "stocks": {
-          "energy": 60000,
-          "crypto": 1900
+          "energy": 59999
         },
-        "totalInvested": 1708234.7999999998,
-        "totalProfit": 504943.2300000001,
+        "totalInvested": 1641574.7999999998,
+        "totalProfit": 505421.06000000006,
         "lastDividend": 0,
         "stocksCost": {
-          "crypto": 66633,
+          "crypto": 0,
           "gold": 0,
           "tech": 0,
-          "energy": 1641600
+          "energy": 1641573
         }
       },
       "streak": {
@@ -13483,6 +13482,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 94.24,
+      "gold": 82.24,
+      "crypto": 35.32,
+      "energy": 27.97,
+      "brazino777": 131.7,
+      "fatalmodel": 416.94,
+      "brazzers": 382.25
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 85.33,
       "gold": 72.61,
       "crypto": 40.54,
@@ -13491,21 +13500,11 @@
       "fatalmodel": 453.69,
       "brazzers": 342.03
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 78.6,
-      "gold": 68.35,
-      "crypto": 43.11,
-      "energy": 22.45,
-      "brazino777": 100.33,
-      "fatalmodel": 491.1,
-      "brazzers": 328.27
-    },
     "trends": {
       "tech": "Alta 📈",
-      "gold": "Alta 📈",
-      "crypto": "Baixa 📉",
-      "energy": "Alta 📈",
+      "gold": "Baixa 📉",
+      "crypto": "Alta 📈",
+      "energy": "Estável 🔹",
       "brazino777": "Alta 📈",
       "fatalmodel": "Baixa 📉",
       "brazzers": "Alta 📈"

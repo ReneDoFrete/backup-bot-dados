@@ -524,12 +524,12 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 11124,
+      "wallet": 11441,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
         "crime": 1783988498877,
-        "explore": 1784225725613,
+        "explore": 1784227920627,
         "fish": 1784227738376,
         "hunt": 1784228335796,
         "rob": 1784135581244,
@@ -719,7 +719,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 39
+          "xp": 40
         },
         "hunting": {
           "level": 2,
@@ -808,12 +808,12 @@
         "totalWork": 54,
         "totalFish": 62,
         "totalHunt": 63,
-        "totalExplore": 89,
+        "totalExplore": 90,
         "totalBattles": 0,
         "totalWins": 0,
         "totalCrimes": 57,
         "workCount": 54,
-        "exploreCount": 89,
+        "exploreCount": 90,
         "fishCount": 62,
         "mineCount": 81,
         "huntCount": 63,

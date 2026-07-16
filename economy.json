@@ -2188,10 +2188,10 @@
       }
     },
     "164815091843303@lid": {
-      "wallet": 922053,
+      "wallet": 922223,
       "bank": 0,
       "cooldowns": {
-        "daily": 1784223354051,
+        "daily": 1784313580032,
         "work": 1784041623893,
         "fish": 1784139793991,
         "hunt": 1784140406998,
@@ -2251,25 +2251,25 @@
         "diamante": 5
       },
       "challenge": {
-        "expiresAt": 1784170799999,
+        "expiresAt": 1784257199999,
         "tasks": [
           {
-            "type": "mine",
-            "target": 3,
-            "progress": 1
-          },
-          {
-            "type": "work",
-            "target": 6,
+            "type": "explore",
+            "target": 7,
             "progress": 0
           },
           {
             "type": "crimeSuccess",
-            "target": 4,
+            "target": 7,
+            "progress": 0
+          },
+          {
+            "type": "fish",
+            "target": 7,
             "progress": 0
           }
         ],
-        "reward": 378,
+        "reward": 422,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -2332,7 +2332,7 @@
         "claimed": false
       },
       "level": 15,
-      "exp": 10290,
+      "exp": 10350,
       "prestige": 0,
       "classe": "ladino",
       "clan": "clan_1",
@@ -2546,8 +2546,8 @@
       },
       "lastBoss": 1783631118914,
       "streak": {
-        "count": 1,
-        "lastClaim": 1784136954051,
+        "count": 2,
+        "lastClaim": 1784227180032,
         "record": 6,
         "lastLogin": 1779485963484
       },
@@ -8675,12 +8675,12 @@
       "lastDuel": 1784142030590
     },
     "78920762323072@lid": {
-      "wallet": 1604,
+      "wallet": 3968,
       "bank": 0,
       "cooldowns": {
-        "work": 1784212538126,
+        "work": 1784228097285,
         "hunt": 1784044338998,
-        "bet": 1784057226096,
+        "bet": 1784227225054,
         "mine": 1784227610813,
         "explore": 1784227902708
       },
@@ -8717,7 +8717,7 @@
           {
             "type": "work",
             "target": 5,
-            "progress": 1
+            "progress": 2
           },
           {
             "type": "explore",
@@ -8744,7 +8744,7 @@
           {
             "type": "work",
             "target": 22,
-            "progress": 5
+            "progress": 6
           },
           {
             "type": "crimeSuccess",
@@ -8776,7 +8776,7 @@
           {
             "type": "work",
             "target": 80,
-            "progress": 12
+            "progress": 13
           },
           {
             "type": "hunt",
@@ -8788,7 +8788,7 @@
         "claimed": false
       },
       "level": 6,
-      "exp": 282,
+      "exp": 482,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -8815,7 +8815,7 @@
         },
         "working": {
           "level": 1,
-          "xp": 12
+          "xp": 13
         },
         "fishing": {
           "level": 1,
@@ -8855,8 +8855,8 @@
       "lastWeekly": 0,
       "lastMonthly": 0,
       "stats": {
-        "totalWork": 12,
-        "workCount": 12,
+        "totalWork": 13,
+        "workCount": 13,
         "totalHunt": 1,
         "huntCount": 1,
         "totalMine": 2,
@@ -13524,6 +13524,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 53.4,
+      "gold": 69.97,
+      "crypto": 65.1,
+      "energy": 34.14,
+      "brazino777": 127.72,
+      "fatalmodel": 234.79,
+      "brazzers": 517.07
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 63.88,
       "gold": 65.16,
       "crypto": 65.1,
@@ -13532,23 +13542,13 @@
       "fatalmodel": 255.56,
       "brazzers": 452.55
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 75.33,
-      "gold": 68.87,
-      "crypto": 56.66,
-      "energy": 37.08,
-      "brazino777": 152.47,
-      "fatalmodel": 281.33,
-      "brazzers": 413.59
-    },
     "trends": {
       "tech": "Baixa 📉",
-      "gold": "Alta 📈",
+      "gold": "Baixa 📉",
       "crypto": "Estável 🔹",
-      "energy": "Baixa 📉",
+      "energy": "Alta 📈",
       "brazino777": "Baixa 📉",
-      "fatalmodel": "Baixa 📉",
+      "fatalmodel": "Alta 📈",
       "brazzers": "Alta 📈"
     }
   },

@@ -749,12 +749,12 @@
           "level": 6,
           "exp": 319,
           "evolutions": 0,
-          "hunger": 84,
-          "mood": 28,
+          "hunger": 75,
+          "mood": 24,
           "wins": 3,
           "losses": 6,
           "equipment": {},
-          "lastUpdate": 1784224777330,
+          "lastUpdate": 1784233199260,
           "lastTrain": 1784224770860,
           "cost": 10000
         },
@@ -771,8 +771,8 @@
           "level": 5,
           "exp": 202,
           "evolutions": 0,
-          "hunger": 84,
-          "mood": 28,
+          "hunger": 75,
+          "mood": 24,
           "wins": 3,
           "losses": 3,
           "equipment": {
@@ -781,7 +781,7 @@
             "shield": "pet_shield",
             "armor": "pet_armor"
           },
-          "lastUpdate": 1784224780615,
+          "lastUpdate": 1784233199260,
           "lastTrain": 1784224767991,
           "cost": 15000
         }
@@ -2712,7 +2712,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 33110,
+      "wallet": 41252,
       "bank": 560238,
       "cooldowns": {
         "work": 1783468790688,
@@ -2725,9 +2725,9 @@
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
         "bet": 1784127788236,
-        "mine": 1784232368647,
-        "trafico": 1784232676098,
-        "explore": 1784232672680,
+        "mine": 1784233636386,
+        "trafico": 1784233947120,
+        "explore": 1784233941229,
         "consumivel_efeito_fim": 1784233495183,
         "consumivel_uso": 1784231695183
       },
@@ -2773,15 +2773,15 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 443,
-        "ferro": 320,
-        "carvao": 141,
+        "pedra": 447,
+        "ferro": 323,
+        "carvao": 144,
         "diamante": 5,
-        "cristal": 2,
-        "madeira": 124,
-        "linha": 47,
+        "cristal": 3,
+        "madeira": 127,
+        "linha": 48,
         "corda": 28,
-        "ouro": 24
+        "ouro": 25
       },
       "challenge": {
         "expiresAt": 1784246399999,
@@ -2865,7 +2865,7 @@
         "claimed": false
       },
       "level": 18,
-      "exp": 66459,
+      "exp": 68709,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -2903,7 +2903,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 61
+          "xp": 62
         },
         "working": {
           "level": 1,
@@ -2915,7 +2915,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 47
+          "xp": 48
         },
         "hunting": {
           "level": 1,
@@ -2927,7 +2927,7 @@
         },
         "crime": {
           "level": 3,
-          "xp": 28
+          "xp": 29
         }
       },
       "properties": {},
@@ -3039,15 +3039,15 @@
         "fishCount": 1,
         "totalCrime": 21,
         "crimeCount": 21,
-        "totalCrimes": 124,
+        "totalCrimes": 125,
         "totalHunt": 1,
         "huntCount": 1,
-        "totalTrafico": 122,
-        "traficoCount": 122,
-        "totalMine": 111,
-        "mineCount": 111,
-        "totalExplore": 97,
-        "exploreCount": 97
+        "totalTrafico": 123,
+        "traficoCount": 123,
+        "totalMine": 112,
+        "mineCount": 112,
+        "totalExplore": 98,
+        "exploreCount": 98
       },
       "investments": {
         "stocks": {
@@ -13581,6 +13581,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 51.12,
+      "gold": 44.27,
+      "crypto": 45.84,
+      "energy": 23.66,
+      "brazino777": 138.01,
+      "fatalmodel": 238.39,
+      "brazzers": 348.75
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 45.97,
       "gold": 39.49,
       "crypto": 44.04,
@@ -13589,23 +13599,13 @@
       "fatalmodel": 278.61,
       "brazzers": 397.63
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 49.55,
-      "gold": 35.24,
-      "crypto": 48.34,
-      "energy": 27.44,
-      "brazino777": 138.33,
-      "fatalmodel": 298.23,
-      "brazzers": 475.24
-    },
     "trends": {
-      "tech": "Alta 📈",
-      "gold": "Alta 📈",
+      "tech": "Baixa 📉",
+      "gold": "Baixa 📉",
       "crypto": "Alta 📈",
       "energy": "Baixa 📉",
-      "brazino777": "Alta 📈",
-      "fatalmodel": "Baixa 📉",
+      "brazino777": "Baixa 📉",
+      "fatalmodel": "Estável 🔹",
       "brazzers": "Baixa 📉"
     }
   },

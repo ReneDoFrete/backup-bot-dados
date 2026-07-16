@@ -6260,7 +6260,7 @@
       }
     },
     "95297237704813@lid": {
-      "wallet": 2738510,
+      "wallet": 2736020,
       "bank": 0,
       "cooldowns": {
         "daily": 1784253666933,
@@ -6530,13 +6530,15 @@
       },
       "investments": {
         "stocks": {
-          "crypto": 19
+          "crypto": 19,
+          "fatalmodel": 4
         },
         "stocksCost": {
           "crypto": 3610,
-          "energy": 0
+          "energy": 0,
+          "fatalmodel": 2488.76
         },
-        "totalInvested": 3610,
+        "totalInvested": 6098.76,
         "totalProfit": -123775.62,
         "lastDividend": 0
       },
@@ -7080,8 +7082,8 @@
       }
     },
     "66976391123003@lid": {
-      "wallet": 92100,
-      "bank": 5229,
+      "wallet": 87329,
+      "bank": 10000,
       "cooldowns": {
         "work": 1784203384469,
         "rob": 1784202973671
@@ -12241,6 +12243,80 @@
         "totalWork": 1,
         "workCount": 1
       }
+    },
+    "69432776863863@lid": {
+      "wallet": 0,
+      "bank": 0,
+      "cooldowns": {
+        "rob": 1784203731671
+      },
+      "inventory": {},
+      "items": {},
+      "job": null,
+      "tools": {},
+      "materials": {},
+      "challenge": {
+        "expiresAt": 1784246399999,
+        "tasks": [
+          {
+            "type": "hunt",
+            "target": 4,
+            "progress": 0
+          },
+          {
+            "type": "mine",
+            "target": 4,
+            "progress": 0
+          },
+          {
+            "type": "crimeSuccess",
+            "target": 3,
+            "progress": 0
+          }
+        ],
+        "reward": 427,
+        "claimed": false
+      },
+      "weeklyChallenge": null,
+      "monthlyChallenge": null,
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {},
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1784203131670,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0
     }
   },
   "shop": {
@@ -13406,6 +13482,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 69.61,
+      "gold": 94.17,
+      "crypto": 42.02,
+      "energy": 52.86,
+      "brazino777": 99.69,
+      "fatalmodel": 554.27,
+      "brazzers": 430.11
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 75.23,
       "gold": 111.23,
       "crypto": 37.57,
@@ -13414,23 +13500,13 @@
       "fatalmodel": 622.19,
       "brazzers": 380.92
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 77.12,
-      "gold": 126.96,
-      "crypto": 37.57,
-      "energy": 46.48,
-      "brazino777": 108.72,
-      "fatalmodel": 734.62,
-      "brazzers": 339.65
-    },
     "trends": {
-      "tech": "Baixa 📉",
-      "gold": "Baixa 📉",
-      "crypto": "Alta 📈",
-      "energy": "Alta 📈",
-      "brazino777": "Baixa 📉",
-      "fatalmodel": "Baixa 📉",
+      "tech": "Alta 📈",
+      "gold": "Estável 🔹",
+      "crypto": "Estável 🔹",
+      "energy": "Estável 🔹",
+      "brazino777": "Alta 📈",
+      "fatalmodel": "Alta 📈",
       "brazzers": "Alta 📈"
     }
   },

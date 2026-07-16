@@ -989,20 +989,20 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 480753,
+      "wallet": 487477,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
         "crime": 1783981332487,
         "fish": 1784231398148,
-        "explore": 1784239847139,
+        "explore": 1784242323520,
         "daily": 1784253874899,
         "rob": 1783992610327,
         "crash": 1783883655640,
         "hunt": 1784231994480,
-        "mine": 1784239550687,
+        "mine": 1784242034070,
         "blackjack": 1783572187443,
-        "trafico": 1784239856701,
+        "trafico": 1784242316299,
         "bet": 1784069438126,
         "cook": 1783973955936
       },
@@ -1045,15 +1045,15 @@
         }
       },
       "materials": {
-        "madeira": 115,
-        "linha": 47,
+        "madeira": 116,
+        "linha": 48,
         "couro": 32,
-        "cristal": 1,
-        "pedra": 420,
+        "cristal": 2,
+        "pedra": 426,
         "corda": 30,
-        "ferro": 280,
-        "ouro": 28,
-        "carvao": 110,
+        "ferro": 284,
+        "ouro": 29,
+        "carvao": 113,
         "diamante": 10,
         "netherite": 1
       },
@@ -1138,8 +1138,8 @@
         "reward": 16709,
         "claimed": false
       },
-      "level": 17,
-      "exp": 64759,
+      "level": 18,
+      "exp": 1325,
       "prestige": 0,
       "classe": "mago",
       "clan": "clan_5",
@@ -1160,7 +1160,7 @@
         ],
         "siblings": []
       },
-      "power": 355,
+      "power": 370,
       "hp": 100,
       "maxHp": 100,
       "mana": 50,
@@ -1177,7 +1177,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 61
+          "xp": 62
         },
         "working": {
           "level": 1,
@@ -1189,7 +1189,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 38
+          "xp": 39
         },
         "hunting": {
           "level": 1,
@@ -1201,7 +1201,7 @@
         },
         "crime": {
           "level": 3,
-          "xp": 1
+          "xp": 2
         }
       },
       "properties": {},
@@ -1248,15 +1248,15 @@
         "workCount": 38,
         "totalFish": 50,
         "fishCount": 50,
-        "totalExplore": 88,
-        "exploreCount": 88,
-        "totalMine": 111,
-        "mineCount": 111,
+        "totalExplore": 89,
+        "exploreCount": 89,
+        "totalMine": 112,
+        "mineCount": 112,
         "totalHunt": 20,
         "huntCount": 20,
-        "totalTrafico": 117,
-        "traficoCount": 117,
-        "totalCrimes": 118
+        "totalTrafico": 118,
+        "traficoCount": 118,
+        "totalCrimes": 119
       },
       "ingredients": {
         "peixe": 147,
@@ -2712,7 +2712,7 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 33911,
+      "wallet": 29789,
       "bank": 560238,
       "cooldowns": {
         "work": 1783468790688,
@@ -2725,9 +2725,9 @@
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
         "bet": 1784127788236,
-        "mine": 1784237340349,
-        "trafico": 1784237638306,
-        "explore": 1784237642962,
+        "mine": 1784241575552,
+        "trafico": 1784241868726,
+        "explore": 1784241877771,
         "consumivel_efeito_fim": 1784233495183,
         "consumivel_uso": 1784231695183
       },
@@ -2773,15 +2773,15 @@
       },
       "materials": {
         "couro": 19,
-        "pedra": 453,
-        "ferro": 326,
+        "pedra": 459,
+        "ferro": 330,
         "carvao": 145,
         "diamante": 5,
-        "cristal": 3,
-        "madeira": 129,
+        "cristal": 4,
+        "madeira": 130,
         "linha": 50,
         "corda": 29,
-        "ouro": 25
+        "ouro": 26
       },
       "challenge": {
         "expiresAt": 1784246399999,
@@ -2903,7 +2903,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 63
+          "xp": 64
         },
         "working": {
           "level": 1,
@@ -2915,7 +2915,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 49
+          "xp": 50
         },
         "hunting": {
           "level": 1,
@@ -3044,10 +3044,10 @@
         "huntCount": 1,
         "totalTrafico": 123,
         "traficoCount": 123,
-        "totalMine": 113,
-        "mineCount": 113,
-        "totalExplore": 99,
-        "exploreCount": 99
+        "totalMine": 114,
+        "mineCount": 114,
+        "totalExplore": 100,
+        "exploreCount": 100
       },
       "investments": {
         "stocks": {
@@ -8939,20 +8939,20 @@
       "lastArena": 1784224796530
     },
     "117025208856591@lid": {
-      "wallet": 1110569,
+      "wallet": 1109326,
       "bank": 10000,
       "cooldowns": {
         "work": 1783644567226,
         "rob": 1784163190066,
-        "trafico": 1784239042276,
+        "trafico": 1784241892715,
         "bet": 1784238158346,
-        "mine": 1784238743524,
+        "mine": 1784241612331,
         "crash": 1783717406470,
-        "explore": 1784239053286,
-        "fish": 1784238868150,
-        "crime": 1784214915727,
+        "explore": 1784241929118,
+        "fish": 1784241744750,
+        "crime": 1784242789328,
         "daily": 1784299490928,
-        "hunt": 1784239470716
+        "hunt": 1784242366255
       },
       "inventory": {
         "espada_diamante": 1
@@ -8968,8 +8968,8 @@
         }
       },
       "materials": {
-        "pedra": 117,
-        "ferro": 85,
+        "pedra": 119,
+        "ferro": 88,
         "carvao": 40,
         "corda": 5,
         "linha": 6,
@@ -8990,12 +8990,12 @@
           {
             "type": "hunt",
             "target": 7,
-            "progress": 3
+            "progress": 4
           },
           {
             "type": "explore",
             "target": 6,
-            "progress": 3
+            "progress": 4
           }
         ],
         "reward": 413,
@@ -9007,17 +9007,17 @@
           {
             "type": "fish",
             "target": 29,
-            "progress": 22
+            "progress": 23
           },
           {
             "type": "explore",
             "target": 21,
-            "progress": 16
+            "progress": 17
           },
           {
             "type": "hunt",
             "target": 19,
-            "progress": 6
+            "progress": 7
           },
           {
             "type": "work",
@@ -9034,7 +9034,7 @@
           {
             "type": "mine",
             "target": 80,
-            "progress": 39
+            "progress": 40
           },
           {
             "type": "work",
@@ -9044,17 +9044,17 @@
           {
             "type": "fish",
             "target": 60,
-            "progress": 32
+            "progress": 33
           },
           {
             "type": "explore",
             "target": 94,
-            "progress": 17
+            "progress": 18
           },
           {
             "type": "hunt",
             "target": 99,
-            "progress": 6
+            "progress": 7
           }
         ],
         "reward": 15560,
@@ -9099,7 +9099,7 @@
       "skills": {
         "mining": {
           "level": 1,
-          "xp": 39
+          "xp": 40
         },
         "working": {
           "level": 1,
@@ -9107,15 +9107,15 @@
         },
         "fishing": {
           "level": 1,
-          "xp": 32
+          "xp": 33
         },
         "exploring": {
           "level": 1,
-          "xp": 17
+          "xp": 18
         },
         "hunting": {
           "level": 1,
-          "xp": 6
+          "xp": 7
         },
         "forging": {
           "level": 1,
@@ -9195,14 +9195,14 @@
         "totalTrafico": 42,
         "traficoCount": 42,
         "totalCrimes": 42,
-        "totalMine": 39,
-        "mineCount": 39,
-        "totalExplore": 17,
-        "exploreCount": 17,
-        "totalFish": 32,
-        "fishCount": 32,
-        "totalHunt": 6,
-        "huntCount": 6
+        "totalMine": 40,
+        "mineCount": 40,
+        "totalExplore": 18,
+        "exploreCount": 18,
+        "totalFish": 33,
+        "fishCount": 33,
+        "totalHunt": 7,
+        "huntCount": 7
       },
       "trafico": "grttcp",
       "investments": {
@@ -9217,8 +9217,8 @@
         "lastDividend": 0
       },
       "ingredients": {
-        "peixe": 91,
-        "carne": 9
+        "peixe": 95,
+        "carne": 10
       },
       "streak": {
         "count": 4,
@@ -13586,6 +13586,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 89.11,
+      "gold": 38.43,
+      "crypto": 40.96,
+      "energy": 25,
+      "brazino777": 131.28,
+      "fatalmodel": 209.85,
+      "brazzers": 264.05
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 78.23,
       "gold": 43.39,
       "crypto": 37.1,
@@ -13594,24 +13604,14 @@
       "fatalmodel": 187.53,
       "brazzers": 275.76
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 72.68,
-      "gold": 41.82,
-      "crypto": 37.1,
-      "energy": 23.14,
-      "brazino777": 119.29,
-      "fatalmodel": 193.33,
-      "brazzers": 259.2
-    },
     "trends": {
-      "tech": "Baixa 📉",
+      "tech": "Alta 📈",
       "gold": "Baixa 📉",
       "crypto": "Alta 📈",
-      "energy": "Alta 📈",
-      "brazino777": "Baixa 📉",
+      "energy": "Baixa 📉",
+      "brazino777": "Alta 📈",
       "fatalmodel": "Alta 📈",
-      "brazzers": "Baixa 📉"
+      "brazzers": "Alta 📈"
     }
   },
   "dungeonParties": {

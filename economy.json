@@ -2189,7 +2189,7 @@
       }
     },
     "164815091843303@lid": {
-      "wallet": 928834,
+      "wallet": 928334,
       "bank": 0,
       "cooldowns": {
         "daily": 1784313580032,
@@ -2401,7 +2401,7 @@
           "name": "kay",
           "emoji": "🦅",
           "type": "aguia",
-          "hp": 40,
+          "hp": 53,
           "maxHp": 135,
           "attack": 33,
           "defense": 11,
@@ -2411,14 +2411,14 @@
           "exp": 128,
           "evolutions": 0,
           "hunger": 100,
-          "mood": 30,
+          "mood": 38,
           "wins": 1,
           "losses": 0,
           "equipment": {
             "weapon": "mystic_collar",
             "accessory": "pet_ring"
           },
-          "lastUpdate": 1784232568798,
+          "lastUpdate": 1784236591191,
           "lastTrain": 1783631210495,
           "cost": 6000
         },
@@ -2436,7 +2436,7 @@
           "exp": 0,
           "evolutions": 0,
           "hunger": 100,
-          "mood": 40,
+          "mood": 47,
           "wins": 9,
           "losses": 3,
           "equipment": {
@@ -2445,7 +2445,7 @@
             "shield": "pet_shield",
             "accessory": "pet_ring"
           },
-          "lastUpdate": 1784230362074,
+          "lastUpdate": 1784236591191,
           "lastTrain": 1784230358070,
           "cost": 15000
         },
@@ -2453,7 +2453,7 @@
           "name": "Burn",
           "emoji": "🔥",
           "type": "fenix",
-          "hp": 46,
+          "hp": 61,
           "maxHp": 156,
           "attack": 27,
           "defense": 15,
@@ -2463,11 +2463,11 @@
           "exp": 133,
           "evolutions": 0,
           "hunger": 100,
-          "mood": 30,
+          "mood": 38,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784232568798,
+          "lastUpdate": 1784236591191,
           "lastTrain": 1783631217387,
           "cost": 10000
         },
@@ -2475,7 +2475,7 @@
           "name": "t'challa",
           "emoji": "🐯",
           "type": "tigre",
-          "hp": 43,
+          "hp": 57,
           "maxHp": 142,
           "attack": 24,
           "defense": 14,
@@ -2485,11 +2485,11 @@
           "exp": 202,
           "evolutions": 0,
           "hunger": 100,
-          "mood": 30,
+          "mood": 38,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784232568798,
+          "lastUpdate": 1784236591191,
           "lastTrain": 1783631220912,
           "cost": 7000
         },
@@ -2497,7 +2497,7 @@
           "name": "Korvak",
           "emoji": "🐺",
           "type": "lobo",
-          "hp": 37,
+          "hp": 49,
           "maxHp": 125,
           "attack": 20,
           "defense": 13,
@@ -2507,11 +2507,11 @@
           "exp": 56,
           "evolutions": 0,
           "hunger": 100,
-          "mood": 30,
+          "mood": 38,
           "wins": 0,
           "losses": 0,
           "equipment": {},
-          "lastUpdate": 1784232568798,
+          "lastUpdate": 1784236591191,
           "lastTrain": 1783631224810,
           "cost": 5000
         }
@@ -13581,6 +13581,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 51.52,
+      "gold": 50.46,
+      "crypto": 39.21,
+      "energy": 26.09,
+      "brazino777": 153.3,
+      "fatalmodel": 240.72,
+      "brazzers": 344.15
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 55.75,
       "gold": 47.71,
       "crypto": 34.74,
@@ -13589,24 +13599,14 @@
       "fatalmodel": 251.82,
       "brazzers": 323.95
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 51.49,
-      "gold": 44.57,
-      "crypto": 35.85,
-      "energy": 22.64,
-      "brazino777": 125.84,
-      "fatalmodel": 224.43,
-      "brazzers": 294.46
-    },
     "trends": {
-      "tech": "Baixa 📉",
+      "tech": "Alta 📈",
       "gold": "Alta 📈",
       "crypto": "Alta 📈",
-      "energy": "Alta 📈",
-      "brazino777": "Alta 📈",
-      "fatalmodel": "Baixa 📉",
-      "brazzers": "Alta 📈"
+      "energy": "Baixa 📉",
+      "brazino777": "Baixa 📉",
+      "fatalmodel": "Estável 🔹",
+      "brazzers": "Estável 🔹"
     }
   },
   "dungeonParties": {

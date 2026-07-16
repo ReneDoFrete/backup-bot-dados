@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 316099,
+      "wallet": 315283,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -541,7 +541,7 @@
         "crimesair": 1783471363697,
         "blackjack": 1783572168376,
         "cook": 1783751803038,
-        "trafico": 1784079853573
+        "trafico": 1784174237935
       },
       "inventory": {
         "espada_diamante": 1,
@@ -586,25 +586,25 @@
         "diamante": 2
       },
       "challenge": {
-        "expiresAt": 1784084399999,
+        "expiresAt": 1784246399999,
         "tasks": [
           {
-            "type": "explore",
-            "target": 3,
+            "type": "mine",
+            "target": 7,
             "progress": 0
           },
           {
-            "type": "fish",
-            "target": 7,
-            "progress": 1
+            "type": "hunt",
+            "target": 5,
+            "progress": 0
           },
           {
-            "type": "crimeSuccess",
-            "target": 3,
+            "type": "work",
+            "target": 7,
             "progress": 0
           }
         ],
-        "reward": 617,
+        "reward": 500,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -12928,6 +12928,15 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 23.28,
+      "gold": 21.42,
+      "crypto": 47.48,
+      "energy": 25.37,
+      "brazino777": 96.3,
+      "fatalmodel": 1930.42
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 23.79,
       "gold": 21.88,
       "crypto": 50.61,
@@ -12935,19 +12944,10 @@
       "brazino777": 114.65,
       "fatalmodel": 1930.42
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 26.98,
-      "gold": 22.51,
-      "crypto": 47.89,
-      "energy": 28.53,
-      "brazino777": 131.43,
-      "fatalmodel": 1721.23
-    },
     "trends": {
-      "tech": "Baixa 📉",
-      "gold": "Baixa 📉",
-      "crypto": "Baixa 📉",
+      "tech": "Alta 📈",
+      "gold": "Alta 📈",
+      "crypto": "Estável 🔹",
       "energy": "Baixa 📉",
       "brazino777": "Baixa 📉",
       "fatalmodel": "Estável 🔹"

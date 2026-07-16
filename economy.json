@@ -991,20 +991,20 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 694855,
+      "wallet": 688788,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
         "crime": 1783981332487,
         "fish": 1784077943024,
-        "explore": 1784180390135,
+        "explore": 1784182824431,
         "daily": 1784253874899,
         "rob": 1783992610327,
         "crash": 1783883655640,
         "hunt": 1784149266656,
-        "mine": 1784180088938,
+        "mine": 1784182513449,
         "blackjack": 1783572187443,
-        "trafico": 1784180386539,
+        "trafico": 1784182810537,
         "bet": 1784069438126,
         "cook": 1783973955936
       },
@@ -1047,15 +1047,15 @@
         }
       },
       "materials": {
-        "madeira": 103,
+        "madeira": 105,
         "linha": 46,
         "couro": 31,
-        "cristal": 11,
-        "pedra": 377,
+        "cristal": 12,
+        "pedra": 381,
         "corda": 26,
-        "ferro": 249,
+        "ferro": 252,
         "ouro": 27,
-        "carvao": 93,
+        "carvao": 94,
         "diamante": 6
       },
       "challenge": {
@@ -1064,7 +1064,7 @@
           {
             "type": "explore",
             "target": 3,
-            "progress": 2
+            "progress": 3
           },
           {
             "type": "fish",
@@ -1178,7 +1178,7 @@
       "skills": {
         "mining": {
           "level": 2,
-          "xp": 51
+          "xp": 52
         },
         "working": {
           "level": 1,
@@ -1190,7 +1190,7 @@
         },
         "exploring": {
           "level": 2,
-          "xp": 29
+          "xp": 30
         },
         "hunting": {
           "level": 1,
@@ -1249,10 +1249,10 @@
         "workCount": 38,
         "totalFish": 49,
         "fishCount": 49,
-        "totalExplore": 79,
-        "exploreCount": 79,
-        "totalMine": 101,
-        "mineCount": 101,
+        "totalExplore": 80,
+        "exploreCount": 80,
+        "totalMine": 102,
+        "mineCount": 102,
         "totalHunt": 18,
         "huntCount": 18,
         "totalTrafico": 112,
@@ -13244,6 +13244,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 78.29,
+      "gold": 162.22,
+      "crypto": 23.55,
+      "energy": 62.97,
+      "brazino777": 87.21,
+      "fatalmodel": 534.15,
+      "brazzers": 271.69
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 74.13,
       "gold": 162.22,
       "crypto": 25.15,
@@ -13252,22 +13262,12 @@
       "fatalmodel": 578.26,
       "brazzers": 301.34
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 69.58,
-      "gold": 144.3,
-      "crypto": 28.25,
-      "energy": 58.76,
-      "brazino777": 71.74,
-      "fatalmodel": 696.19,
-      "brazzers": 322.48
-    },
     "trends": {
-      "tech": "Alta 📈",
-      "gold": "Estável 🔹",
-      "crypto": "Baixa 📉",
+      "tech": "Baixa 📉",
+      "gold": "Alta 📈",
+      "crypto": "Alta 📈",
       "energy": "Alta 📈",
-      "brazino777": "Alta 📈",
+      "brazino777": "Baixa 📉",
       "fatalmodel": "Baixa 📉",
       "brazzers": "Baixa 📉"
     }

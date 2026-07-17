@@ -1,15 +1,15 @@
 {
   "users": {
     "62049476444182@lid": {
-      "wallet": 137163,
+      "wallet": 137583,
       "bank": 0,
       "cooldowns": {
         "work": 1783715863947,
         "bet": 1783783311545,
         "fish": 1783563497258,
-        "rob": 1783721887343,
+        "rob": 1784253111016,
         "hunt": 1783545035279,
-        "trafico": 1783815218234
+        "trafico": 1784253439221
       },
       "inventory": {},
       "items": {},
@@ -19,11 +19,11 @@
         "couro": 1
       },
       "challenge": {
-        "expiresAt": 1783814399999,
+        "expiresAt": 1784257199999,
         "tasks": [
           {
             "type": "explore",
-            "target": 6,
+            "target": 5,
             "progress": 0
           },
           {
@@ -32,39 +32,39 @@
             "progress": 0
           },
           {
-            "type": "fish",
-            "target": 7,
+            "type": "work",
+            "target": 6,
             "progress": 0
           }
         ],
-        "reward": 529,
+        "reward": 377,
         "claimed": false
       },
       "weeklyChallenge": {
-        "expiresAt": 1783911599999,
+        "expiresAt": 1784516399999,
         "tasks": [
           {
-            "type": "explore",
-            "target": 30,
+            "type": "crimeSuccess",
+            "target": 18,
             "progress": 0
           },
           {
-            "type": "crimeSuccess",
-            "target": 16,
+            "type": "mine",
+            "target": 15,
             "progress": 0
           },
           {
             "type": "hunt",
-            "target": 29,
-            "progress": 1
+            "target": 22,
+            "progress": 0
           },
           {
-            "type": "fish",
-            "target": 26,
-            "progress": 5
+            "type": "work",
+            "target": 29,
+            "progress": 0
           }
         ],
-        "reward": 4193,
+        "reward": 3383,
         "claimed": false
       },
       "monthlyChallenge": {
@@ -99,8 +99,8 @@
         "reward": 15070,
         "claimed": false
       },
-      "level": 6,
-      "exp": 692,
+      "level": 7,
+      "exp": 83,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -114,7 +114,7 @@
         ],
         "siblings": []
       },
-      "power": 190,
+      "power": 205,
       "hp": 100,
       "maxHp": 100,
       "mana": 50,
@@ -155,7 +155,7 @@
         },
         "crime": {
           "level": 1,
-          "xp": 6
+          "xp": 7
         }
       },
       "properties": {},
@@ -179,9 +179,9 @@
         "workCount": 20,
         "totalFish": 5,
         "fishCount": 5,
-        "totalTrafico": 6,
-        "traficoCount": 6,
-        "totalCrimes": 6
+        "totalTrafico": 7,
+        "traficoCount": 7,
+        "totalCrimes": 7
       },
       "farm": {
         "plots": [
@@ -206,7 +206,7 @@
         "lastDividend": 0
       },
       "lastDungeon": 1783710420095,
-      "trafico": "aviaozinhocv"
+      "trafico": "sldcv"
     },
     "166812754911326@lid": {
       "wallet": 9500,
@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 1497,
+      "wallet": 1691,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -532,7 +532,7 @@
         "explore": 1784252756691,
         "fish": 1784246122130,
         "hunt": 1784253182812,
-        "rob": 1784246838709,
+        "rob": 1784253078300,
         "mine": 1784252460224,
         "dados": 1783459700789,
         "bet": 1784247557774,
@@ -2721,8 +2721,8 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 20609,
-      "bank": 0,
+      "wallet": 0,
+      "bank": 2362323,
       "cooldowns": {
         "work": 1783468790688,
         "rob": 1783987360938,
@@ -3060,16 +3060,14 @@
       },
       "investments": {
         "stocks": {
-          "tech": 82761,
-          "brazino777": 3500000
+          "energy": 34800000
         },
-        "totalInvested": 194730847.31000003,
-        "totalProfit": 200114270.21,
+        "totalInvested": 862706003.3100001,
+        "totalProfit": 870431141.63,
         "lastDividend": 0,
         "stocksCost": {
           "crypto": 0,
-          "tech": 2300733.8100000005,
-          "brazino777": 192430111.77
+          "energy": 862706000
         }
       },
       "ingredients": {
@@ -8702,15 +8700,16 @@
       "lastDuel": 1784142030590
     },
     "78920762323072@lid": {
-      "wallet": 6328,
+      "wallet": 6601,
       "bank": 0,
       "cooldowns": {
-        "work": 1784230276936,
+        "work": 1784253431303,
         "hunt": 1784253189373,
         "bet": 1784227225054,
         "mine": 1784229978838,
         "explore": 1784252774785,
-        "fish": 1784252590511
+        "fish": 1784252590511,
+        "rob": 1784253108095
       },
       "inventory": {
         "arco_reforcado": 1,
@@ -8751,7 +8750,7 @@
           {
             "type": "work",
             "target": 6,
-            "progress": 0
+            "progress": 1
           }
         ],
         "reward": 469,
@@ -8773,7 +8772,7 @@
           {
             "type": "work",
             "target": 22,
-            "progress": 7
+            "progress": 8
           },
           {
             "type": "crimeSuccess",
@@ -8805,7 +8804,7 @@
           {
             "type": "work",
             "target": 80,
-            "progress": 14
+            "progress": 15
           },
           {
             "type": "hunt",
@@ -8817,7 +8816,7 @@
         "claimed": false
       },
       "level": 7,
-      "exp": 123,
+      "exp": 323,
       "prestige": 0,
       "classe": null,
       "clan": null,
@@ -8844,7 +8843,7 @@
         },
         "working": {
           "level": 1,
-          "xp": 14
+          "xp": 15
         },
         "fishing": {
           "level": 1,
@@ -8884,8 +8883,8 @@
       "lastWeekly": 0,
       "lastMonthly": 0,
       "stats": {
-        "totalWork": 14,
-        "workCount": 14,
+        "totalWork": 15,
+        "workCount": 15,
         "totalHunt": 2,
         "huntCount": 2,
         "totalMine": 3,
@@ -12425,6 +12424,57 @@
       "lastDaily": 0,
       "lastWeekly": 0,
       "lastMonthly": 0
+    },
+    "12202052460750@lid": {
+      "wallet": 0,
+      "bank": 0,
+      "cooldowns": {},
+      "inventory": {},
+      "items": {},
+      "job": null,
+      "tools": {},
+      "materials": {},
+      "challenge": null,
+      "weeklyChallenge": null,
+      "monthlyChallenge": null,
+      "level": 1,
+      "exp": 0,
+      "prestige": 0,
+      "classe": null,
+      "clan": null,
+      "house": null,
+      "family": null,
+      "power": 100,
+      "hp": 100,
+      "maxHp": 100,
+      "mana": 50,
+      "maxMana": 50,
+      "stamina": 100,
+      "maxStamina": 100,
+      "strength": 10,
+      "defense": 10,
+      "agility": 10,
+      "intelligence": 10,
+      "luck": 10,
+      "attackBonus": 0,
+      "defenseBonus": 0,
+      "skills": {},
+      "properties": {},
+      "pets": [],
+      "lastPetBattle": 0,
+      "totalWork": 0,
+      "totalMine": 0,
+      "totalFish": 0,
+      "totalHunt": 0,
+      "totalExplore": 0,
+      "totalCrime": 0,
+      "battlesWon": 0,
+      "battlesLost": 0,
+      "lotteryTickets": 0,
+      "createdAt": 1784252478300,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0
     }
   },
   "shop": {
@@ -13617,6 +13667,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 211.11,
+      "gold": 49.08,
+      "crypto": 63.92,
+      "energy": 26.63,
+      "brazino777": 217.22,
+      "fatalmodel": 224.89,
+      "brazzers": 409.63
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 228.22,
       "gold": 46.93,
       "crypto": 58.75,
@@ -13625,24 +13685,14 @@
       "fatalmodel": 206.19,
       "brazzers": 381.21
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 201.02,
-      "gold": 48.4,
-      "crypto": 55.95,
-      "energy": 26.03,
-      "brazino777": 236.7,
-      "fatalmodel": 229.56,
-      "brazzers": 362.08
-    },
     "trends": {
       "tech": "Baixa 📉",
       "gold": "Alta 📈",
-      "crypto": "Alta 📈",
+      "crypto": "Baixa 📉",
       "energy": "Alta 📈",
       "brazino777": "Baixa 📉",
-      "fatalmodel": "Alta 📈",
-      "brazzers": "Alta 📈"
+      "fatalmodel": "Estável 🔹",
+      "brazzers": "Estável 🔹"
     }
   },
   "dungeonParties": {

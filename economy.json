@@ -524,7 +524,7 @@
       }
     },
     "259472379355184@lid": {
-      "wallet": 27661,
+      "wallet": 0,
       "bank": 0,
       "cooldowns": {
         "work": 1783782773447,
@@ -535,11 +535,11 @@
         "rob": 1784246838709,
         "mine": 1784246039526,
         "dados": 1783459700789,
-        "bet": 1784238335994,
+        "bet": 1784247557774,
         "daily": 1784253499818,
         "crash": 1783711003889,
         "crimesair": 1783471363697,
-        "blackjack": 1783572168376,
+        "blackjack": 1784247972603,
         "cook": 1783751803038,
         "trafico": 1784246299924
       },
@@ -590,12 +590,12 @@
         "diamante": 5
       },
       "challenge": {
-        "expiresAt": 1784246399999,
+        "expiresAt": 1784257199999,
         "tasks": [
           {
-            "type": "hunt",
-            "target": 6,
-            "progress": 6
+            "type": "mine",
+            "target": 3,
+            "progress": 0
           },
           {
             "type": "work",
@@ -603,12 +603,12 @@
             "progress": 0
           },
           {
-            "type": "crimeSuccess",
-            "target": 4,
-            "progress": 1
+            "type": "fish",
+            "target": 7,
+            "progress": 0
           }
         ],
-        "reward": 647,
+        "reward": 510,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -996,7 +996,7 @@
       }
     },
     "36168003502114@lid": {
-      "wallet": 508812,
+      "wallet": 502112,
       "bank": 0,
       "cooldowns": {
         "work": 1783657123328,
@@ -1010,7 +1010,7 @@
         "mine": 1784247020019,
         "blackjack": 1783572187443,
         "trafico": 1784247311154,
-        "bet": 1784069438126,
+        "bet": 1784247176603,
         "cook": 1783973955936
       },
       "inventory": {
@@ -2719,8 +2719,8 @@
       }
     },
     "264437378322556@lid": {
-      "wallet": 126220,
-      "bank": 560238,
+      "wallet": 0,
+      "bank": 0,
       "cooldowns": {
         "work": 1783468790688,
         "rob": 1783987360938,
@@ -2731,7 +2731,7 @@
         "crimesair": 1783710534421,
         "trafiaco": 1783472782852,
         "crime": 1783895865389,
-        "bet": 1784245458060,
+        "bet": 1784247266193,
         "mine": 1784247030996,
         "trafico": 1784247324159,
         "explore": 1784247327664,
@@ -10554,14 +10554,14 @@
       "lastMonthly": 0
     },
     "229205291859991@lid": {
-      "wallet": 98251,
+      "wallet": 90016,
       "bank": 2264959,
       "cooldowns": {
         "work": 1783728008192,
         "hunt": 1784246717604,
         "fish": 1784246119428,
         "rob": 1784226289379,
-        "bet": 1784245458447,
+        "bet": 1784247294788,
         "daily": 1784324652542,
         "mine": 1784246012458,
         "trafico": 1784247254942,
@@ -10611,25 +10611,25 @@
         "ouro": 11
       },
       "challenge": {
-        "expiresAt": 1784246399999,
+        "expiresAt": 1784257199999,
         "tasks": [
-          {
-            "type": "work",
-            "target": 4,
-            "progress": 0
-          },
-          {
-            "type": "mine",
-            "target": 7,
-            "progress": 7
-          },
           {
             "type": "crimeSuccess",
             "target": 7,
-            "progress": 1
+            "progress": 0
+          },
+          {
+            "type": "hunt",
+            "target": 3,
+            "progress": 0
+          },
+          {
+            "type": "explore",
+            "target": 3,
+            "progress": 0
           }
         ],
-        "reward": 415,
+        "reward": 515,
         "claimed": false
       },
       "weeklyChallenge": {
@@ -13614,6 +13614,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 169.72,
+      "gold": 30.52,
+      "crypto": 58.64,
+      "energy": 25.54,
+      "brazino777": 178.29,
+      "fatalmodel": 178.6,
+      "brazzers": 318.63
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 153.53,
       "gold": 29.37,
       "crypto": 55.33,
@@ -13622,23 +13632,13 @@
       "fatalmodel": 202.4,
       "brazzers": 296.72
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 150.19,
-      "gold": 35.08,
-      "crypto": 51.14,
-      "energy": 23.34,
-      "brazino777": 147.24,
-      "fatalmodel": 194.84,
-      "brazzers": 354.68
-    },
     "trends": {
       "tech": "Alta 📈",
       "gold": "Alta 📈",
-      "crypto": "Alta 📈",
+      "crypto": "Estável 🔹",
       "energy": "Alta 📈",
-      "brazino777": "Baixa 📉",
-      "fatalmodel": "Baixa 📉",
+      "brazino777": "Alta 📈",
+      "fatalmodel": "Alta 📈",
       "brazzers": "Alta 📈"
     }
   },

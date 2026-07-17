@@ -7746,7 +7746,7 @@
       "lastDungeon": 1784229453283
     },
     "253257075150984@lid": {
-      "wallet": 25089,
+      "wallet": 24889,
       "bank": 1360000,
       "cooldowns": {
         "daily": 1784129633100,
@@ -7953,15 +7953,15 @@
           "speed": 12,
           "element": "fire",
           "level": 4,
-          "exp": 69,
+          "exp": 140,
           "evolutions": 0,
           "hunger": 100,
-          "mood": 40,
+          "mood": 48,
           "wins": 0,
           "losses": 1,
           "equipment": {},
-          "lastUpdate": 1784236800712,
-          "lastTrain": 1784236795194,
+          "lastUpdate": 1784258030178,
+          "lastTrain": 1784258012972,
           "cost": 15000
         }
       ],
@@ -13665,6 +13665,16 @@
   },
   "stockMarket": {
     "prices": {
+      "tech": 116.91,
+      "gold": 52.34,
+      "crypto": 49.65,
+      "energy": 40.18,
+      "brazino777": 246.91,
+      "fatalmodel": 276.43,
+      "brazzers": 273.48
+    },
+    "lastUpdate": 1783736874602,
+    "oldPrices": {
       "tech": 140.73,
       "gold": 53.64,
       "crypto": 48.49,
@@ -13673,24 +13683,14 @@
       "fatalmodel": 251.45,
       "brazzers": 267.58
     },
-    "lastUpdate": 1783736874602,
-    "oldPrices": {
-      "tech": 152.54,
-      "gold": 54.84,
-      "crypto": 46.78,
-      "energy": 33.59,
-      "brazino777": 232.86,
-      "fatalmodel": 287.35,
-      "brazzers": 315.55
-    },
     "trends": {
       "tech": "Baixa 📉",
-      "gold": "Baixa 📉",
-      "crypto": "Alta 📈",
-      "energy": "Alta 📈",
-      "brazino777": "Baixa 📉",
-      "fatalmodel": "Alta 📈",
-      "brazzers": "Alta 📈"
+      "gold": "Estável 🔹",
+      "crypto": "Baixa 📉",
+      "energy": "Baixa 📉",
+      "brazino777": "Alta 📈",
+      "fatalmodel": "Baixa 📉",
+      "brazzers": "Baixa 📉"
     }
   },
   "dungeonParties": {
